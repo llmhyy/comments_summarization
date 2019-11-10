@@ -1,5 +1,6 @@
 import scrapy
 from scrapy.crawler import CrawlerProcess
+import re
 
 
 """
@@ -43,7 +44,8 @@ and compare the various descriptions for consistency/conflict.
 class AstroSpider(scrapy.Spider):
     name = 'astro_spider'
     # start_urls = ['https://astrolibrary.org/interpretations/']
-    start_urls = ['https://astrolibrary.org/interpretations/category/planets-in-signs/']
+    # start_urls = ['https://astrolibrary.org/interpretations/category/planets-in-signs/']
+    start_urls = ['https://astrolibrary.org/interpretations/sun/']
     desc_links = []
     data = []
 
@@ -62,7 +64,7 @@ class AstroSpider(scrapy.Spider):
                 print(next_page)
 
     # first find links to descriptions from /category/planets-in-signs
-    def parse(self, response):
+    def parse1(self, response):
         LIST_SELECTOR = '.listnice'
         LI_SELECTOR = 'li'
         LINK_SELECTOR = 'a ::attr(href)'
@@ -82,15 +84,17 @@ class AstroSpider(scrapy.Spider):
                     )
                     print(next_page)
 
-    def parse_normal(self, response):
+    def parse(self, response):
         # find <div id="ris">
         # split descriptions with <h2> tag
         # for each <h2> tag, extract feature name.
         # use each <h2> tag, extract descriptions from <p> tags, making sure to remove
         # google ads.
-        DIV_SELECTOR = 'div id="ris"'
-
-        pass
+        selected = response.xpath('//div[@id="ris"]').extract()
+        x = re.split("<h2", selected[0])
+        print(x)
+        # I've gotten the all the h2 and p tags in this long string. But i need to split
+        # it up.
 
     def parse_pof(self, response):
         # use this method if the preceding URL contained "part-of-fortune". This is due to
@@ -110,7 +114,7 @@ def main():
 
     process.crawl(AstroSpider)
     process.start()  # the script will block here until the crawling is finished
-    print(AstroSpider.data)
+    # print(AstroSpider.data)
     # todo: remove final links that have the substring 'category'
 
 
