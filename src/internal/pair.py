@@ -1,7 +1,7 @@
-'''
-This program generates all sentence pairs from the desired datasets
+"""
+This script generates all sentence pairs from the desired data sets
 and saves the pairs as rows in a csv file for labelling later.
-'''
+"""
 
 import itertools
 import json
@@ -26,12 +26,9 @@ sentences = []
 # print(sentences, '\n')
 
 '''
-('../data/planets-in-signs/planets-in-signs_ascendant_data.json', 'Virgo Rising'),
-('../data/planets-in-signs/planets-in-signs_moon_data.json', 'Moon in Cancer'),
-('../data/planets-in-signs/planets-in-signs_mercury_data.json', 'Mercury in Gemini'),
-('../data/planets-in-signs/planets-in-signs_venus_data.json', 'Venus in Taurus')
+specify path to json files and feature to pull.
+e.g. [(PATH_TO_JSON_FILE, FEATURE_NAME)]
 '''
-
 data_list = [
     ('../data/planets-in-signs/planets-in-signs_ascendant_data.json', 'Virgo Rising'),
     ('../data/planets-in-signs/planets-in-signs_moon_data.json', 'Moon in Cancer'),
@@ -54,21 +51,6 @@ pairs_list = list(itertools.combinations(sentences, 2))
 print('no. of sentences: ', len(sentences))
 print('no. of sentence pairs: ', len(pairs_list), '\n')
 
-# manually label a pair of sentences and record in a DataFrame.
-# print('read the pair of sentences and give it a contradiction score from ',
-#       '0 to 10, where 0 is most consistent and 10 is most contradictory.\n')
-# data = []
-# for pair in pairs_list:
-#     score = 1
-#     print(pair[0], '\n')
-#     print(pair[1], '\n')
-#     score = input()
-#     data.append([pair[0], pair[1], score])
-#
-# df = pd.DataFrame(data=data, columns=['first', 'second', 'contra_score'])
-# print(df)
-# path = input()
-# df.to_csv(path)
 
 # generate all sentence pairs and save into a csv for manual labelling.
 data = []
