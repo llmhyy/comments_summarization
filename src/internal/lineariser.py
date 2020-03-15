@@ -1,5 +1,6 @@
 from nltk.parse import corenlp
 from nltk.tree import Tree
+import re
 
 
 class Lineariser:
@@ -171,9 +172,27 @@ class Lineariser:
                     # print('left ', left)
                     # print(components_phrase)
                     # print('right ', right)
+                    
+                    # find NN-like symbols, e.g. NP, NNS.
+                    children_labels = []
                     for child in components_tree:
-                        if child.label() in ['ADJP', 'JJ', 'VP', 'VB', 'NP', 'NN', 'NNS']:
-                            components.append(child.leaves())
+                        children_labels.append(child.label())
+                        r = re.compile("N\D*")
+                        search_result = list(filter(r.match, children_labels))
+                     
+                    if len(search_result) == 1:  # only one NN-like found
+                        if children_labels[-1] in search_result: # likely the case of "a JJ and JJ NP."
+                            # append components_tree[-1] phrase to start of 'right' phrase.
+                            new = " ".join(components_tree[-1].leaves())
+                            right = new + " " + right
+                            # add all but tree[-1] to components list:
+                            for child in components_tree[:-1]:
+                                if child.label() in ['ADJP', 'JJ', 'VP', 'VB', 'NP', 'NN', 'NNS', 'NNP', 'NNPS']:
+                                    components.append(child.leaves())
+                    else:    
+                        for child in components_tree:
+                            if child.label() in ['ADJP', 'JJ', 'VP', 'VB', 'NP', 'NN', 'NNS', 'NNP', 'NNPS']:
+                                components.append(child.leaves())
 
                     # find adverbs if they exist, and preserve ordering.
                     # this is for the particular case of adverb co-occuring with conjunct phrases.
@@ -201,8 +220,6 @@ class Lineariser:
                         # whitespace.
                         final_sents.append(final_sent)
                     return final_sents
-                else:
-                    Exception('Sentence not decomposable.')
-
         else:
-            raise Exception('Sentence structure not covered by function.')
+            print("Warning: Sentence structure not covered by function.")
+        return None
