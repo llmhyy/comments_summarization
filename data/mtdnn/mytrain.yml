@@ -1,0 +1,14 @@
+mytrain:
+  data_format: PremiseAndOneHypothesis
+  encoder_type: BERT
+  enable_san: true
+  labels:
+  - contradiction
+  - neutral
+  - entailment
+  metric_meta:
+  - ACC
+  loss: CeCriterion
+  kd_loss: MseCriterion
+  n_class: 3
+  task_type: Classification

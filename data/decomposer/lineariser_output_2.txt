@@ -238,7 +238,7 @@ problematic sentences:
 0: (parser - sentence too long/confusing for parser?)
 "People with Virgo rising tend to be practical, analytical, discriminating, fastidious, careful, exacting, attentive to details, methodical, quiet, unassuming, shy, critical, thoughtful, and somewhat self-centered."
 
-21 (missing pronoun 'your')
+21 (lineariser - missing pronoun 'your' - need to fix this)
 "Anyone who lives with you must accept your ups and downs and appreciate your need for times of withdrawal."
 
 22 (parser)
