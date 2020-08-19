@@ -173,6 +173,9 @@ class Lineariser:
                     # print(components_phrase)
                     # print('right ', right)
                     
+                    #components_tree.pretty_print()  # for debugging
+                    and_index = components_tree.leaves().index("and")
+                    
                     # find NN-like symbols, e.g. NP, NNS.
                     children_labels = []
                     for child in components_tree:
@@ -181,14 +184,24 @@ class Lineariser:
                         search_result = list(filter(r.match, children_labels))
                      
                     if len(search_result) == 1:  # only one NN-like found
-                        if children_labels[-1] in search_result: # likely the case of "a JJ and JJ NP."
-                            # append components_tree[-1] phrase to start of 'right' phrase.
-                            new = " ".join(components_tree[-1].leaves())
-                            right = new + " " + right
-                            # add all but tree[-1] to components list:
-                            for child in components_tree[:-1]:
-                                if child.label() in ['ADJP', 'JJ', 'VP', 'VB', 'NP', 'NN', 'NNS', 'NNP', 'NNPS']:
-                                    components.append(child.leaves())
+                        #print("last component is a noun-like POS.")  # for debug
+                        if and_index > -1: 
+                            if components_tree.leaves()[and_index - 1] == ',':
+                                #print("comma before and") # for debug
+                                #Likely the case of "JJ, JJ, and NP."
+                                for child in components_tree:
+                                    if child.label() in ['ADJP', 'JJ', 'VP', 'VB', 'NP', 'NN', 'NNS', 'NNP', 'NNPS']:
+                                        components.append(child.leaves())
+                            else:
+                                #Likely the case of "JJ and JJ NP."
+                                # append components_tree[-1] phrase to start of 'right' phrase.
+                                # this is a v crude workaround. should improve this next time.
+                                new = " ".join(components_tree[-1].leaves())
+                                right = new + " " + right
+                                # add all but Tree[-1] to components list:
+                                for child in components_tree[:-1]:
+                                    if child.label() in ['ADJP', 'JJ', 'VP', 'VB', 'NP', 'NN', 'NNS', 'NNP', 'NNPS']:
+                                        components.append(child.leaves())
                     else:    
                         for child in components_tree:
                             if child.label() in ['ADJP', 'JJ', 'VP', 'VB', 'NP', 'NN', 'NNS', 'NNP', 'NNPS']:
