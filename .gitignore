@@ -4,3 +4,5 @@ env/
 data/.ipynb_checkpoints/
 src/.ipynb_checkpoints/
 src/secretkeys.py
+data/decomposer/.ipynb_checkpoints/lineariser_output_3_clean-checkpoint.json
+data/decomposer/.ipynb_checkpoints/lineariser_output_3-checkpoint.json
