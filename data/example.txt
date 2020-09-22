@@ -1,8 +1,0 @@
-no. of sentences: 61
-no. of sentence pairs: 1830
-
-features:
-virgo rising
-moon in cancer
-mercury in gemini
-venus in taurus
