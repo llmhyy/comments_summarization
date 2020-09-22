@@ -1,0 +1,47 @@
+,candidate,max_similarity,max_defn,connected_trait,accurate?
+0,Debate and argument appeal to you.,0.9960099459,in keeping with the facts,straight,0
+1,"Keeping things going is your strength, especially once someone else starts them.",0.9927407503,abounding; having a lot of,thick,0
+2,Money and possessions are important to you for the feelings of security they bring.,0.9952566624,without envy or reluctance,ungrudging,0
+3,"Whatever you have set your sights on, you refuse to give up or let go of it.",0.9942933917,worthy of being depended on,honest,0
+4,You are adventurous.,0.9959880114,not to be taken lightly,real,0
+5,You are consistent.,0.9947729111,without envy or reluctance,ungrudging,0
+6,You are courageous.,0.9939997196,obliging; willing to do favors,accommodating,0
+7,You are gentle.,0.9938843846,friendly and open and willing to talk,talkative,0
+8,You are handy with your hands.,0.9940705299,capable of adapting (of becoming or being made suitable) to a particular situation or use,adaptable,1
+9,You are independent.,0.9947980642,without envy or reluctance,ungrudging,0
+10,You are patient unless someone takes you too far.,0.995729506,not to your liking,disagreeable,0
+11,You are quiet.,0.9948355556,friendly and open and willing to talk,talkative,0
+12,You are reliable.,0.9947670698,not to be taken lightly,real,0
+13,You are sensitive.,0.9940704703,friendly and open and willing to talk,talkative,0
+14,You are sentimental.,0.9952540398,without envy or reluctance,ungrudging,0
+15,You are shy.,0.9954160452,friendly and open and willing to talk,talkative,0
+16,"You are usually outspoken, sometimes to the point of bluntness.",0.9924555421,of e.g. advice,unsound,0
+17,You are usually slow to anger unless someone takes you too far.,0.9947612286,annoyed and irritable,grumpy,0
+18,"You are very direct in thought, action, and speech and everyone knows how you feel.",0.9951356649,not deviating from what is normal,regular,1
+19,You can handle more of the workload than most around you.,0.9929357767,having a high state of culture and development both social and technological,civilized,0
+20,You enjoy building and seeing the results of your hard work.,0.9945940971,having a high state of culture and development both social and technological,civilized,0
+21,You grasp concepts easily.,0.9956967235,not to be taken lightly,real,0
+22,You have common sense to manage others.,0.9956788421,not to your liking,disagreeable,0
+23,You have the ability to manage others.,0.994436264,having the ability or power to create,creative,0
+24,You may be a bit of a perfectionist.,0.9947019815,not to your liking,disagreeable,1
+25,You may be ambidextrous or mechanically inclined.,0.9966493249,not to your liking,disagreeable,0
+26,You may become impatient with those who do n't learn as quickly.,0.9967480302,not to your liking,disagreeable,1
+27,You never find it difficult to change your mind or course in mid-stream.,0.9964906573,offering little or no hope,dim,0
+28,You never give up.,0.9960384965,offering little or no hope,dim,0
+29,"You prefer a regular routine, defined responsibilities.",0.9949997663,without care or thought for others,thoughtless,0
+30,"You prefer a regular routine, defined tasks.",0.9956719875,having nothing extraneous,uncluttered,0
+31,You tend to be dependable.,0.9948339462,not to your liking,disagreeable,0
+32,You tend to be friendly.,0.9958742261,not to your liking,disagreeable,0
+33,You tend to be honest.,0.9944183826,not easily irritated,placid,0
+34,You tend to be idealistic.,0.9956201315,having nothing extraneous,uncluttered,0
+35,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.9965111613,serving no useful purpose; having no excuse for being,senseless,0
+36,You tend to be open-minded.,0.9934098125,friendly and open and willing to talk,talkative,1
+37,You tend to be optimistic.,0.994707644,having nothing extraneous,uncluttered,0
+38,You tend to be versatile.,0.9951907396,not easy to understand or use,unfriendly,0
+39,Your mind is analytical.,0.9955056906,aware intuitively or intellectually of something sensed,sensible,1
+40,Your mind is deep.,0.9950431585,aware intuitively or intellectually of something sensed,sensible,1
+41,Your work is usually neat.,0.9934341311,having a useful function,useful,0
+42,Your work is usually orderly.,0.9932842255,overcrowded or cluttered with detail,busy,0
+43,you dislike dirt.,0.9957718849,not to be taken lightly,real,0
+44,you dislike messes.,0.9972797036,not to your liking,disagreeable,0
+45,you probably have a good head for numbers.,0.9947385192,not to be taken lightly,real,0

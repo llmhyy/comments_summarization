@@ -1,0 +1,1082 @@
+,first_index,second_index,relation_score,first,second,dist
+0,0,1,0.0,You never give up.,You never find it difficult to change your mind or course in mid-stream.,0.5
+1,0,2,0.0,You never give up.,"Whatever you have set your sights on, you refuse to give up or let go of it.",0.5
+2,0,3,0.0,You never give up.,You are patient unless someone takes you too far.,0.5
+3,0,4,0.0079284872367475,You never give up.,You are usually slow to anger unless someone takes you too far.,0.4960357563816262
+4,0,5,-0.4161453307671559,You never give up.,You are reliable.,0.7080726653835779
+5,0,6,-0.34617452108896524,You never give up.,You are consistent.,0.6730872605444826
+6,0,7,-0.13634766789699912,You never give up.,You can handle more of the workload than most around you.,0.5681738339484995
+7,0,8,-0.4593032910832686,You never give up.,"You prefer a regular routine, defined responsibilities.",0.7296516455416343
+8,0,9,-0.4593032910832686,You never give up.,"You prefer a regular routine, defined tasks.",0.7296516455416343
+9,0,10,-0.18989686030414366,You never give up.,You enjoy building and seeing the results of your hard work.,0.5949484301520718
+10,0,11,-0.13634766789699912,You never give up.,"Keeping things going is your strength, especially once someone else starts them.",0.5681738339484995
+11,0,12,-0.4161453307671559,You never give up.,Money and possessions are important to you for the feelings of security they bring.,0.7080726653835779
+12,0,13,-0.13634766789699912,You never give up.,You are handy with your hands.,0.5681738339484995
+13,0,14,-0.3886353965177707,You never give up.,You may be ambidextrous or mechanically inclined.,0.6943176982588853
+14,0,15,0.03738641920218447,You never give up.,Debate and argument appeal to you.,0.4813067903989078
+15,0,16,-0.2020138855475802,You never give up.,You grasp concepts easily.,0.6010069427737901
+16,0,17,-0.13634766789699912,You never give up.,You may become impatient with those who do n't learn as quickly.,0.5681738339484995
+17,0,18,-0.3453956956776648,You never give up.,"You are very direct in thought, action, and speech and everyone knows how you feel.",0.6726978478388324
+18,0,19,0.0016078785623010027,You never give up.,You are adventurous.,0.4991960607188495
+19,0,20,-0.008003323185341055,You never give up.,You are courageous.,0.5040016615926706
+20,0,21,-0.13634766789699912,You never give up.,You are independent.,0.5681738339484995
+21,0,22,-0.03895786091486309,You never give up.,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.5194789304574315
+22,0,23,-0.05755945656783848,You never give up.,You have common sense to manage others.,0.5287797282839193
+23,0,24,-0.04451028638562202,You never give up.,You have the ability to manage others.,0.522255143192811
+24,0,25,-0.18989686030414366,You never give up.,You may be a bit of a perfectionist.,0.5949484301520718
+25,0,26,-0.18989686030414366,You never give up.,Your mind is deep.,0.5949484301520718
+26,0,27,-0.18989686030414366,You never give up.,Your mind is analytical.,0.5949484301520718
+27,0,28,-0.05755945656783848,You never give up.,you probably have a good head for numbers.,0.5287797282839193
+28,0,29,-0.18989686030414366,You never give up.,Your work is usually neat.,0.5949484301520718
+29,0,30,-0.13634766789699912,You never give up.,Your work is usually orderly.,0.5681738339484995
+30,0,31,-0.22929478120473978,You never give up.,you dislike messes.,0.61464739060237
+31,0,32,0.020408978009656763,You never give up.,you dislike dirt.,0.4897955109951716
+32,0,33,-0.14074954258204175,You never give up.,You tend to be idealistic.,0.5703747712910209
+33,0,34,-0.4593032910832686,You never give up.,You tend to be optimistic.,0.7296516455416343
+34,0,35,-0.4161453307671559,You never give up.,You tend to be dependable.,0.7080726653835779
+35,0,36,-0.14074954258204175,You never give up.,You tend to be open-minded.,0.5703747712910209
+36,0,37,0.0,You never give up.,You tend to be friendly.,0.5
+37,0,38,-0.15278145949877997,You never give up.,You tend to be honest.,0.57639072974939
+38,0,39,0.0,You never give up.,You tend to be versatile.,0.5
+39,0,40,0.0,You never give up.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+40,0,41,0.06818088837995481,You never give up.,You are quiet.,0.4659095558100226
+41,0,42,0.002673302210739496,You never give up.,You are shy.,0.49866334889463027
+42,0,43,-0.18989686030414366,You never give up.,You are sensitive.,0.5949484301520718
+43,0,44,-0.032425510483298566,You never give up.,You are sentimental.,0.5162127552416493
+44,0,45,-0.18989686030414366,You never give up.,You are gentle.,0.5949484301520718
+45,0,46,-0.18293086890156113,You never give up.,You are romantic.,0.5914654344507806
+46,1,2,0.0,You never find it difficult to change your mind or course in mid-stream.,"Whatever you have set your sights on, you refuse to give up or let go of it.",0.5
+47,1,3,0.0,You never find it difficult to change your mind or course in mid-stream.,You are patient unless someone takes you too far.,0.5
+48,1,4,0.0,You never find it difficult to change your mind or course in mid-stream.,You are usually slow to anger unless someone takes you too far.,0.5
+49,1,5,0.0,You never find it difficult to change your mind or course in mid-stream.,You are reliable.,0.5
+50,1,6,0.0,You never find it difficult to change your mind or course in mid-stream.,You are consistent.,0.5
+51,1,7,0.0,You never find it difficult to change your mind or course in mid-stream.,You can handle more of the workload than most around you.,0.5
+52,1,8,0.0,You never find it difficult to change your mind or course in mid-stream.,"You prefer a regular routine, defined responsibilities.",0.5
+53,1,9,0.0,You never find it difficult to change your mind or course in mid-stream.,"You prefer a regular routine, defined tasks.",0.5
+54,1,10,0.0,You never find it difficult to change your mind or course in mid-stream.,You enjoy building and seeing the results of your hard work.,0.5
+55,1,11,0.0,You never find it difficult to change your mind or course in mid-stream.,"Keeping things going is your strength, especially once someone else starts them.",0.5
+56,1,12,0.0,You never find it difficult to change your mind or course in mid-stream.,Money and possessions are important to you for the feelings of security they bring.,0.5
+57,1,13,0.0,You never find it difficult to change your mind or course in mid-stream.,You are handy with your hands.,0.5
+58,1,14,0.0,You never find it difficult to change your mind or course in mid-stream.,You may be ambidextrous or mechanically inclined.,0.5
+59,1,15,0.0,You never find it difficult to change your mind or course in mid-stream.,Debate and argument appeal to you.,0.5
+60,1,16,0.0,You never find it difficult to change your mind or course in mid-stream.,You grasp concepts easily.,0.5
+61,1,17,0.0,You never find it difficult to change your mind or course in mid-stream.,You may become impatient with those who do n't learn as quickly.,0.5
+62,1,18,0.0,You never find it difficult to change your mind or course in mid-stream.,"You are very direct in thought, action, and speech and everyone knows how you feel.",0.5
+63,1,19,0.0,You never find it difficult to change your mind or course in mid-stream.,You are adventurous.,0.5
+64,1,20,0.0,You never find it difficult to change your mind or course in mid-stream.,You are courageous.,0.5
+65,1,21,0.0,You never find it difficult to change your mind or course in mid-stream.,You are independent.,0.5
+66,1,22,0.0,You never find it difficult to change your mind or course in mid-stream.,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.5
+67,1,23,0.0,You never find it difficult to change your mind or course in mid-stream.,You have common sense to manage others.,0.5
+68,1,24,0.0,You never find it difficult to change your mind or course in mid-stream.,You have the ability to manage others.,0.5
+69,1,25,0.0,You never find it difficult to change your mind or course in mid-stream.,You may be a bit of a perfectionist.,0.5
+70,1,26,0.0,You never find it difficult to change your mind or course in mid-stream.,Your mind is deep.,0.5
+71,1,27,0.0,You never find it difficult to change your mind or course in mid-stream.,Your mind is analytical.,0.5
+72,1,28,0.0,You never find it difficult to change your mind or course in mid-stream.,you probably have a good head for numbers.,0.5
+73,1,29,0.0,You never find it difficult to change your mind or course in mid-stream.,Your work is usually neat.,0.5
+74,1,30,0.0,You never find it difficult to change your mind or course in mid-stream.,Your work is usually orderly.,0.5
+75,1,31,0.0,You never find it difficult to change your mind or course in mid-stream.,you dislike messes.,0.5
+76,1,32,0.0,You never find it difficult to change your mind or course in mid-stream.,you dislike dirt.,0.5
+77,1,33,0.0,You never find it difficult to change your mind or course in mid-stream.,You tend to be idealistic.,0.5
+78,1,34,0.0,You never find it difficult to change your mind or course in mid-stream.,You tend to be optimistic.,0.5
+79,1,35,0.0,You never find it difficult to change your mind or course in mid-stream.,You tend to be dependable.,0.5
+80,1,36,0.0,You never find it difficult to change your mind or course in mid-stream.,You tend to be open-minded.,0.5
+81,1,37,0.0,You never find it difficult to change your mind or course in mid-stream.,You tend to be friendly.,0.5
+82,1,38,0.0,You never find it difficult to change your mind or course in mid-stream.,You tend to be honest.,0.5
+83,1,39,0.0,You never find it difficult to change your mind or course in mid-stream.,You tend to be versatile.,0.5
+84,1,40,0.0,You never find it difficult to change your mind or course in mid-stream.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+85,1,41,0.0,You never find it difficult to change your mind or course in mid-stream.,You are quiet.,0.5
+86,1,42,0.0,You never find it difficult to change your mind or course in mid-stream.,You are shy.,0.5
+87,1,43,0.0,You never find it difficult to change your mind or course in mid-stream.,You are sensitive.,0.5
+88,1,44,0.0,You never find it difficult to change your mind or course in mid-stream.,You are sentimental.,0.5
+89,1,45,0.0,You never find it difficult to change your mind or course in mid-stream.,You are gentle.,0.5
+90,1,46,0.0,You never find it difficult to change your mind or course in mid-stream.,You are romantic.,0.5
+91,2,3,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You are patient unless someone takes you too far.,0.5
+92,2,4,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You are usually slow to anger unless someone takes you too far.,0.5
+93,2,5,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You are reliable.,0.5
+94,2,6,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You are consistent.,0.5
+95,2,7,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You can handle more of the workload than most around you.,0.5
+96,2,8,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.","You prefer a regular routine, defined responsibilities.",0.5
+97,2,9,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.","You prefer a regular routine, defined tasks.",0.5
+98,2,10,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You enjoy building and seeing the results of your hard work.,0.5
+99,2,11,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.","Keeping things going is your strength, especially once someone else starts them.",0.5
+100,2,12,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",Money and possessions are important to you for the feelings of security they bring.,0.5
+101,2,13,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You are handy with your hands.,0.5
+102,2,14,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You may be ambidextrous or mechanically inclined.,0.5
+103,2,15,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",Debate and argument appeal to you.,0.5
+104,2,16,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You grasp concepts easily.,0.5
+105,2,17,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You may become impatient with those who do n't learn as quickly.,0.5
+106,2,18,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.","You are very direct in thought, action, and speech and everyone knows how you feel.",0.5
+107,2,19,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You are adventurous.,0.5
+108,2,20,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You are courageous.,0.5
+109,2,21,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You are independent.,0.5
+110,2,22,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.","You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.5
+111,2,23,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You have common sense to manage others.,0.5
+112,2,24,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You have the ability to manage others.,0.5
+113,2,25,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You may be a bit of a perfectionist.,0.5
+114,2,26,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",Your mind is deep.,0.5
+115,2,27,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",Your mind is analytical.,0.5
+116,2,28,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",you probably have a good head for numbers.,0.5
+117,2,29,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",Your work is usually neat.,0.5
+118,2,30,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",Your work is usually orderly.,0.5
+119,2,31,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",you dislike messes.,0.5
+120,2,32,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",you dislike dirt.,0.5
+121,2,33,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You tend to be idealistic.,0.5
+122,2,34,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You tend to be optimistic.,0.5
+123,2,35,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You tend to be dependable.,0.5
+124,2,36,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You tend to be open-minded.,0.5
+125,2,37,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You tend to be friendly.,0.5
+126,2,38,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You tend to be honest.,0.5
+127,2,39,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You tend to be versatile.,0.5
+128,2,40,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.","You are usually outspoken, sometimes to the point of bluntness.",0.5
+129,2,41,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You are quiet.,0.5
+130,2,42,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You are shy.,0.5
+131,2,43,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You are sensitive.,0.5
+132,2,44,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You are sentimental.,0.5
+133,2,45,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You are gentle.,0.5
+134,2,46,0.0,"Whatever you have set your sights on, you refuse to give up or let go of it.",You are romantic.,0.5
+135,3,4,0.0,You are patient unless someone takes you too far.,You are usually slow to anger unless someone takes you too far.,0.5
+136,3,5,0.0,You are patient unless someone takes you too far.,You are reliable.,0.5
+137,3,6,0.0,You are patient unless someone takes you too far.,You are consistent.,0.5
+138,3,7,0.0,You are patient unless someone takes you too far.,You can handle more of the workload than most around you.,0.5
+139,3,8,0.0,You are patient unless someone takes you too far.,"You prefer a regular routine, defined responsibilities.",0.5
+140,3,9,0.0,You are patient unless someone takes you too far.,"You prefer a regular routine, defined tasks.",0.5
+141,3,10,0.0,You are patient unless someone takes you too far.,You enjoy building and seeing the results of your hard work.,0.5
+142,3,11,0.0,You are patient unless someone takes you too far.,"Keeping things going is your strength, especially once someone else starts them.",0.5
+143,3,12,0.0,You are patient unless someone takes you too far.,Money and possessions are important to you for the feelings of security they bring.,0.5
+144,3,13,0.0,You are patient unless someone takes you too far.,You are handy with your hands.,0.5
+145,3,14,0.0,You are patient unless someone takes you too far.,You may be ambidextrous or mechanically inclined.,0.5
+146,3,15,0.0,You are patient unless someone takes you too far.,Debate and argument appeal to you.,0.5
+147,3,16,0.0,You are patient unless someone takes you too far.,You grasp concepts easily.,0.5
+148,3,17,0.0,You are patient unless someone takes you too far.,You may become impatient with those who do n't learn as quickly.,0.5
+149,3,18,0.0,You are patient unless someone takes you too far.,"You are very direct in thought, action, and speech and everyone knows how you feel.",0.5
+150,3,19,0.0,You are patient unless someone takes you too far.,You are adventurous.,0.5
+151,3,20,0.0,You are patient unless someone takes you too far.,You are courageous.,0.5
+152,3,21,0.0,You are patient unless someone takes you too far.,You are independent.,0.5
+153,3,22,0.0,You are patient unless someone takes you too far.,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.5
+154,3,23,0.0,You are patient unless someone takes you too far.,You have common sense to manage others.,0.5
+155,3,24,0.0,You are patient unless someone takes you too far.,You have the ability to manage others.,0.5
+156,3,25,0.0,You are patient unless someone takes you too far.,You may be a bit of a perfectionist.,0.5
+157,3,26,0.0,You are patient unless someone takes you too far.,Your mind is deep.,0.5
+158,3,27,0.0,You are patient unless someone takes you too far.,Your mind is analytical.,0.5
+159,3,28,0.0,You are patient unless someone takes you too far.,you probably have a good head for numbers.,0.5
+160,3,29,0.0,You are patient unless someone takes you too far.,Your work is usually neat.,0.5
+161,3,30,0.0,You are patient unless someone takes you too far.,Your work is usually orderly.,0.5
+162,3,31,0.0,You are patient unless someone takes you too far.,you dislike messes.,0.5
+163,3,32,0.0,You are patient unless someone takes you too far.,you dislike dirt.,0.5
+164,3,33,0.0,You are patient unless someone takes you too far.,You tend to be idealistic.,0.5
+165,3,34,0.0,You are patient unless someone takes you too far.,You tend to be optimistic.,0.5
+166,3,35,0.0,You are patient unless someone takes you too far.,You tend to be dependable.,0.5
+167,3,36,0.0,You are patient unless someone takes you too far.,You tend to be open-minded.,0.5
+168,3,37,0.0,You are patient unless someone takes you too far.,You tend to be friendly.,0.5
+169,3,38,0.0,You are patient unless someone takes you too far.,You tend to be honest.,0.5
+170,3,39,0.0,You are patient unless someone takes you too far.,You tend to be versatile.,0.5
+171,3,40,0.0,You are patient unless someone takes you too far.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+172,3,41,0.0,You are patient unless someone takes you too far.,You are quiet.,0.5
+173,3,42,0.0,You are patient unless someone takes you too far.,You are shy.,0.5
+174,3,43,0.0,You are patient unless someone takes you too far.,You are sensitive.,0.5
+175,3,44,0.0,You are patient unless someone takes you too far.,You are sentimental.,0.5
+176,3,45,0.0,You are patient unless someone takes you too far.,You are gentle.,0.5
+177,3,46,0.0,You are patient unless someone takes you too far.,You are romantic.,0.5
+178,4,5,0.11698918912090432,You are usually slow to anger unless someone takes you too far.,You are reliable.,0.44150540543954786
+179,4,6,0.07852156364400917,You are usually slow to anger unless someone takes you too far.,You are consistent.,0.4607392181779954
+180,4,7,0.18886569996455121,You are usually slow to anger unless someone takes you too far.,You can handle more of the workload than most around you.,0.40556715001772436
+181,4,8,0.10564672226860525,You are usually slow to anger unless someone takes you too far.,"You prefer a regular routine, defined responsibilities.",0.44717663886569736
+182,4,9,0.10564672226860525,You are usually slow to anger unless someone takes you too far.,"You prefer a regular routine, defined tasks.",0.44717663886569736
+183,4,10,-0.1080758032742613,You are usually slow to anger unless someone takes you too far.,You enjoy building and seeing the results of your hard work.,0.5540379016371306
+184,4,11,0.18886569996455121,You are usually slow to anger unless someone takes you too far.,"Keeping things going is your strength, especially once someone else starts them.",0.40556715001772436
+185,4,12,0.11698918912090432,You are usually slow to anger unless someone takes you too far.,Money and possessions are important to you for the feelings of security they bring.,0.44150540543954786
+186,4,13,0.18886569996455121,You are usually slow to anger unless someone takes you too far.,You are handy with your hands.,0.40556715001772436
+187,4,14,0.08319636166458755,You are usually slow to anger unless someone takes you too far.,You may be ambidextrous or mechanically inclined.,0.4584018191677062
+188,4,15,0.1986230491872239,You are usually slow to anger unless someone takes you too far.,Debate and argument appeal to you.,0.4006884754063881
+189,4,16,0.047286830948310536,You are usually slow to anger unless someone takes you too far.,You grasp concepts easily.,0.47635658452584473
+190,4,17,0.18886569996455121,You are usually slow to anger unless someone takes you too far.,You may become impatient with those who do n't learn as quickly.,0.40556715001772436
+191,4,18,0.07123219985425486,You are usually slow to anger unless someone takes you too far.,"You are very direct in thought, action, and speech and everyone knows how you feel.",0.46438390007287256
+192,4,19,0.008542185894827145,You are usually slow to anger unless someone takes you too far.,You are adventurous.,0.49572890705258643
+193,4,20,0.00920419795027143,You are usually slow to anger unless someone takes you too far.,You are courageous.,0.4953979010248643
+194,4,21,0.18886569996455121,You are usually slow to anger unless someone takes you too far.,You are independent.,0.40556715001772436
+195,4,22,0.02380621581979659,You are usually slow to anger unless someone takes you too far.,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.4880968920901017
+196,4,23,0.03517320544161059,You are usually slow to anger unless someone takes you too far.,You have common sense to manage others.,0.4824133972791947
+197,4,24,0.027199170052296377,You are usually slow to anger unless someone takes you too far.,You have the ability to manage others.,0.48640041497385184
+198,4,25,-0.1080758032742613,You are usually slow to anger unless someone takes you too far.,You may be a bit of a perfectionist.,0.5540379016371306
+199,4,26,-0.1080758032742613,You are usually slow to anger unless someone takes you too far.,Your mind is deep.,0.5540379016371306
+200,4,27,-0.1080758032742613,You are usually slow to anger unless someone takes you too far.,Your mind is analytical.,0.5540379016371306
+201,4,28,0.03517320544161059,You are usually slow to anger unless someone takes you too far.,you probably have a good head for numbers.,0.4824133972791947
+202,4,29,-0.1080758032742613,You are usually slow to anger unless someone takes you too far.,Your work is usually neat.,0.5540379016371306
+203,4,30,0.18886569996455121,You are usually slow to anger unless someone takes you too far.,Your work is usually orderly.,0.40556715001772436
+204,4,31,-0.08950598704776047,You are usually slow to anger unless someone takes you too far.,you dislike messes.,0.5447529935238802
+205,4,32,0.10842689750924772,You are usually slow to anger unless someone takes you too far.,you dislike dirt.,0.44578655124537614
+206,4,33,0.09463130662450361,You are usually slow to anger unless someone takes you too far.,You tend to be idealistic.,0.4526843466877482
+207,4,34,0.10564672226860525,You are usually slow to anger unless someone takes you too far.,You tend to be optimistic.,0.44717663886569736
+208,4,35,0.11698918912090432,You are usually slow to anger unless someone takes you too far.,You tend to be dependable.,0.44150540543954786
+209,4,36,0.09463130662450361,You are usually slow to anger unless someone takes you too far.,You tend to be open-minded.,0.4526843466877482
+210,4,37,0.0,You are usually slow to anger unless someone takes you too far.,You tend to be friendly.,0.5
+211,4,38,0.21162941570545105,You are usually slow to anger unless someone takes you too far.,You tend to be honest.,0.3941852921472745
+212,4,39,0.0,You are usually slow to anger unless someone takes you too far.,You tend to be versatile.,0.5
+213,4,40,0.0,You are usually slow to anger unless someone takes you too far.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+214,4,41,-0.041663708053832446,You are usually slow to anger unless someone takes you too far.,You are quiet.,0.5208318540269162
+215,4,42,0.04512328358735193,You are usually slow to anger unless someone takes you too far.,You are shy.,0.477438358206324
+216,4,43,-0.1080758032742613,You are usually slow to anger unless someone takes you too far.,You are sensitive.,0.5540379016371306
+217,4,44,0.019814452911555484,You are usually slow to anger unless someone takes you too far.,You are sentimental.,0.49009277354422226
+218,4,45,-0.1080758032742613,You are usually slow to anger unless someone takes you too far.,You are gentle.,0.5540379016371306
+219,4,46,0.014893806854408592,You are usually slow to anger unless someone takes you too far.,You are romantic.,0.4925530965727957
+220,5,6,0.17721000957162433,You are reliable.,You are consistent.,0.4113949952141878
+221,5,7,0.4262382324708478,You are reliable.,You can handle more of the workload than most around you.,0.2868808837645761
+222,5,8,0.9060360307579671,You are reliable.,"You prefer a regular routine, defined responsibilities.",0.04698198462101644
+223,5,9,0.9060360307579671,You are reliable.,"You prefer a regular routine, defined tasks.",0.04698198462101644
+224,5,10,0.0699137863066051,You are reliable.,You enjoy building and seeing the results of your hard work.,0.4650431068466975
+225,5,11,0.4262382324708478,You are reliable.,"Keeping things going is your strength, especially once someone else starts them.",0.2868808837645761
+226,5,12,0.0,You are reliable.,Money and possessions are important to you for the feelings of security they bring.,0.5
+227,5,13,0.4262382324708478,You are reliable.,You are handy with your hands.,0.2868808837645761
+228,5,14,0.4149823109023295,You are reliable.,You may be ambidextrous or mechanically inclined.,0.29250884454883525
+229,5,15,0.0,You are reliable.,Debate and argument appeal to you.,0.5
+230,5,16,0.07770569446546034,You are reliable.,You grasp concepts easily.,0.4611471527672698
+231,5,17,0.4262382324708478,You are reliable.,You may become impatient with those who do n't learn as quickly.,0.2868808837645761
+232,5,18,0.2652734756825473,You are reliable.,"You are very direct in thought, action, and speech and everyone knows how you feel.",0.3673632621587264
+233,5,19,0.42587412002911307,You are reliable.,You are adventurous.,0.28706293998544347
+234,5,20,0.021937031563643135,You are reliable.,You are courageous.,0.48903148421817844
+235,5,21,0.4262382324708478,You are reliable.,You are independent.,0.2868808837645761
+236,5,22,0.06395748732523558,You are reliable.,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.46802125633738223
+237,5,23,0.09449590217312151,You are reliable.,You have common sense to manage others.,0.45275204891343923
+238,5,24,0.07307295653558166,You are reliable.,You have the ability to manage others.,0.46346352173220917
+239,5,25,0.0699137863066051,You are reliable.,You may be a bit of a perfectionist.,0.4650431068466975
+240,5,26,0.0699137863066051,You are reliable.,Your mind is deep.,0.4650431068466975
+241,5,27,0.0699137863066051,You are reliable.,Your mind is analytical.,0.4650431068466975
+242,5,28,0.09449590217312151,You are reliable.,you probably have a good head for numbers.,0.45275204891343923
+243,5,29,0.0699137863066051,You are reliable.,Your work is usually neat.,0.4650431068466975
+244,5,30,0.4262382324708478,You are reliable.,Your work is usually orderly.,0.2868808837645761
+245,5,31,0.0844188066547941,You are reliable.,you dislike messes.,0.45779059667260297
+246,5,32,0.015578296493860704,You are reliable.,you dislike dirt.,0.49221085175306967
+247,5,33,0.18049875043236205,You are reliable.,You tend to be idealistic.,0.40975062478381896
+248,5,34,0.9060360307579671,You are reliable.,You tend to be optimistic.,0.04698198462101644
+249,5,35,0.0,You are reliable.,You tend to be dependable.,0.5
+250,5,36,0.18049875043236205,You are reliable.,You tend to be open-minded.,0.40975062478381896
+251,5,37,0.0,You are reliable.,You tend to be friendly.,0.5
+252,5,38,0.4776121238851761,You are reliable.,You tend to be honest.,0.261193938057412
+253,5,39,0.0,You are reliable.,You tend to be versatile.,0.5
+254,5,40,0.0,You are reliable.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+255,5,41,-0.11193320685429593,You are reliable.,You are quiet.,0.555966603427148
+256,5,42,-0.05526889100386726,You are reliable.,You are shy.,0.5276344455019336
+257,5,43,0.0699137863066051,You are reliable.,You are sensitive.,0.4650431068466975
+258,5,44,0.05323326607387344,You are reliable.,You are sentimental.,0.47338336696306327
+259,5,45,0.0699137863066051,You are reliable.,You are gentle.,0.4650431068466975
+260,5,46,0.36085515079104585,You are reliable.,You are romantic.,0.3195724246044771
+261,6,7,0.33112347118263336,You are consistent.,You can handle more of the workload than most around you.,0.3344382644086833
+262,6,8,0.6313650524484419,You are consistent.,"You prefer a regular routine, defined responsibilities.",0.18431747377577906
+263,6,9,0.6313650524484419,You are consistent.,"You prefer a regular routine, defined tasks.",0.18431747377577906
+264,6,10,0.5346943471947229,You are consistent.,You enjoy building and seeing the results of your hard work.,0.23265282640263857
+265,6,11,0.33112347118263336,You are consistent.,"Keeping things going is your strength, especially once someone else starts them.",0.3344382644086833
+266,6,12,0.17721000957162436,You are consistent.,Money and possessions are important to you for the feelings of security they bring.,0.4113949952141878
+267,6,13,0.33112347118263336,You are consistent.,You are handy with your hands.,0.3344382644086833
+268,6,14,0.6110585388959349,You are consistent.,You may be ambidextrous or mechanically inclined.,0.19447073055203257
+269,6,15,-0.0535601815654744,You are consistent.,Debate and argument appeal to you.,0.5267800907827372
+270,6,16,0.6685966417616922,You are consistent.,You grasp concepts easily.,0.1657016791191539
+271,6,17,0.33112347118263336,You are consistent.,You may become impatient with those who do n't learn as quickly.,0.3344382644086833
+272,6,18,0.8434018962123184,You are consistent.,"You are very direct in thought, action, and speech and everyone knows how you feel.",0.07829905189384079
+273,6,19,0.12709115416095304,You are consistent.,You are adventurous.,0.43645442291952347
+274,6,20,0.00490981611563156,You are consistent.,You are courageous.,0.4975450919421842
+275,6,21,0.33112347118263336,You are consistent.,You are independent.,0.3344382644086833
+276,6,22,0.20051589854407034,You are consistent.,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.3997420507279648
+277,6,23,0.4758095934130744,You are consistent.,You have common sense to manage others.,0.2620952032934628
+278,6,24,0.35495425743750564,You are consistent.,You have the ability to manage others.,0.3225228712812472
+279,6,25,0.5346943471947229,You are consistent.,You may be a bit of a perfectionist.,0.23265282640263857
+280,6,26,0.5346943471947229,You are consistent.,Your mind is deep.,0.23265282640263857
+281,6,27,0.5346943471947229,You are consistent.,Your mind is analytical.,0.23265282640263857
+282,6,28,0.4758095934130744,You are consistent.,you probably have a good head for numbers.,0.2620952032934628
+283,6,29,0.5346943471947229,You are consistent.,Your work is usually neat.,0.23265282640263857
+284,6,30,0.33112347118263336,You are consistent.,Your work is usually orderly.,0.3344382644086833
+285,6,31,0.6456274377315226,You are consistent.,you dislike messes.,0.17718628113423868
+286,6,32,-0.15235487096535932,You are consistent.,you dislike dirt.,0.5761774354826796
+287,6,33,0.06035878319715719,You are consistent.,You tend to be idealistic.,0.4698206084014214
+288,6,34,0.6313650524484419,You are consistent.,You tend to be optimistic.,0.18431747377577906
+289,6,35,0.17721000957162436,You are consistent.,You tend to be dependable.,0.4113949952141878
+290,6,36,0.06035878319715719,You are consistent.,You tend to be open-minded.,0.4698206084014214
+291,6,37,0.0,You are consistent.,You tend to be friendly.,0.5
+292,6,38,0.37103331492110075,You are consistent.,You tend to be honest.,0.31448334253944965
+293,6,39,0.0,You are consistent.,You tend to be versatile.,0.5
+294,6,40,0.0,You are consistent.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+295,6,41,-0.3509266621931941,You are consistent.,You are quiet.,0.6754633310965971
+296,6,42,0.1270013118263603,You are consistent.,You are shy.,0.43649934408681984
+297,6,43,0.5346943471947229,You are consistent.,You are sensitive.,0.23265282640263857
+298,6,44,0.1668939263507721,You are consistent.,You are sentimental.,0.416553036824614
+299,6,45,0.5346943471947229,You are consistent.,You are gentle.,0.23265282640263857
+300,6,46,0.2514594601882234,You are consistent.,You are romantic.,0.3742702699058883
+301,7,8,0.3849131061124905,You can handle more of the workload than most around you.,"You prefer a regular routine, defined responsibilities.",0.30754344694375474
+302,7,9,0.3849131061124905,You can handle more of the workload than most around you.,"You prefer a regular routine, defined tasks.",0.30754344694375474
+303,7,10,0.1904357160529713,You can handle more of the workload than most around you.,You enjoy building and seeing the results of your hard work.,0.40478214197351436
+304,7,11,0.0,You can handle more of the workload than most around you.,"Keeping things going is your strength, especially once someone else starts them.",0.5
+305,7,12,0.4262382324708478,You can handle more of the workload than most around you.,Money and possessions are important to you for the feelings of security they bring.,0.2868808837645761
+306,7,13,0.0,You can handle more of the workload than most around you.,You are handy with your hands.,0.5
+307,7,14,0.3508369775854025,You can handle more of the workload than most around you.,You may be ambidextrous or mechanically inclined.,0.3245815112072987
+308,7,15,0.3148030750119283,You can handle more of the workload than most around you.,Debate and argument appeal to you.,0.34259846249403586
+309,7,16,0.23812610118754668,You can handle more of the workload than most around you.,You grasp concepts easily.,0.3809369494062267
+310,7,17,0.0,You can handle more of the workload than most around you.,You may become impatient with those who do n't learn as quickly.,0.5
+311,7,18,0.30038440628424096,You can handle more of the workload than most around you.,"You are very direct in thought, action, and speech and everyone knows how you feel.",0.34980779685787955
+312,7,19,0.09172573309239801,You can handle more of the workload than most around you.,You are adventurous.,0.454137133453801
+313,7,20,0.011809442073518068,You can handle more of the workload than most around you.,You are courageous.,0.49409527896324096
+314,7,21,0.0,You can handle more of the workload than most around you.,You are independent.,0.5
+315,7,22,0.03652247151328189,You can handle more of the workload than most around you.,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.48173876424335904
+316,7,23,0.146362991348338,You can handle more of the workload than most around you.,You have common sense to manage others.,0.426818504325831
+317,7,24,0.09818915158071302,You can handle more of the workload than most around you.,You have the ability to manage others.,0.45090542420964347
+318,7,25,0.1904357160529713,You can handle more of the workload than most around you.,You may be a bit of a perfectionist.,0.40478214197351436
+319,7,26,0.1904357160529713,You can handle more of the workload than most around you.,Your mind is deep.,0.40478214197351436
+320,7,27,0.1904357160529713,You can handle more of the workload than most around you.,Your mind is analytical.,0.40478214197351436
+321,7,28,0.146362991348338,You can handle more of the workload than most around you.,you probably have a good head for numbers.,0.426818504325831
+322,7,29,0.1904357160529713,You can handle more of the workload than most around you.,Your work is usually neat.,0.40478214197351436
+323,7,30,0.0,You can handle more of the workload than most around you.,Your work is usually orderly.,0.5
+324,7,31,0.22994543341052381,You can handle more of the workload than most around you.,you dislike messes.,0.3850272832947381
+325,7,32,0.17184874006108009,You can handle more of the workload than most around you.,you dislike dirt.,0.41407562996945996
+326,7,33,0.1451792769846278,You can handle more of the workload than most around you.,You tend to be idealistic.,0.4274103615076861
+327,7,34,0.3849131061124905,You can handle more of the workload than most around you.,You tend to be optimistic.,0.30754344694375474
+328,7,35,0.4262382324708478,You can handle more of the workload than most around you.,You tend to be dependable.,0.2868808837645761
+329,7,36,0.1451792769846278,You can handle more of the workload than most around you.,You tend to be open-minded.,0.4274103615076861
+330,7,37,0.0,You can handle more of the workload than most around you.,You tend to be friendly.,0.5
+331,7,38,0.8924359561972107,You can handle more of the workload than most around you.,You tend to be honest.,0.05378202190139464
+332,7,39,0.0,You can handle more of the workload than most around you.,You tend to be versatile.,0.5
+333,7,40,0.0,You can handle more of the workload than most around you.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+334,7,41,-0.06391866737881191,You can handle more of the workload than most around you.,You are quiet.,0.531959333689406
+335,7,42,0.3054726694344402,You can handle more of the workload than most around you.,You are shy.,0.3472636652827799
+336,7,43,0.1904357160529713,You can handle more of the workload than most around you.,You are sensitive.,0.40478214197351436
+337,7,44,0.030398480694767298,You can handle more of the workload than most around you.,You are sentimental.,0.4848007596526164
+338,7,45,0.1904357160529713,You can handle more of the workload than most around you.,You are gentle.,0.40478214197351436
+339,7,46,0.07772180015121322,You can handle more of the workload than most around you.,You are romantic.,0.4611390999243934
+340,8,9,0.0,"You prefer a regular routine, defined responsibilities.","You prefer a regular routine, defined tasks.",0.5
+341,8,10,0.07716446579736677,"You prefer a regular routine, defined responsibilities.",You enjoy building and seeing the results of your hard work.,0.4614177671013166
+342,8,11,0.3849131061124905,"You prefer a regular routine, defined responsibilities.","Keeping things going is your strength, especially once someone else starts them.",0.30754344694375474
+343,8,12,0.9060360307579671,"You prefer a regular routine, defined responsibilities.",Money and possessions are important to you for the feelings of security they bring.,0.04698198462101644
+344,8,13,0.3849131061124905,"You prefer a regular routine, defined responsibilities.",You are handy with your hands.,0.30754344694375474
+345,8,14,0.7088066641470246,"You prefer a regular routine, defined responsibilities.",You may be ambidextrous or mechanically inclined.,0.14559666792648768
+346,8,15,-0.03133059765628963,"You prefer a regular routine, defined responsibilities.",Debate and argument appeal to you.,0.5156652988281448
+347,8,16,0.0857644639148111,"You prefer a regular routine, defined responsibilities.",You grasp concepts easily.,0.45711776804259446
+348,8,17,0.3849131061124905,"You prefer a regular routine, defined responsibilities.",You may become impatient with those who do n't learn as quickly.,0.30754344694375474
+349,8,18,0.35046138804235305,"You prefer a regular routine, defined responsibilities.","You are very direct in thought, action, and speech and everyone knows how you feel.",0.3247693059788235
+350,8,19,0.4700410420464596,"You prefer a regular routine, defined responsibilities.",You are adventurous.,0.2649794789767702
+351,8,20,0.02200813139456466,"You prefer a regular routine, defined responsibilities.",You are courageous.,0.48899593430271765
+352,8,21,0.3849131061124905,"You prefer a regular routine, defined responsibilities.",You are independent.,0.30754344694375474
+353,8,22,0.07059044580349673,"You prefer a regular routine, defined responsibilities.","You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.46470477709825164
+354,8,23,0.10429596502257046,"You prefer a regular routine, defined responsibilities.",You have common sense to manage others.,0.4478520174887148
+355,8,24,0.0806512699880717,"You prefer a regular routine, defined responsibilities.",You have the ability to manage others.,0.45967436500596415
+356,8,25,0.07716446579736677,"You prefer a regular routine, defined responsibilities.",You may be a bit of a perfectionist.,0.4614177671013166
+357,8,26,0.07716446579736677,"You prefer a regular routine, defined responsibilities.",Your mind is deep.,0.4614177671013166
+358,8,27,0.07716446579736677,"You prefer a regular routine, defined responsibilities.",Your mind is analytical.,0.4614177671013166
+359,8,28,0.10429596502257046,"You prefer a regular routine, defined responsibilities.",you probably have a good head for numbers.,0.4478520174887148
+360,8,29,0.07716446579736677,"You prefer a regular routine, defined responsibilities.",Your work is usually neat.,0.4614177671013166
+361,8,30,0.3849131061124905,"You prefer a regular routine, defined responsibilities.",Your work is usually orderly.,0.30754344694375474
+362,8,31,0.09317378535616452,"You prefer a regular routine, defined responsibilities.",you dislike messes.,0.45341310732191775
+363,8,32,0.01719390395636726,"You prefer a regular routine, defined responsibilities.",you dislike dirt.,0.4914030480218164
+364,8,33,0.2090163378988703,"You prefer a regular routine, defined responsibilities.",You tend to be idealistic.,0.39549183105056485
+365,8,34,0.0,"You prefer a regular routine, defined responsibilities.",You tend to be optimistic.,0.5
+366,8,35,0.9060360307579671,"You prefer a regular routine, defined responsibilities.",You tend to be dependable.,0.04698198462101644
+367,8,36,0.2090163378988703,"You prefer a regular routine, defined responsibilities.",You tend to be open-minded.,0.39549183105056485
+368,8,37,0.0,"You prefer a regular routine, defined responsibilities.",You tend to be friendly.,0.5
+369,8,38,0.43130613848489124,"You prefer a regular routine, defined responsibilities.",You tend to be honest.,0.28434693075755435
+370,8,39,0.0,"You prefer a regular routine, defined responsibilities.",You tend to be versatile.,0.5
+371,8,40,0.0,"You prefer a regular routine, defined responsibilities.","You are usually outspoken, sometimes to the point of bluntness.",0.5
+372,8,41,-0.12354167279711316,"You prefer a regular routine, defined responsibilities.",You are quiet.,0.5617708363985566
+373,8,42,-0.030738367250132202,"You prefer a regular routine, defined responsibilities.",You are shy.,0.5153691836250661
+374,8,43,0.07716446579736677,"You prefer a regular routine, defined responsibilities.",You are sensitive.,0.4614177671013166
+375,8,44,0.05875402772816862,"You prefer a regular routine, defined responsibilities.",You are sentimental.,0.4706229861359157
+376,8,45,0.07716446579736677,"You prefer a regular routine, defined responsibilities.",You are gentle.,0.4614177671013166
+377,8,46,0.3982790292447458,"You prefer a regular routine, defined responsibilities.",You are romantic.,0.3008604853776271
+378,9,10,0.07716446579736677,"You prefer a regular routine, defined tasks.",You enjoy building and seeing the results of your hard work.,0.4614177671013166
+379,9,11,0.3849131061124905,"You prefer a regular routine, defined tasks.","Keeping things going is your strength, especially once someone else starts them.",0.30754344694375474
+380,9,12,0.9060360307579671,"You prefer a regular routine, defined tasks.",Money and possessions are important to you for the feelings of security they bring.,0.04698198462101644
+381,9,13,0.3849131061124905,"You prefer a regular routine, defined tasks.",You are handy with your hands.,0.30754344694375474
+382,9,14,0.7088066641470246,"You prefer a regular routine, defined tasks.",You may be ambidextrous or mechanically inclined.,0.14559666792648768
+383,9,15,-0.03133059765628963,"You prefer a regular routine, defined tasks.",Debate and argument appeal to you.,0.5156652988281448
+384,9,16,0.0857644639148111,"You prefer a regular routine, defined tasks.",You grasp concepts easily.,0.45711776804259446
+385,9,17,0.3849131061124905,"You prefer a regular routine, defined tasks.",You may become impatient with those who do n't learn as quickly.,0.30754344694375474
+386,9,18,0.35046138804235305,"You prefer a regular routine, defined tasks.","You are very direct in thought, action, and speech and everyone knows how you feel.",0.3247693059788235
+387,9,19,0.4700410420464596,"You prefer a regular routine, defined tasks.",You are adventurous.,0.2649794789767702
+388,9,20,0.02200813139456466,"You prefer a regular routine, defined tasks.",You are courageous.,0.48899593430271765
+389,9,21,0.3849131061124905,"You prefer a regular routine, defined tasks.",You are independent.,0.30754344694375474
+390,9,22,0.07059044580349673,"You prefer a regular routine, defined tasks.","You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.46470477709825164
+391,9,23,0.10429596502257046,"You prefer a regular routine, defined tasks.",You have common sense to manage others.,0.4478520174887148
+392,9,24,0.0806512699880717,"You prefer a regular routine, defined tasks.",You have the ability to manage others.,0.45967436500596415
+393,9,25,0.07716446579736677,"You prefer a regular routine, defined tasks.",You may be a bit of a perfectionist.,0.4614177671013166
+394,9,26,0.07716446579736677,"You prefer a regular routine, defined tasks.",Your mind is deep.,0.4614177671013166
+395,9,27,0.07716446579736677,"You prefer a regular routine, defined tasks.",Your mind is analytical.,0.4614177671013166
+396,9,28,0.10429596502257046,"You prefer a regular routine, defined tasks.",you probably have a good head for numbers.,0.4478520174887148
+397,9,29,0.07716446579736677,"You prefer a regular routine, defined tasks.",Your work is usually neat.,0.4614177671013166
+398,9,30,0.3849131061124905,"You prefer a regular routine, defined tasks.",Your work is usually orderly.,0.30754344694375474
+399,9,31,0.09317378535616452,"You prefer a regular routine, defined tasks.",you dislike messes.,0.45341310732191775
+400,9,32,0.01719390395636726,"You prefer a regular routine, defined tasks.",you dislike dirt.,0.4914030480218164
+401,9,33,0.2090163378988703,"You prefer a regular routine, defined tasks.",You tend to be idealistic.,0.39549183105056485
+402,9,34,0.0,"You prefer a regular routine, defined tasks.",You tend to be optimistic.,0.5
+403,9,35,0.9060360307579671,"You prefer a regular routine, defined tasks.",You tend to be dependable.,0.04698198462101644
+404,9,36,0.2090163378988703,"You prefer a regular routine, defined tasks.",You tend to be open-minded.,0.39549183105056485
+405,9,37,0.0,"You prefer a regular routine, defined tasks.",You tend to be friendly.,0.5
+406,9,38,0.43130613848489124,"You prefer a regular routine, defined tasks.",You tend to be honest.,0.28434693075755435
+407,9,39,0.0,"You prefer a regular routine, defined tasks.",You tend to be versatile.,0.5
+408,9,40,0.0,"You prefer a regular routine, defined tasks.","You are usually outspoken, sometimes to the point of bluntness.",0.5
+409,9,41,-0.12354167279711316,"You prefer a regular routine, defined tasks.",You are quiet.,0.5617708363985566
+410,9,42,-0.030738367250132202,"You prefer a regular routine, defined tasks.",You are shy.,0.5153691836250661
+411,9,43,0.07716446579736677,"You prefer a regular routine, defined tasks.",You are sensitive.,0.4614177671013166
+412,9,44,0.05875402772816862,"You prefer a regular routine, defined tasks.",You are sentimental.,0.4706229861359157
+413,9,45,0.07716446579736677,"You prefer a regular routine, defined tasks.",You are gentle.,0.4614177671013166
+414,9,46,0.3982790292447458,"You prefer a regular routine, defined tasks.",You are romantic.,0.3008604853776271
+415,10,11,0.19043571605297133,You enjoy building and seeing the results of your hard work.,"Keeping things going is your strength, especially once someone else starts them.",0.40478214197351436
+416,10,12,0.06991378630660512,You enjoy building and seeing the results of your hard work.,Money and possessions are important to you for the feelings of security they bring.,0.4650431068466974
+417,10,13,0.19043571605297133,You enjoy building and seeing the results of your hard work.,You are handy with your hands.,0.40478214197351436
+418,10,14,0.43532023824544197,You enjoy building and seeing the results of your hard work.,You may be ambidextrous or mechanically inclined.,0.282339880877279
+419,10,15,-0.11977428702891892,You enjoy building and seeing the results of your hard work.,Debate and argument appeal to you.,0.5598871435144595
+420,10,16,0.6955284149126438,You enjoy building and seeing the results of your hard work.,You grasp concepts easily.,0.15223579254367808
+421,10,17,0.19043571605297133,You enjoy building and seeing the results of your hard work.,You may become impatient with those who do n't learn as quickly.,0.40478214197351436
+422,10,18,0.6425793076996777,You enjoy building and seeing the results of your hard work.,"You are very direct in thought, action, and speech and everyone knows how you feel.",0.17871034615016113
+423,10,19,0.19762049219712707,You enjoy building and seeing the results of your hard work.,You are adventurous.,0.40118975390143646
+424,10,20,0.05350304541370745,You enjoy building and seeing the results of your hard work.,You are courageous.,0.4732484772931463
+425,10,21,0.19043571605297133,You enjoy building and seeing the results of your hard work.,You are independent.,0.40478214197351436
+426,10,22,0.31179235742437633,You enjoy building and seeing the results of your hard work.,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.3441038212878118
+427,10,23,0.7398605092792208,You enjoy building and seeing the results of your hard work.,You have common sense to manage others.,0.13006974536038962
+428,10,24,0.5519364075758552,You enjoy building and seeing the results of your hard work.,You have the ability to manage others.,0.22403179621207242
+429,10,25,0.0,You enjoy building and seeing the results of your hard work.,You may be a bit of a perfectionist.,0.5
+430,10,26,0.0,You enjoy building and seeing the results of your hard work.,Your mind is deep.,0.5
+431,10,27,0.0,You enjoy building and seeing the results of your hard work.,Your mind is analytical.,0.5
+432,10,28,0.7398605092792208,You enjoy building and seeing the results of your hard work.,you probably have a good head for numbers.,0.13006974536038962
+433,10,29,0.0,You enjoy building and seeing the results of your hard work.,Your work is usually neat.,0.5
+434,10,30,0.19043571605297133,You enjoy building and seeing the results of your hard work.,Your work is usually orderly.,0.40478214197351436
+435,10,31,0.8281778560611142,You enjoy building and seeing the results of your hard work.,you dislike messes.,0.08591107196944292
+436,10,32,-0.2342626346405268,You enjoy building and seeing the results of your hard work.,you dislike dirt.,0.6171313173202634
+437,10,33,0.06751962392506403,You enjoy building and seeing the results of your hard work.,You tend to be idealistic.,0.466240188037468
+438,10,34,0.0771644657973668,You enjoy building and seeing the results of your hard work.,You tend to be optimistic.,0.4614177671013166
+439,10,35,0.06991378630660512,You enjoy building and seeing the results of your hard work.,You tend to be dependable.,0.4650431068466974
+440,10,36,0.06751962392506403,You enjoy building and seeing the results of your hard work.,You tend to be open-minded.,0.466240188037468
+441,10,37,0.0,You enjoy building and seeing the results of your hard work.,You tend to be friendly.,0.5
+442,10,38,0.2133886636128417,You enjoy building and seeing the results of your hard work.,You tend to be honest.,0.39330566819357915
+443,10,39,0.0,You enjoy building and seeing the results of your hard work.,You tend to be versatile.,0.5
+444,10,40,0.0,You enjoy building and seeing the results of your hard work.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+445,10,41,-0.5456736951171767,You enjoy building and seeing the results of your hard work.,You are quiet.,0.7728368475585883
+446,10,42,-0.20161274719607117,You enjoy building and seeing the results of your hard work.,You are shy.,0.6008063735980356
+447,10,43,0.0,You enjoy building and seeing the results of your hard work.,You are sensitive.,0.5
+448,10,44,0.25951184476916034,You enjoy building and seeing the results of your hard work.,You are sentimental.,0.37024407761541983
+449,10,45,0.0,You enjoy building and seeing the results of your hard work.,You are gentle.,0.5
+450,10,46,0.101918300691483,You enjoy building and seeing the results of your hard work.,You are romantic.,0.4490408496542585
+451,11,12,0.4262382324708478,"Keeping things going is your strength, especially once someone else starts them.",Money and possessions are important to you for the feelings of security they bring.,0.2868808837645761
+452,11,13,0.0,"Keeping things going is your strength, especially once someone else starts them.",You are handy with your hands.,0.5
+453,11,14,0.3508369775854025,"Keeping things going is your strength, especially once someone else starts them.",You may be ambidextrous or mechanically inclined.,0.3245815112072987
+454,11,15,0.3148030750119283,"Keeping things going is your strength, especially once someone else starts them.",Debate and argument appeal to you.,0.34259846249403586
+455,11,16,0.23812610118754668,"Keeping things going is your strength, especially once someone else starts them.",You grasp concepts easily.,0.3809369494062267
+456,11,17,0.0,"Keeping things going is your strength, especially once someone else starts them.",You may become impatient with those who do n't learn as quickly.,0.5
+457,11,18,0.30038440628424096,"Keeping things going is your strength, especially once someone else starts them.","You are very direct in thought, action, and speech and everyone knows how you feel.",0.34980779685787955
+458,11,19,0.09172573309239801,"Keeping things going is your strength, especially once someone else starts them.",You are adventurous.,0.454137133453801
+459,11,20,0.011809442073518068,"Keeping things going is your strength, especially once someone else starts them.",You are courageous.,0.49409527896324096
+460,11,21,0.0,"Keeping things going is your strength, especially once someone else starts them.",You are independent.,0.5
+461,11,22,0.03652247151328189,"Keeping things going is your strength, especially once someone else starts them.","You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.48173876424335904
+462,11,23,0.146362991348338,"Keeping things going is your strength, especially once someone else starts them.",You have common sense to manage others.,0.426818504325831
+463,11,24,0.09818915158071302,"Keeping things going is your strength, especially once someone else starts them.",You have the ability to manage others.,0.45090542420964347
+464,11,25,0.1904357160529713,"Keeping things going is your strength, especially once someone else starts them.",You may be a bit of a perfectionist.,0.40478214197351436
+465,11,26,0.1904357160529713,"Keeping things going is your strength, especially once someone else starts them.",Your mind is deep.,0.40478214197351436
+466,11,27,0.1904357160529713,"Keeping things going is your strength, especially once someone else starts them.",Your mind is analytical.,0.40478214197351436
+467,11,28,0.146362991348338,"Keeping things going is your strength, especially once someone else starts them.",you probably have a good head for numbers.,0.426818504325831
+468,11,29,0.1904357160529713,"Keeping things going is your strength, especially once someone else starts them.",Your work is usually neat.,0.40478214197351436
+469,11,30,0.0,"Keeping things going is your strength, especially once someone else starts them.",Your work is usually orderly.,0.5
+470,11,31,0.22994543341052381,"Keeping things going is your strength, especially once someone else starts them.",you dislike messes.,0.3850272832947381
+471,11,32,0.17184874006108009,"Keeping things going is your strength, especially once someone else starts them.",you dislike dirt.,0.41407562996945996
+472,11,33,0.1451792769846278,"Keeping things going is your strength, especially once someone else starts them.",You tend to be idealistic.,0.4274103615076861
+473,11,34,0.3849131061124905,"Keeping things going is your strength, especially once someone else starts them.",You tend to be optimistic.,0.30754344694375474
+474,11,35,0.4262382324708478,"Keeping things going is your strength, especially once someone else starts them.",You tend to be dependable.,0.2868808837645761
+475,11,36,0.1451792769846278,"Keeping things going is your strength, especially once someone else starts them.",You tend to be open-minded.,0.4274103615076861
+476,11,37,0.0,"Keeping things going is your strength, especially once someone else starts them.",You tend to be friendly.,0.5
+477,11,38,0.8924359561972107,"Keeping things going is your strength, especially once someone else starts them.",You tend to be honest.,0.05378202190139464
+478,11,39,0.0,"Keeping things going is your strength, especially once someone else starts them.",You tend to be versatile.,0.5
+479,11,40,0.0,"Keeping things going is your strength, especially once someone else starts them.","You are usually outspoken, sometimes to the point of bluntness.",0.5
+480,11,41,-0.06391866737881191,"Keeping things going is your strength, especially once someone else starts them.",You are quiet.,0.531959333689406
+481,11,42,0.3054726694344402,"Keeping things going is your strength, especially once someone else starts them.",You are shy.,0.3472636652827799
+482,11,43,0.1904357160529713,"Keeping things going is your strength, especially once someone else starts them.",You are sensitive.,0.40478214197351436
+483,11,44,0.030398480694767298,"Keeping things going is your strength, especially once someone else starts them.",You are sentimental.,0.4848007596526164
+484,11,45,0.1904357160529713,"Keeping things going is your strength, especially once someone else starts them.",You are gentle.,0.40478214197351436
+485,11,46,0.07772180015121322,"Keeping things going is your strength, especially once someone else starts them.",You are romantic.,0.4611390999243934
+486,12,13,0.4262382324708478,Money and possessions are important to you for the feelings of security they bring.,You are handy with your hands.,0.2868808837645761
+487,12,14,0.4149823109023295,Money and possessions are important to you for the feelings of security they bring.,You may be ambidextrous or mechanically inclined.,0.29250884454883525
+488,12,15,0.0,Money and possessions are important to you for the feelings of security they bring.,Debate and argument appeal to you.,0.5
+489,12,16,0.07770569446546034,Money and possessions are important to you for the feelings of security they bring.,You grasp concepts easily.,0.4611471527672698
+490,12,17,0.4262382324708478,Money and possessions are important to you for the feelings of security they bring.,You may become impatient with those who do n't learn as quickly.,0.2868808837645761
+491,12,18,0.2652734756825473,Money and possessions are important to you for the feelings of security they bring.,"You are very direct in thought, action, and speech and everyone knows how you feel.",0.3673632621587264
+492,12,19,0.42587412002911307,Money and possessions are important to you for the feelings of security they bring.,You are adventurous.,0.28706293998544347
+493,12,20,0.021937031563643135,Money and possessions are important to you for the feelings of security they bring.,You are courageous.,0.48903148421817844
+494,12,21,0.4262382324708478,Money and possessions are important to you for the feelings of security they bring.,You are independent.,0.2868808837645761
+495,12,22,0.06395748732523558,Money and possessions are important to you for the feelings of security they bring.,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.46802125633738223
+496,12,23,0.09449590217312151,Money and possessions are important to you for the feelings of security they bring.,You have common sense to manage others.,0.45275204891343923
+497,12,24,0.07307295653558166,Money and possessions are important to you for the feelings of security they bring.,You have the ability to manage others.,0.46346352173220917
+498,12,25,0.0699137863066051,Money and possessions are important to you for the feelings of security they bring.,You may be a bit of a perfectionist.,0.4650431068466975
+499,12,26,0.0699137863066051,Money and possessions are important to you for the feelings of security they bring.,Your mind is deep.,0.4650431068466975
+500,12,27,0.0699137863066051,Money and possessions are important to you for the feelings of security they bring.,Your mind is analytical.,0.4650431068466975
+501,12,28,0.09449590217312151,Money and possessions are important to you for the feelings of security they bring.,you probably have a good head for numbers.,0.45275204891343923
+502,12,29,0.0699137863066051,Money and possessions are important to you for the feelings of security they bring.,Your work is usually neat.,0.4650431068466975
+503,12,30,0.4262382324708478,Money and possessions are important to you for the feelings of security they bring.,Your work is usually orderly.,0.2868808837645761
+504,12,31,0.0844188066547941,Money and possessions are important to you for the feelings of security they bring.,you dislike messes.,0.45779059667260297
+505,12,32,0.015578296493860704,Money and possessions are important to you for the feelings of security they bring.,you dislike dirt.,0.49221085175306967
+506,12,33,0.18049875043236205,Money and possessions are important to you for the feelings of security they bring.,You tend to be idealistic.,0.40975062478381896
+507,12,34,0.9060360307579671,Money and possessions are important to you for the feelings of security they bring.,You tend to be optimistic.,0.04698198462101644
+508,12,35,0.0,Money and possessions are important to you for the feelings of security they bring.,You tend to be dependable.,0.5
+509,12,36,0.18049875043236205,Money and possessions are important to you for the feelings of security they bring.,You tend to be open-minded.,0.40975062478381896
+510,12,37,0.0,Money and possessions are important to you for the feelings of security they bring.,You tend to be friendly.,0.5
+511,12,38,0.4776121238851761,Money and possessions are important to you for the feelings of security they bring.,You tend to be honest.,0.261193938057412
+512,12,39,0.0,Money and possessions are important to you for the feelings of security they bring.,You tend to be versatile.,0.5
+513,12,40,0.0,Money and possessions are important to you for the feelings of security they bring.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+514,12,41,-0.11193320685429593,Money and possessions are important to you for the feelings of security they bring.,You are quiet.,0.555966603427148
+515,12,42,-0.05526889100386726,Money and possessions are important to you for the feelings of security they bring.,You are shy.,0.5276344455019336
+516,12,43,0.0699137863066051,Money and possessions are important to you for the feelings of security they bring.,You are sensitive.,0.4650431068466975
+517,12,44,0.05323326607387344,Money and possessions are important to you for the feelings of security they bring.,You are sentimental.,0.47338336696306327
+518,12,45,0.0699137863066051,Money and possessions are important to you for the feelings of security they bring.,You are gentle.,0.4650431068466975
+519,12,46,0.36085515079104585,Money and possessions are important to you for the feelings of security they bring.,You are romantic.,0.3195724246044771
+520,13,14,0.3508369775854025,You are handy with your hands.,You may be ambidextrous or mechanically inclined.,0.3245815112072987
+521,13,15,0.3148030750119283,You are handy with your hands.,Debate and argument appeal to you.,0.34259846249403586
+522,13,16,0.23812610118754668,You are handy with your hands.,You grasp concepts easily.,0.3809369494062267
+523,13,17,0.0,You are handy with your hands.,You may become impatient with those who do n't learn as quickly.,0.5
+524,13,18,0.30038440628424096,You are handy with your hands.,"You are very direct in thought, action, and speech and everyone knows how you feel.",0.34980779685787955
+525,13,19,0.09172573309239801,You are handy with your hands.,You are adventurous.,0.454137133453801
+526,13,20,0.011809442073518068,You are handy with your hands.,You are courageous.,0.49409527896324096
+527,13,21,0.0,You are handy with your hands.,You are independent.,0.5
+528,13,22,0.03652247151328189,You are handy with your hands.,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.48173876424335904
+529,13,23,0.146362991348338,You are handy with your hands.,You have common sense to manage others.,0.426818504325831
+530,13,24,0.09818915158071302,You are handy with your hands.,You have the ability to manage others.,0.45090542420964347
+531,13,25,0.1904357160529713,You are handy with your hands.,You may be a bit of a perfectionist.,0.40478214197351436
+532,13,26,0.1904357160529713,You are handy with your hands.,Your mind is deep.,0.40478214197351436
+533,13,27,0.1904357160529713,You are handy with your hands.,Your mind is analytical.,0.40478214197351436
+534,13,28,0.146362991348338,You are handy with your hands.,you probably have a good head for numbers.,0.426818504325831
+535,13,29,0.1904357160529713,You are handy with your hands.,Your work is usually neat.,0.40478214197351436
+536,13,30,0.0,You are handy with your hands.,Your work is usually orderly.,0.5
+537,13,31,0.22994543341052381,You are handy with your hands.,you dislike messes.,0.3850272832947381
+538,13,32,0.17184874006108009,You are handy with your hands.,you dislike dirt.,0.41407562996945996
+539,13,33,0.1451792769846278,You are handy with your hands.,You tend to be idealistic.,0.4274103615076861
+540,13,34,0.3849131061124905,You are handy with your hands.,You tend to be optimistic.,0.30754344694375474
+541,13,35,0.4262382324708478,You are handy with your hands.,You tend to be dependable.,0.2868808837645761
+542,13,36,0.1451792769846278,You are handy with your hands.,You tend to be open-minded.,0.4274103615076861
+543,13,37,0.0,You are handy with your hands.,You tend to be friendly.,0.5
+544,13,38,0.8924359561972107,You are handy with your hands.,You tend to be honest.,0.05378202190139464
+545,13,39,0.0,You are handy with your hands.,You tend to be versatile.,0.5
+546,13,40,0.0,You are handy with your hands.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+547,13,41,-0.06391866737881191,You are handy with your hands.,You are quiet.,0.531959333689406
+548,13,42,0.3054726694344402,You are handy with your hands.,You are shy.,0.3472636652827799
+549,13,43,0.1904357160529713,You are handy with your hands.,You are sensitive.,0.40478214197351436
+550,13,44,0.030398480694767298,You are handy with your hands.,You are sentimental.,0.4848007596526164
+551,13,45,0.1904357160529713,You are handy with your hands.,You are gentle.,0.40478214197351436
+552,13,46,0.07772180015121322,You are handy with your hands.,You are romantic.,0.4611390999243934
+553,14,15,-0.02651010667607735,You may be ambidextrous or mechanically inclined.,Debate and argument appeal to you.,0.5132550533380387
+554,14,16,0.4878226960784847,You may be ambidextrous or mechanically inclined.,You grasp concepts easily.,0.25608865196075764
+555,14,17,0.3508369775854025,You may be ambidextrous or mechanically inclined.,You may become impatient with those who do n't learn as quickly.,0.3245815112072987
+556,14,18,0.6153644233149553,You may be ambidextrous or mechanically inclined.,"You are very direct in thought, action, and speech and everyone knows how you feel.",0.19231778834252233
+557,14,19,0.3331682230251424,You may be ambidextrous or mechanically inclined.,You are adventurous.,0.3334158884874288
+558,14,20,0.005202123064112833,You may be ambidextrous or mechanically inclined.,You are courageous.,0.4973989384679436
+559,14,21,0.3508369775854025,You may be ambidextrous or mechanically inclined.,You are independent.,0.3245815112072987
+560,14,22,0.15207581754369398,You may be ambidextrous or mechanically inclined.,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.423962091228153
+561,14,23,0.3608648164001942,You may be ambidextrous or mechanically inclined.,You have common sense to manage others.,0.3195675917999029
+562,14,24,0.2692053811312099,You may be ambidextrous or mechanically inclined.,You have the ability to manage others.,0.3653973094343951
+563,14,25,0.435320238245442,You may be ambidextrous or mechanically inclined.,You may be a bit of a perfectionist.,0.282339880877279
+564,14,26,0.435320238245442,You may be ambidextrous or mechanically inclined.,Your mind is deep.,0.282339880877279
+565,14,27,0.435320238245442,You may be ambidextrous or mechanically inclined.,Your mind is analytical.,0.282339880877279
+566,14,28,0.3608648164001942,You may be ambidextrous or mechanically inclined.,you probably have a good head for numbers.,0.3195675917999029
+567,14,29,0.435320238245442,You may be ambidextrous or mechanically inclined.,Your work is usually neat.,0.282339880877279
+568,14,30,0.3508369775854025,You may be ambidextrous or mechanically inclined.,Your work is usually orderly.,0.3245815112072987
+569,14,31,0.525636172302243,You may be ambidextrous or mechanically inclined.,you dislike messes.,0.2371819138488785
+570,14,32,-0.14228412817062872,You may be ambidextrous or mechanically inclined.,you dislike dirt.,0.5711420640853143
+571,14,33,0.06395225621424883,You may be ambidextrous or mechanically inclined.,You tend to be idealistic.,0.4680238718928756
+572,14,34,0.7088066641470246,You may be ambidextrous or mechanically inclined.,You tend to be optimistic.,0.14559666792648768
+573,14,35,0.41498231090232945,You may be ambidextrous or mechanically inclined.,You tend to be dependable.,0.2925088445488353
+574,14,36,0.06395225621424883,You may be ambidextrous or mechanically inclined.,You tend to be open-minded.,0.4680238718928756
+575,14,37,0.0,You may be ambidextrous or mechanically inclined.,You tend to be friendly.,0.5
+576,14,38,0.39312286237363847,You may be ambidextrous or mechanically inclined.,You tend to be honest.,0.30343856881318076
+577,14,39,0.0,You may be ambidextrous or mechanically inclined.,You tend to be versatile.,0.5
+578,14,40,0.0,You may be ambidextrous or mechanically inclined.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+579,14,41,-0.26615076130325077,You may be ambidextrous or mechanically inclined.,You are quiet.,0.6330753806516254
+580,14,42,0.13456236198359342,You may be ambidextrous or mechanically inclined.,You are shy.,0.4327188190082033
+581,14,43,0.435320238245442,You may be ambidextrous or mechanically inclined.,You are sensitive.,0.282339880877279
+582,14,44,0.1265761492088991,You may be ambidextrous or mechanically inclined.,You are sentimental.,0.4367119253955505
+583,14,45,0.435320238245442,You may be ambidextrous or mechanically inclined.,You are gentle.,0.282339880877279
+584,14,46,0.28230283011868357,You may be ambidextrous or mechanically inclined.,You are romantic.,0.3588485849406582
+585,15,16,-0.1428092022640546,Debate and argument appeal to you.,You grasp concepts easily.,0.5714046011320273
+586,15,17,0.31480307501192817,Debate and argument appeal to you.,You may become impatient with those who do n't learn as quickly.,0.3425984624940359
+587,15,18,-0.10590073752070941,Debate and argument appeal to you.,"You are very direct in thought, action, and speech and everyone knows how you feel.",0.5529503687603547
+588,15,19,0.04028028717594385,Debate and argument appeal to you.,You are adventurous.,0.47985985641202805
+589,15,20,-0.018065191536367868,Debate and argument appeal to you.,You are courageous.,0.5090325957681839
+590,15,21,0.31480307501192817,Debate and argument appeal to you.,You are independent.,0.3425984624940359
+591,15,22,0.0,Debate and argument appeal to you.,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.5
+592,15,23,-0.06838200598818266,Debate and argument appeal to you.,You have common sense to manage others.,0.5341910029940913
+593,15,24,0.0,Debate and argument appeal to you.,You have the ability to manage others.,0.5
+594,15,25,-0.1197742870289189,Debate and argument appeal to you.,You may be a bit of a perfectionist.,0.5598871435144595
+595,15,26,-0.1197742870289189,Debate and argument appeal to you.,Your mind is deep.,0.5598871435144595
+596,15,27,-0.1197742870289189,Debate and argument appeal to you.,Your mind is analytical.,0.5598871435144595
+597,15,28,-0.06838200598818266,Debate and argument appeal to you.,you probably have a good head for numbers.,0.5341910029940913
+598,15,29,-0.1197742870289189,Debate and argument appeal to you.,Your work is usually neat.,0.5598871435144595
+599,15,30,0.31480307501192817,Debate and argument appeal to you.,Your work is usually orderly.,0.3425984624940359
+600,15,31,-0.144623870527734,Debate and argument appeal to you.,you dislike messes.,0.572311935263867
+601,15,32,0.5112820796739997,Debate and argument appeal to you.,you dislike dirt.,0.24435896016300013
+602,15,33,-0.027892581406835246,Debate and argument appeal to you.,You tend to be idealistic.,0.5139462907034176
+603,15,34,-0.031330597656289635,Debate and argument appeal to you.,You tend to be optimistic.,0.5156652988281448
+604,15,35,0.0,Debate and argument appeal to you.,You tend to be dependable.,0.5
+605,15,36,-0.027892581406835246,Debate and argument appeal to you.,You tend to be open-minded.,0.5139462907034176
+606,15,37,0.0,Debate and argument appeal to you.,You tend to be friendly.,0.5
+607,15,38,0.3527458444786854,Debate and argument appeal to you.,You tend to be honest.,0.3236270777606573
+608,15,39,0.0,Debate and argument appeal to you.,You tend to be versatile.,0.5
+609,15,40,0.0,Debate and argument appeal to you.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+610,15,41,0.0,Debate and argument appeal to you.,You are quiet.,0.5
+611,15,42,0.06697109052972995,Debate and argument appeal to you.,You are shy.,0.46651445473513503
+612,15,43,-0.1197742870289189,Debate and argument appeal to you.,You are sensitive.,0.5598871435144595
+613,15,44,0.0,Debate and argument appeal to you.,You are sentimental.,0.5
+614,15,45,-0.1197742870289189,Debate and argument appeal to you.,You are gentle.,0.5598871435144595
+615,15,46,0.020773647381882258,Debate and argument appeal to you.,You are romantic.,0.4896131763090589
+616,16,17,0.23812610118754673,You grasp concepts easily.,You may become impatient with those who do n't learn as quickly.,0.38093694940622663
+617,16,18,0.8275941933429023,You grasp concepts easily.,"You are very direct in thought, action, and speech and everyone knows how you feel.",0.08620290332854885
+618,16,19,0.21964534318652779,You grasp concepts easily.,You are adventurous.,0.39017732840673613
+619,16,20,0.007192751069222293,You grasp concepts easily.,You are courageous.,0.4964036244653888
+620,16,21,0.23812610118754673,You grasp concepts easily.,You are independent.,0.38093694940622663
+621,16,22,0.3465416900242356,You grasp concepts easily.,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.3267291549878822
+622,16,23,0.8223181395009002,You grasp concepts easily.,You have common sense to manage others.,0.08884093024954992
+623,16,24,0.6134498518413285,You grasp concepts easily.,You have the ability to manage others.,0.19327507407933575
+624,16,25,0.695528414912644,You grasp concepts easily.,You may be a bit of a perfectionist.,0.15223579254367797
+625,16,26,0.695528414912644,You grasp concepts easily.,Your mind is deep.,0.15223579254367797
+626,16,27,0.695528414912644,You grasp concepts easily.,Your mind is analytical.,0.15223579254367797
+627,16,28,0.8223181395009002,You grasp concepts easily.,you probably have a good head for numbers.,0.08884093024954992
+628,16,29,0.695528414912644,You grasp concepts easily.,Your work is usually neat.,0.15223579254367797
+629,16,30,0.23812610118754673,You grasp concepts easily.,Your work is usually orderly.,0.38093694940622663
+630,16,31,0.839829765819431,You grasp concepts easily.,you dislike messes.,0.08008511709028449
+631,16,32,-0.2793158765805202,You grasp concepts easily.,you dislike dirt.,0.6396579382902601
+632,16,33,0.08867734527833881,You grasp concepts easily.,You tend to be idealistic.,0.4556613273608306
+633,16,34,0.08576446391481109,You grasp concepts easily.,You tend to be optimistic.,0.45711776804259446
+634,16,35,0.07770569446546034,You grasp concepts easily.,You tend to be dependable.,0.4611471527672698
+635,16,36,0.08867734527833881,You grasp concepts easily.,You tend to be open-minded.,0.4556613273608306
+636,16,37,0.0,You grasp concepts easily.,You tend to be friendly.,0.5
+637,16,38,0.26682710342850147,You grasp concepts easily.,You tend to be honest.,0.36658644828574927
+638,16,39,0.0,You grasp concepts easily.,You tend to be versatile.,0.5
+639,16,40,0.0,You grasp concepts easily.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+640,16,41,-0.6064891585854243,You grasp concepts easily.,You are quiet.,0.8032445792927121
+641,16,42,0.06895993315982778,You grasp concepts easily.,You are shy.,0.46552003342008613
+642,16,43,0.695528414912644,You grasp concepts easily.,You are sensitive.,0.15223579254367797
+643,16,44,0.28843450176428514,You grasp concepts easily.,You are sentimental.,0.35578274911785746
+644,16,45,0.695528414912644,You grasp concepts easily.,You are gentle.,0.15223579254367797
+645,16,46,0.11327711961185953,You grasp concepts easily.,You are romantic.,0.44336144019407026
+646,17,18,0.30038440628424096,You may become impatient with those who do n't learn as quickly.,"You are very direct in thought, action, and speech and everyone knows how you feel.",0.34980779685787955
+647,17,19,0.09172573309239801,You may become impatient with those who do n't learn as quickly.,You are adventurous.,0.454137133453801
+648,17,20,0.011809442073518068,You may become impatient with those who do n't learn as quickly.,You are courageous.,0.49409527896324096
+649,17,21,0.0,You may become impatient with those who do n't learn as quickly.,You are independent.,0.5
+650,17,22,0.03652247151328189,You may become impatient with those who do n't learn as quickly.,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.48173876424335904
+651,17,23,0.146362991348338,You may become impatient with those who do n't learn as quickly.,You have common sense to manage others.,0.426818504325831
+652,17,24,0.09818915158071302,You may become impatient with those who do n't learn as quickly.,You have the ability to manage others.,0.45090542420964347
+653,17,25,0.1904357160529713,You may become impatient with those who do n't learn as quickly.,You may be a bit of a perfectionist.,0.40478214197351436
+654,17,26,0.1904357160529713,You may become impatient with those who do n't learn as quickly.,Your mind is deep.,0.40478214197351436
+655,17,27,0.1904357160529713,You may become impatient with those who do n't learn as quickly.,Your mind is analytical.,0.40478214197351436
+656,17,28,0.146362991348338,You may become impatient with those who do n't learn as quickly.,you probably have a good head for numbers.,0.426818504325831
+657,17,29,0.1904357160529713,You may become impatient with those who do n't learn as quickly.,Your work is usually neat.,0.40478214197351436
+658,17,30,0.0,You may become impatient with those who do n't learn as quickly.,Your work is usually orderly.,0.5
+659,17,31,0.22994543341052381,You may become impatient with those who do n't learn as quickly.,you dislike messes.,0.3850272832947381
+660,17,32,0.17184874006108009,You may become impatient with those who do n't learn as quickly.,you dislike dirt.,0.41407562996945996
+661,17,33,0.1451792769846278,You may become impatient with those who do n't learn as quickly.,You tend to be idealistic.,0.4274103615076861
+662,17,34,0.3849131061124905,You may become impatient with those who do n't learn as quickly.,You tend to be optimistic.,0.30754344694375474
+663,17,35,0.4262382324708478,You may become impatient with those who do n't learn as quickly.,You tend to be dependable.,0.2868808837645761
+664,17,36,0.1451792769846278,You may become impatient with those who do n't learn as quickly.,You tend to be open-minded.,0.4274103615076861
+665,17,37,0.0,You may become impatient with those who do n't learn as quickly.,You tend to be friendly.,0.5
+666,17,38,0.8924359561972107,You may become impatient with those who do n't learn as quickly.,You tend to be honest.,0.05378202190139464
+667,17,39,0.0,You may become impatient with those who do n't learn as quickly.,You tend to be versatile.,0.5
+668,17,40,0.0,You may become impatient with those who do n't learn as quickly.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+669,17,41,-0.06391866737881191,You may become impatient with those who do n't learn as quickly.,You are quiet.,0.531959333689406
+670,17,42,0.3054726694344402,You may become impatient with those who do n't learn as quickly.,You are shy.,0.3472636652827799
+671,17,43,0.1904357160529713,You may become impatient with those who do n't learn as quickly.,You are sensitive.,0.40478214197351436
+672,17,44,0.030398480694767298,You may become impatient with those who do n't learn as quickly.,You are sentimental.,0.4848007596526164
+673,17,45,0.1904357160529713,You may become impatient with those who do n't learn as quickly.,You are gentle.,0.40478214197351436
+674,17,46,0.07772180015121322,You may become impatient with those who do n't learn as quickly.,You are romantic.,0.4611390999243934
+675,18,19,0.1817772106159794,"You are very direct in thought, action, and speech and everyone knows how you feel.",You are adventurous.,0.4091113946920103
+676,18,20,0.005203351979512528,"You are very direct in thought, action, and speech and everyone knows how you feel.",You are courageous.,0.49739832401024375
+677,18,21,0.300384406284241,"You are very direct in thought, action, and speech and everyone knows how you feel.",You are independent.,0.3498077968578795
+678,18,22,0.2867958904152933,"You are very direct in thought, action, and speech and everyone knows how you feel.","You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.35660205479235335
+679,18,23,0.6805457173314836,"You are very direct in thought, action, and speech and everyone knows how you feel.",You have common sense to manage others.,0.1597271413342582
+680,18,24,0.5076875352909471,"You are very direct in thought, action, and speech and everyone knows how you feel.",You have the ability to manage others.,0.24615623235452644
+681,18,25,0.6425793076996777,"You are very direct in thought, action, and speech and everyone knows how you feel.",You may be a bit of a perfectionist.,0.17871034615016113
+682,18,26,0.6425793076996777,"You are very direct in thought, action, and speech and everyone knows how you feel.",Your mind is deep.,0.17871034615016113
+683,18,27,0.6425793076996777,"You are very direct in thought, action, and speech and everyone knows how you feel.",Your mind is analytical.,0.17871034615016113
+684,18,28,0.6805457173314836,"You are very direct in thought, action, and speech and everyone knows how you feel.",you probably have a good head for numbers.,0.1597271413342582
+685,18,29,0.6425793076996777,"You are very direct in thought, action, and speech and everyone knows how you feel.",Your work is usually neat.,0.17871034615016113
+686,18,30,0.300384406284241,"You are very direct in thought, action, and speech and everyone knows how you feel.",Your work is usually orderly.,0.3498077968578795
+687,18,31,0.7758953019534244,"You are very direct in thought, action, and speech and everyone knows how you feel.",you dislike messes.,0.11205234902328781
+688,18,32,-0.20712781012828207,"You are very direct in thought, action, and speech and everyone knows how you feel.",you dislike dirt.,0.603563905064141
+689,18,33,0.06407218711962188,"You are very direct in thought, action, and speech and everyone knows how you feel.",You tend to be idealistic.,0.46796390644018904
+690,18,34,0.35046138804235316,"You are very direct in thought, action, and speech and everyone knows how you feel.",You tend to be optimistic.,0.3247693059788234
+691,18,35,0.2652734756825473,"You are very direct in thought, action, and speech and everyone knows how you feel.",You tend to be dependable.,0.3673632621587264
+692,18,36,0.06407218711962188,"You are very direct in thought, action, and speech and everyone knows how you feel.",You tend to be open-minded.,0.46796390644018904
+693,18,37,0.0,"You are very direct in thought, action, and speech and everyone knows how you feel.",You tend to be friendly.,0.5
+694,18,38,0.33658931399875375,"You are very direct in thought, action, and speech and everyone knows how you feel.",You tend to be honest.,0.33170534300062315
+695,18,39,0.0,"You are very direct in thought, action, and speech and everyone knows how you feel.",You tend to be versatile.,0.5
+696,18,40,0.0,"You are very direct in thought, action, and speech and everyone knows how you feel.","You are usually outspoken, sometimes to the point of bluntness.",0.5
+697,18,41,-0.5019269059707197,"You are very direct in thought, action, and speech and everyone knows how you feel.",You are quiet.,0.7509634529853598
+698,18,42,0.08614114272168477,"You are very direct in thought, action, and speech and everyone knows how you feel.",You are shy.,0.45692942863915764
+699,18,43,0.6425793076996777,"You are very direct in thought, action, and speech and everyone knows how you feel.",You are sensitive.,0.17871034615016113
+700,18,44,0.23870671881987543,"You are very direct in thought, action, and speech and everyone knows how you feel.",You are sentimental.,0.38064664059006226
+701,18,45,0.6425793076996777,"You are very direct in thought, action, and speech and everyone knows how you feel.",You are gentle.,0.17871034615016113
+702,18,46,0.09374748642938435,"You are very direct in thought, action, and speech and everyone knows how you feel.",You are romantic.,0.4531262567853078
+703,19,20,0.01091451795454824,You are adventurous.,You are courageous.,0.4945427410227259
+704,19,21,0.09172573309239801,You are adventurous.,You are independent.,0.454137133453801
+705,19,22,0.11003173735170838,You are adventurous.,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.4449841313241458
+706,19,23,0.2671050687509337,You are adventurous.,You have common sense to manage others.,0.3664474656245331
+707,19,24,0.21890329475294876,You are adventurous.,You have the ability to manage others.,0.3905483526235256
+708,19,25,0.19762049219712707,You are adventurous.,You may be a bit of a perfectionist.,0.40118975390143646
+709,19,26,0.19762049219712707,You are adventurous.,Your mind is deep.,0.40118975390143646
+710,19,27,0.19762049219712707,You are adventurous.,Your mind is analytical.,0.40118975390143646
+711,19,28,0.2671050687509337,You are adventurous.,you probably have a good head for numbers.,0.3664474656245331
+712,19,29,0.19762049219712707,You are adventurous.,Your work is usually neat.,0.40118975390143646
+713,19,30,0.09172573309239801,You are adventurous.,Your work is usually orderly.,0.454137133453801
+714,19,31,0.2386208357912723,You are adventurous.,you dislike messes.,0.3806895821043639
+715,19,32,0.036579580118171445,You are adventurous.,you dislike dirt.,0.4817102099409143
+716,19,33,0.012939817607417373,You are adventurous.,You tend to be idealistic.,0.4935300911962913
+717,19,34,0.47004104204645963,You are adventurous.,You tend to be optimistic.,0.2649794789767702
+718,19,35,0.425874120029113,You are adventurous.,You tend to be dependable.,0.2870629399854435
+719,19,36,0.012939817607417373,You are adventurous.,You tend to be open-minded.,0.4935300911962913
+720,19,37,0.0,You are adventurous.,You tend to be friendly.,0.5
+721,19,38,0.10278130599225704,You are adventurous.,You tend to be honest.,0.44860934700387145
+722,19,39,0.0,You are adventurous.,You tend to be versatile.,0.5
+723,19,40,0.0,You are adventurous.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+724,19,41,-0.19256862226147448,You are adventurous.,You are quiet.,0.5962843111307372
+725,19,42,-0.03980279341113533,You are adventurous.,You are shy.,0.5199013967055677
+726,19,43,0.19762049219712707,You are adventurous.,You are sensitive.,0.40118975390143646
+727,19,44,0.09158190848287011,You are adventurous.,You are sentimental.,0.45420904575856497
+728,19,45,0.19762049219712707,You are adventurous.,You are gentle.,0.40118975390143646
+729,19,46,0.5157273902031333,You are adventurous.,You are romantic.,0.24213630489843335
+730,20,21,0.011809442073518068,You are courageous.,You are independent.,0.49409527896324096
+731,20,22,0.0,You are courageous.,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.5
+732,20,23,0.008746920107572822,You are courageous.,You have common sense to manage others.,0.4956265399462136
+733,20,24,0.006763926245922206,You are courageous.,You have the ability to manage others.,0.49661803687703887
+734,20,25,0.05350304541370745,You are courageous.,You may be a bit of a perfectionist.,0.4732484772931463
+735,20,26,0.05350304541370745,You are courageous.,Your mind is deep.,0.4732484772931463
+736,20,27,0.05350304541370745,You are courageous.,Your mind is analytical.,0.4732484772931463
+737,20,28,0.008746920107572822,You are courageous.,you probably have a good head for numbers.,0.4956265399462136
+738,20,29,0.05350304541370745,You are courageous.,Your work is usually neat.,0.4732484772931463
+739,20,30,0.011809442073518068,You are courageous.,Your work is usually orderly.,0.49409527896324096
+740,20,31,0.00781414368671061,You are courageous.,you dislike messes.,0.4960929281566447
+741,20,32,-0.007044182526453479,You are courageous.,you dislike dirt.,0.5035220912632268
+742,20,33,0.04260586378347046,You are courageous.,You tend to be idealistic.,0.4786970681082648
+743,20,34,0.02200813139456466,You are courageous.,You tend to be optimistic.,0.48899593430271765
+744,20,35,0.02193703156364314,You are courageous.,You tend to be dependable.,0.48903148421817844
+745,20,36,0.04260586378347046,You are courageous.,You tend to be open-minded.,0.4786970681082648
+746,20,37,0.0,You are courageous.,You tend to be friendly.,0.5
+747,20,38,0.013232817426854568,You are courageous.,You tend to be honest.,0.4933835912865727
+748,20,39,0.0,You are courageous.,You tend to be versatile.,0.5
+749,20,40,0.0,You are courageous.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+750,20,41,0.0,You are courageous.,You are quiet.,0.5
+751,20,42,-0.11852883719420075,You are courageous.,You are shy.,0.5592644185971004
+752,20,43,0.05350304541370745,You are courageous.,You are sensitive.,0.4732484772931463
+753,20,44,0.0,You are courageous.,You are sentimental.,0.5
+754,20,45,0.05350304541370745,You are courageous.,You are gentle.,0.4732484772931463
+755,20,46,0.009248178832822336,You are courageous.,You are romantic.,0.4953759105835888
+756,21,22,0.03652247151328189,You are independent.,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",0.48173876424335904
+757,21,23,0.146362991348338,You are independent.,You have common sense to manage others.,0.426818504325831
+758,21,24,0.09818915158071302,You are independent.,You have the ability to manage others.,0.45090542420964347
+759,21,25,0.1904357160529713,You are independent.,You may be a bit of a perfectionist.,0.40478214197351436
+760,21,26,0.1904357160529713,You are independent.,Your mind is deep.,0.40478214197351436
+761,21,27,0.1904357160529713,You are independent.,Your mind is analytical.,0.40478214197351436
+762,21,28,0.146362991348338,You are independent.,you probably have a good head for numbers.,0.426818504325831
+763,21,29,0.1904357160529713,You are independent.,Your work is usually neat.,0.40478214197351436
+764,21,30,0.0,You are independent.,Your work is usually orderly.,0.5
+765,21,31,0.22994543341052381,You are independent.,you dislike messes.,0.3850272832947381
+766,21,32,0.17184874006108009,You are independent.,you dislike dirt.,0.41407562996945996
+767,21,33,0.1451792769846278,You are independent.,You tend to be idealistic.,0.4274103615076861
+768,21,34,0.3849131061124905,You are independent.,You tend to be optimistic.,0.30754344694375474
+769,21,35,0.4262382324708478,You are independent.,You tend to be dependable.,0.2868808837645761
+770,21,36,0.1451792769846278,You are independent.,You tend to be open-minded.,0.4274103615076861
+771,21,37,0.0,You are independent.,You tend to be friendly.,0.5
+772,21,38,0.8924359561972107,You are independent.,You tend to be honest.,0.05378202190139464
+773,21,39,0.0,You are independent.,You tend to be versatile.,0.5
+774,21,40,0.0,You are independent.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+775,21,41,-0.06391866737881191,You are independent.,You are quiet.,0.531959333689406
+776,21,42,0.3054726694344402,You are independent.,You are shy.,0.3472636652827799
+777,21,43,0.1904357160529713,You are independent.,You are sensitive.,0.40478214197351436
+778,21,44,0.030398480694767298,You are independent.,You are sentimental.,0.4848007596526164
+779,21,45,0.1904357160529713,You are independent.,You are gentle.,0.40478214197351436
+780,21,46,0.07772180015121322,You are independent.,You are romantic.,0.4611390999243934
+781,22,23,0.421420461713962,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",You have common sense to manage others.,0.28928976914301896
+782,22,24,0.2972411941440824,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",You have the ability to manage others.,0.3513794029279588
+783,22,25,0.3117923574243763,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",You may be a bit of a perfectionist.,0.34410382128781186
+784,22,26,0.3117923574243763,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",Your mind is deep.,0.34410382128781186
+785,22,27,0.3117923574243763,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",Your mind is analytical.,0.34410382128781186
+786,22,28,0.421420461713962,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",you probably have a good head for numbers.,0.28928976914301896
+787,22,29,0.3117923574243763,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",Your work is usually neat.,0.34410382128781186
+788,22,30,0.03652247151328188,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",Your work is usually orderly.,0.48173876424335904
+789,22,31,0.3764799494969448,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",you dislike messes.,0.3117600252515276
+790,22,32,-0.05636336120922001,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",you dislike dirt.,0.52818168060461
+791,22,33,0.07298796086554343,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",You tend to be idealistic.,0.46350601956722826
+792,22,34,0.07059044580349673,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",You tend to be optimistic.,0.46470477709825164
+793,22,35,0.06395748732523557,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",You tend to be dependable.,0.46802125633738223
+794,22,36,0.07298796086554343,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",You tend to be open-minded.,0.46350601956722826
+795,22,37,0.0,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",You tend to be friendly.,0.5
+796,22,38,0.04092447335818811,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",You tend to be honest.,0.4795377633209059
+797,22,39,0.0,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",You tend to be versatile.,0.5
+798,22,40,0.0,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.","You are usually outspoken, sometimes to the point of bluntness.",0.5
+799,22,41,-0.5080325400139064,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",You are quiet.,0.7540162700069533
+800,22,42,0.0649670195186806,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",You are shy.,0.4675164902406597
+801,22,43,0.3117923574243763,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",You are sensitive.,0.34410382128781186
+802,22,44,0.8323226615075182,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",You are sentimental.,0.0838386692462409
+803,22,45,0.3117923574243763,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",You are gentle.,0.34410382128781186
+804,22,46,0.04720248523879895,"You tend to be industrious, efficient, practical, exacting, scientific, organized, shy, thrifty, studious, economical, and punctual.",You are romantic.,0.4763987573806005
+805,23,24,0.7460006320834139,You have common sense to manage others.,You have the ability to manage others.,0.12699968395829303
+806,23,25,0.7398605092792208,You have common sense to manage others.,You may be a bit of a perfectionist.,0.13006974536038962
+807,23,26,0.7398605092792208,You have common sense to manage others.,Your mind is deep.,0.13006974536038962
+808,23,27,0.7398605092792208,You have common sense to manage others.,Your mind is analytical.,0.13006974536038962
+809,23,28,0.0,You have common sense to manage others.,you probably have a good head for numbers.,0.5
+810,23,29,0.7398605092792208,You have common sense to manage others.,Your work is usually neat.,0.13006974536038962
+811,23,30,0.14636299134833802,You have common sense to manage others.,Your work is usually orderly.,0.426818504325831
+812,23,31,0.8933594443083296,You have common sense to manage others.,you dislike messes.,0.05332027784583521
+813,23,32,-0.13374614270029556,You have common sense to manage others.,you dislike dirt.,0.5668730713501478
+814,23,33,0.1078382453440233,You have common sense to manage others.,You tend to be idealistic.,0.44608087732798835
+815,23,34,0.10429596502257046,You have common sense to manage others.,You tend to be optimistic.,0.4478520174887148
+816,23,35,0.09449590217312151,You have common sense to manage others.,You tend to be dependable.,0.45275204891343923
+817,23,36,0.1078382453440233,You have common sense to manage others.,You tend to be open-minded.,0.44608087732798835
+818,23,37,0.0,You have common sense to manage others.,You tend to be friendly.,0.5
+819,23,38,0.16400391572299525,You have common sense to manage others.,You tend to be honest.,0.4179980421385024
+820,23,39,0.0,You have common sense to manage others.,You tend to be versatile.,0.5
+821,23,40,0.0,You have common sense to manage others.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+822,23,41,-0.7375359115311847,You have common sense to manage others.,You are quiet.,0.8687679557655923
+823,23,42,0.08386040614607201,You have common sense to manage others.,You are shy.,0.458069796926964
+824,23,43,0.7398605092792208,You have common sense to manage others.,You are sensitive.,0.13006974536038962
+825,23,44,0.35075780030749204,You have common sense to manage others.,You are sentimental.,0.324621099846254
+826,23,45,0.7398605092792208,You have common sense to manage others.,You are gentle.,0.13006974536038962
+827,23,46,0.1377534000169475,You have common sense to manage others.,You are romantic.,0.43112329999152627
+828,24,25,0.5519364075758552,You have the ability to manage others.,You may be a bit of a perfectionist.,0.22403179621207242
+829,24,26,0.5519364075758552,You have the ability to manage others.,Your mind is deep.,0.22403179621207242
+830,24,27,0.5519364075758552,You have the ability to manage others.,Your mind is analytical.,0.22403179621207242
+831,24,28,0.7460006320834139,You have the ability to manage others.,you probably have a good head for numbers.,0.12699968395829303
+832,24,29,0.5519364075758552,You have the ability to manage others.,Your work is usually neat.,0.22403179621207242
+833,24,30,0.09818915158071302,You have the ability to manage others.,Your work is usually orderly.,0.45090542420964347
+834,24,31,0.6664467101317013,You have the ability to manage others.,you dislike messes.,0.16677664493414934
+835,24,32,-0.09977470699313895,You have the ability to manage others.,you dislike dirt.,0.5498873534965695
+836,24,33,0.08339048819768413,You have the ability to manage others.,You tend to be idealistic.,0.45830475590115793
+837,24,34,0.0806512699880717,You have the ability to manage others.,You tend to be optimistic.,0.45967436500596415
+838,24,35,0.07307295653558166,You have the ability to manage others.,You tend to be dependable.,0.46346352173220917
+839,24,36,0.08339048819768413,You have the ability to manage others.,You tend to be open-minded.,0.45830475590115793
+840,24,37,0.0,You have the ability to manage others.,You tend to be friendly.,0.5
+841,24,38,0.11002375117101981,You have the ability to manage others.,You tend to be honest.,0.4449881244144901
+842,24,39,0.0,You have the ability to manage others.,You tend to be versatile.,0.5
+843,24,40,0.0,You have the ability to manage others.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+844,24,41,-0.5202074293594047,You have the ability to manage others.,You are quiet.,0.7601037146797023
+845,24,42,0.0648486090131343,You have the ability to manage others.,You are shy.,0.46757569549343286
+846,24,43,0.5519364075758552,You have the ability to manage others.,You are sensitive.,0.22403179621207242
+847,24,44,0.24740058181967553,You have the ability to manage others.,You are sentimental.,0.37629970909016225
+848,24,45,0.5519364075758552,You have the ability to manage others.,You are gentle.,0.22403179621207242
+849,24,46,0.11289442490980549,You have the ability to manage others.,You are romantic.,0.44355278754509725
+850,25,26,0.0,You may be a bit of a perfectionist.,Your mind is deep.,0.5
+851,25,27,0.0,You may be a bit of a perfectionist.,Your mind is analytical.,0.5
+852,25,28,0.7398605092792208,You may be a bit of a perfectionist.,you probably have a good head for numbers.,0.13006974536038962
+853,25,29,0.0,You may be a bit of a perfectionist.,Your work is usually neat.,0.5
+854,25,30,0.19043571605297133,You may be a bit of a perfectionist.,Your work is usually orderly.,0.40478214197351436
+855,25,31,0.8281778560611142,You may be a bit of a perfectionist.,you dislike messes.,0.08591107196944292
+856,25,32,-0.2342626346405268,You may be a bit of a perfectionist.,you dislike dirt.,0.6171313173202634
+857,25,33,0.06751962392506403,You may be a bit of a perfectionist.,You tend to be idealistic.,0.466240188037468
+858,25,34,0.0771644657973668,You may be a bit of a perfectionist.,You tend to be optimistic.,0.4614177671013166
+859,25,35,0.06991378630660512,You may be a bit of a perfectionist.,You tend to be dependable.,0.4650431068466974
+860,25,36,0.06751962392506403,You may be a bit of a perfectionist.,You tend to be open-minded.,0.466240188037468
+861,25,37,0.0,You may be a bit of a perfectionist.,You tend to be friendly.,0.5
+862,25,38,0.2133886636128417,You may be a bit of a perfectionist.,You tend to be honest.,0.39330566819357915
+863,25,39,0.0,You may be a bit of a perfectionist.,You tend to be versatile.,0.5
+864,25,40,0.0,You may be a bit of a perfectionist.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+865,25,41,-0.5456736951171767,You may be a bit of a perfectionist.,You are quiet.,0.7728368475585883
+866,25,42,-0.20161274719607117,You may be a bit of a perfectionist.,You are shy.,0.6008063735980356
+867,25,43,0.0,You may be a bit of a perfectionist.,You are sensitive.,0.5
+868,25,44,0.25951184476916034,You may be a bit of a perfectionist.,You are sentimental.,0.37024407761541983
+869,25,45,0.0,You may be a bit of a perfectionist.,You are gentle.,0.5
+870,25,46,0.101918300691483,You may be a bit of a perfectionist.,You are romantic.,0.4490408496542585
+871,26,27,0.0,Your mind is deep.,Your mind is analytical.,0.5
+872,26,28,0.7398605092792208,Your mind is deep.,you probably have a good head for numbers.,0.13006974536038962
+873,26,29,0.0,Your mind is deep.,Your work is usually neat.,0.5
+874,26,30,0.19043571605297133,Your mind is deep.,Your work is usually orderly.,0.40478214197351436
+875,26,31,0.8281778560611142,Your mind is deep.,you dislike messes.,0.08591107196944292
+876,26,32,-0.2342626346405268,Your mind is deep.,you dislike dirt.,0.6171313173202634
+877,26,33,0.06751962392506403,Your mind is deep.,You tend to be idealistic.,0.466240188037468
+878,26,34,0.0771644657973668,Your mind is deep.,You tend to be optimistic.,0.4614177671013166
+879,26,35,0.06991378630660512,Your mind is deep.,You tend to be dependable.,0.4650431068466974
+880,26,36,0.06751962392506403,Your mind is deep.,You tend to be open-minded.,0.466240188037468
+881,26,37,0.0,Your mind is deep.,You tend to be friendly.,0.5
+882,26,38,0.2133886636128417,Your mind is deep.,You tend to be honest.,0.39330566819357915
+883,26,39,0.0,Your mind is deep.,You tend to be versatile.,0.5
+884,26,40,0.0,Your mind is deep.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+885,26,41,-0.5456736951171767,Your mind is deep.,You are quiet.,0.7728368475585883
+886,26,42,-0.20161274719607117,Your mind is deep.,You are shy.,0.6008063735980356
+887,26,43,0.0,Your mind is deep.,You are sensitive.,0.5
+888,26,44,0.25951184476916034,Your mind is deep.,You are sentimental.,0.37024407761541983
+889,26,45,0.0,Your mind is deep.,You are gentle.,0.5
+890,26,46,0.101918300691483,Your mind is deep.,You are romantic.,0.4490408496542585
+891,27,28,0.7398605092792208,Your mind is analytical.,you probably have a good head for numbers.,0.13006974536038962
+892,27,29,0.0,Your mind is analytical.,Your work is usually neat.,0.5
+893,27,30,0.19043571605297133,Your mind is analytical.,Your work is usually orderly.,0.40478214197351436
+894,27,31,0.8281778560611142,Your mind is analytical.,you dislike messes.,0.08591107196944292
+895,27,32,-0.2342626346405268,Your mind is analytical.,you dislike dirt.,0.6171313173202634
+896,27,33,0.06751962392506403,Your mind is analytical.,You tend to be idealistic.,0.466240188037468
+897,27,34,0.0771644657973668,Your mind is analytical.,You tend to be optimistic.,0.4614177671013166
+898,27,35,0.06991378630660512,Your mind is analytical.,You tend to be dependable.,0.4650431068466974
+899,27,36,0.06751962392506403,Your mind is analytical.,You tend to be open-minded.,0.466240188037468
+900,27,37,0.0,Your mind is analytical.,You tend to be friendly.,0.5
+901,27,38,0.2133886636128417,Your mind is analytical.,You tend to be honest.,0.39330566819357915
+902,27,39,0.0,Your mind is analytical.,You tend to be versatile.,0.5
+903,27,40,0.0,Your mind is analytical.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+904,27,41,-0.5456736951171767,Your mind is analytical.,You are quiet.,0.7728368475585883
+905,27,42,-0.20161274719607117,Your mind is analytical.,You are shy.,0.6008063735980356
+906,27,43,0.0,Your mind is analytical.,You are sensitive.,0.5
+907,27,44,0.25951184476916034,Your mind is analytical.,You are sentimental.,0.37024407761541983
+908,27,45,0.0,Your mind is analytical.,You are gentle.,0.5
+909,27,46,0.101918300691483,Your mind is analytical.,You are romantic.,0.4490408496542585
+910,28,29,0.7398605092792208,you probably have a good head for numbers.,Your work is usually neat.,0.13006974536038962
+911,28,30,0.14636299134833802,you probably have a good head for numbers.,Your work is usually orderly.,0.426818504325831
+912,28,31,0.8933594443083296,you probably have a good head for numbers.,you dislike messes.,0.05332027784583521
+913,28,32,-0.13374614270029556,you probably have a good head for numbers.,you dislike dirt.,0.5668730713501478
+914,28,33,0.1078382453440233,you probably have a good head for numbers.,You tend to be idealistic.,0.44608087732798835
+915,28,34,0.10429596502257046,you probably have a good head for numbers.,You tend to be optimistic.,0.4478520174887148
+916,28,35,0.09449590217312151,you probably have a good head for numbers.,You tend to be dependable.,0.45275204891343923
+917,28,36,0.1078382453440233,you probably have a good head for numbers.,You tend to be open-minded.,0.44608087732798835
+918,28,37,0.0,you probably have a good head for numbers.,You tend to be friendly.,0.5
+919,28,38,0.16400391572299525,you probably have a good head for numbers.,You tend to be honest.,0.4179980421385024
+920,28,39,0.0,you probably have a good head for numbers.,You tend to be versatile.,0.5
+921,28,40,0.0,you probably have a good head for numbers.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+922,28,41,-0.7375359115311847,you probably have a good head for numbers.,You are quiet.,0.8687679557655923
+923,28,42,0.08386040614607201,you probably have a good head for numbers.,You are shy.,0.458069796926964
+924,28,43,0.7398605092792208,you probably have a good head for numbers.,You are sensitive.,0.13006974536038962
+925,28,44,0.35075780030749204,you probably have a good head for numbers.,You are sentimental.,0.324621099846254
+926,28,45,0.7398605092792208,you probably have a good head for numbers.,You are gentle.,0.13006974536038962
+927,28,46,0.1377534000169475,you probably have a good head for numbers.,You are romantic.,0.43112329999152627
+928,29,30,0.19043571605297133,Your work is usually neat.,Your work is usually orderly.,0.40478214197351436
+929,29,31,0.8281778560611142,Your work is usually neat.,you dislike messes.,0.08591107196944292
+930,29,32,-0.2342626346405268,Your work is usually neat.,you dislike dirt.,0.6171313173202634
+931,29,33,0.06751962392506403,Your work is usually neat.,You tend to be idealistic.,0.466240188037468
+932,29,34,0.0771644657973668,Your work is usually neat.,You tend to be optimistic.,0.4614177671013166
+933,29,35,0.06991378630660512,Your work is usually neat.,You tend to be dependable.,0.4650431068466974
+934,29,36,0.06751962392506403,Your work is usually neat.,You tend to be open-minded.,0.466240188037468
+935,29,37,0.0,Your work is usually neat.,You tend to be friendly.,0.5
+936,29,38,0.2133886636128417,Your work is usually neat.,You tend to be honest.,0.39330566819357915
+937,29,39,0.0,Your work is usually neat.,You tend to be versatile.,0.5
+938,29,40,0.0,Your work is usually neat.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+939,29,41,-0.5456736951171767,Your work is usually neat.,You are quiet.,0.7728368475585883
+940,29,42,-0.20161274719607117,Your work is usually neat.,You are shy.,0.6008063735980356
+941,29,43,0.0,Your work is usually neat.,You are sensitive.,0.5
+942,29,44,0.25951184476916034,Your work is usually neat.,You are sentimental.,0.37024407761541983
+943,29,45,0.0,Your work is usually neat.,You are gentle.,0.5
+944,29,46,0.101918300691483,Your work is usually neat.,You are romantic.,0.4490408496542585
+945,30,31,0.22994543341052381,Your work is usually orderly.,you dislike messes.,0.3850272832947381
+946,30,32,0.17184874006108009,Your work is usually orderly.,you dislike dirt.,0.41407562996945996
+947,30,33,0.1451792769846278,Your work is usually orderly.,You tend to be idealistic.,0.4274103615076861
+948,30,34,0.3849131061124905,Your work is usually orderly.,You tend to be optimistic.,0.30754344694375474
+949,30,35,0.4262382324708478,Your work is usually orderly.,You tend to be dependable.,0.2868808837645761
+950,30,36,0.1451792769846278,Your work is usually orderly.,You tend to be open-minded.,0.4274103615076861
+951,30,37,0.0,Your work is usually orderly.,You tend to be friendly.,0.5
+952,30,38,0.8924359561972107,Your work is usually orderly.,You tend to be honest.,0.05378202190139464
+953,30,39,0.0,Your work is usually orderly.,You tend to be versatile.,0.5
+954,30,40,0.0,Your work is usually orderly.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+955,30,41,-0.06391866737881191,Your work is usually orderly.,You are quiet.,0.531959333689406
+956,30,42,0.3054726694344402,Your work is usually orderly.,You are shy.,0.3472636652827799
+957,30,43,0.1904357160529713,Your work is usually orderly.,You are sensitive.,0.40478214197351436
+958,30,44,0.030398480694767298,Your work is usually orderly.,You are sentimental.,0.4848007596526164
+959,30,45,0.1904357160529713,Your work is usually orderly.,You are gentle.,0.40478214197351436
+960,30,46,0.07772180015121322,Your work is usually orderly.,You are romantic.,0.4611390999243934
+961,31,32,-0.2828651272502023,you dislike messes.,you dislike dirt.,0.6414325636251011
+962,31,33,0.09633831493572195,you dislike messes.,You tend to be idealistic.,0.451830842532139
+963,31,34,0.09317378535616454,you dislike messes.,You tend to be optimistic.,0.45341310732191775
+964,31,35,0.08441880665479412,you dislike messes.,You tend to be dependable.,0.4577905966726029
+965,31,36,0.09633831493572195,you dislike messes.,You tend to be open-minded.,0.451830842532139
+966,31,37,0.0,you dislike messes.,You tend to be friendly.,0.5
+967,31,38,0.2576604313326327,you dislike messes.,You tend to be honest.,0.37116978433368364
+968,31,39,0.0,you dislike messes.,You tend to be versatile.,0.5
+969,31,40,0.0,you dislike messes.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+970,31,41,-0.6588846720829364,you dislike messes.,You are quiet.,0.8294423360414682
+971,31,42,0.07491748583412573,you dislike messes.,You are shy.,0.46254125708293714
+972,31,43,0.8281778560611142,you dislike messes.,You are sensitive.,0.08591107196944292
+973,31,44,0.3133527935695132,you dislike messes.,You are sentimental.,0.3433236032152434
+974,31,45,0.8281778560611142,you dislike messes.,You are gentle.,0.08591107196944292
+975,31,46,0.12306330089072325,you dislike messes.,You are romantic.,0.43846834955463837
+976,32,33,0.0,you dislike dirt.,You tend to be idealistic.,0.5
+977,32,34,0.01719390395636726,you dislike dirt.,You tend to be optimistic.,0.4914030480218164
+978,32,35,0.0155782964938607,you dislike dirt.,You tend to be dependable.,0.49221085175306967
+979,32,36,0.0,you dislike dirt.,You tend to be open-minded.,0.5
+980,32,37,0.0,you dislike dirt.,You tend to be friendly.,0.5
+981,32,38,0.19256142568857335,you dislike dirt.,You tend to be honest.,0.4037192871557133
+982,32,39,0.0,you dislike dirt.,You tend to be versatile.,0.5
+983,32,40,0.0,you dislike dirt.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+984,32,41,0.09864258327024239,you dislike dirt.,You are quiet.,0.4506787083648788
+985,32,42,0.0,you dislike dirt.,You are shy.,0.5
+986,32,43,-0.23426263464052682,you dislike dirt.,You are sensitive.,0.6171313173202634
+987,32,44,-0.046912502813167604,you dislike dirt.,You are sentimental.,0.5234562514065838
+988,32,45,-0.23426263464052682,you dislike dirt.,You are gentle.,0.6171313173202634
+989,32,46,0.01886509138907098,you dislike dirt.,You are romantic.,0.4905674543054645
+990,33,34,0.20901633789887025,You tend to be idealistic.,You tend to be optimistic.,0.39549183105056485
+991,33,35,0.18049875043236205,You tend to be idealistic.,You tend to be dependable.,0.40975062478381896
+992,33,36,0.0,You tend to be idealistic.,You tend to be open-minded.,0.5
+993,33,37,0.0,You tend to be idealistic.,You tend to be friendly.,0.5
+994,33,38,0.16267752994092274,You tend to be idealistic.,You tend to be honest.,0.4186612350295386
+995,33,39,0.0,You tend to be idealistic.,You tend to be versatile.,0.5
+996,33,40,0.0,You tend to be idealistic.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+997,33,41,-0.1277376092011138,You tend to be idealistic.,You are quiet.,0.5638688046005569
+998,33,42,-0.14052306669879944,You tend to be idealistic.,You are shy.,0.5702615333493997
+999,33,43,0.06751962392506404,You tend to be idealistic.,You are sensitive.,0.466240188037468
+1000,33,44,0.060749533845615704,You tend to be idealistic.,You are sentimental.,0.4696252330771922
+1001,33,45,0.06751962392506404,You tend to be idealistic.,You are gentle.,0.466240188037468
+1002,33,46,0.010964272338535206,You tend to be idealistic.,You are romantic.,0.4945178638307324
+1003,34,35,0.9060360307579671,You tend to be optimistic.,You tend to be dependable.,0.04698198462101644
+1004,34,36,0.2090163378988703,You tend to be optimistic.,You tend to be open-minded.,0.39549183105056485
+1005,34,37,0.0,You tend to be optimistic.,You tend to be friendly.,0.5
+1006,34,38,0.43130613848489124,You tend to be optimistic.,You tend to be honest.,0.28434693075755435
+1007,34,39,0.0,You tend to be optimistic.,You tend to be versatile.,0.5
+1008,34,40,0.0,You tend to be optimistic.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+1009,34,41,-0.12354167279711316,You tend to be optimistic.,You are quiet.,0.5617708363985566
+1010,34,42,-0.030738367250132202,You tend to be optimistic.,You are shy.,0.5153691836250661
+1011,34,43,0.07716446579736677,You tend to be optimistic.,You are sensitive.,0.4614177671013166
+1012,34,44,0.05875402772816862,You tend to be optimistic.,You are sentimental.,0.4706229861359157
+1013,34,45,0.07716446579736677,You tend to be optimistic.,You are gentle.,0.4614177671013166
+1014,34,46,0.3982790292447458,You tend to be optimistic.,You are romantic.,0.3008604853776271
+1015,35,36,0.18049875043236205,You tend to be dependable.,You tend to be open-minded.,0.40975062478381896
+1016,35,37,0.0,You tend to be dependable.,You tend to be friendly.,0.5
+1017,35,38,0.4776121238851761,You tend to be dependable.,You tend to be honest.,0.261193938057412
+1018,35,39,0.0,You tend to be dependable.,You tend to be versatile.,0.5
+1019,35,40,0.0,You tend to be dependable.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+1020,35,41,-0.11193320685429593,You tend to be dependable.,You are quiet.,0.555966603427148
+1021,35,42,-0.05526889100386726,You tend to be dependable.,You are shy.,0.5276344455019336
+1022,35,43,0.0699137863066051,You tend to be dependable.,You are sensitive.,0.4650431068466975
+1023,35,44,0.05323326607387344,You tend to be dependable.,You are sentimental.,0.47338336696306327
+1024,35,45,0.0699137863066051,You tend to be dependable.,You are gentle.,0.4650431068466975
+1025,35,46,0.36085515079104585,You tend to be dependable.,You are romantic.,0.3195724246044771
+1026,36,37,0.0,You tend to be open-minded.,You tend to be friendly.,0.5
+1027,36,38,0.16267752994092274,You tend to be open-minded.,You tend to be honest.,0.4186612350295386
+1028,36,39,0.0,You tend to be open-minded.,You tend to be versatile.,0.5
+1029,36,40,0.0,You tend to be open-minded.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+1030,36,41,-0.1277376092011138,You tend to be open-minded.,You are quiet.,0.5638688046005569
+1031,36,42,-0.14052306669879944,You tend to be open-minded.,You are shy.,0.5702615333493997
+1032,36,43,0.06751962392506404,You tend to be open-minded.,You are sensitive.,0.466240188037468
+1033,36,44,0.060749533845615704,You tend to be open-minded.,You are sentimental.,0.4696252330771922
+1034,36,45,0.06751962392506404,You tend to be open-minded.,You are gentle.,0.466240188037468
+1035,36,46,0.010964272338535206,You tend to be open-minded.,You are romantic.,0.4945178638307324
+1036,37,38,0.0,You tend to be friendly.,You tend to be honest.,0.5
+1037,37,39,0.0,You tend to be friendly.,You tend to be versatile.,0.5
+1038,37,40,0.0,You tend to be friendly.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+1039,37,41,0.0,You tend to be friendly.,You are quiet.,0.5
+1040,37,42,0.0,You tend to be friendly.,You are shy.,0.5
+1041,37,43,0.0,You tend to be friendly.,You are sensitive.,0.5
+1042,37,44,0.0,You tend to be friendly.,You are sentimental.,0.5
+1043,37,45,0.0,You tend to be friendly.,You are gentle.,0.5
+1044,37,46,0.0,You tend to be friendly.,You are romantic.,0.5
+1045,38,39,0.0,You tend to be honest.,You tend to be versatile.,0.5
+1046,38,40,0.0,You tend to be honest.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+1047,38,41,-0.07162269397030786,You tend to be honest.,You are quiet.,0.535811346985154
+1048,38,42,0.34229085831111095,You tend to be honest.,You are shy.,0.3288545708444445
+1049,38,43,0.21338866361284173,You tend to be honest.,You are sensitive.,0.39330566819357915
+1050,38,44,0.034062366586280646,You tend to be honest.,You are sentimental.,0.48296881670685965
+1051,38,45,0.21338866361284173,You tend to be honest.,You are gentle.,0.39330566819357915
+1052,38,46,0.08708949881669517,You tend to be honest.,You are romantic.,0.45645525059165243
+1053,39,40,0.0,You tend to be versatile.,"You are usually outspoken, sometimes to the point of bluntness.",0.5
+1054,39,41,0.0,You tend to be versatile.,You are quiet.,0.5
+1055,39,42,0.0,You tend to be versatile.,You are shy.,0.5
+1056,39,43,0.0,You tend to be versatile.,You are sensitive.,0.5
+1057,39,44,0.0,You tend to be versatile.,You are sentimental.,0.5
+1058,39,45,0.0,You tend to be versatile.,You are gentle.,0.5
+1059,39,46,0.0,You tend to be versatile.,You are romantic.,0.5
+1060,40,41,0.0,"You are usually outspoken, sometimes to the point of bluntness.",You are quiet.,0.5
+1061,40,42,0.0,"You are usually outspoken, sometimes to the point of bluntness.",You are shy.,0.5
+1062,40,43,0.0,"You are usually outspoken, sometimes to the point of bluntness.",You are sensitive.,0.5
+1063,40,44,0.0,"You are usually outspoken, sometimes to the point of bluntness.",You are sentimental.,0.5
+1064,40,45,0.0,"You are usually outspoken, sometimes to the point of bluntness.",You are gentle.,0.5
+1065,40,46,0.0,"You are usually outspoken, sometimes to the point of bluntness.",You are romantic.,0.5
+1066,41,42,-0.11370000821815078,You are quiet.,You are shy.,0.5568500041090754
+1067,41,43,-0.5456736951171766,You are quiet.,You are sensitive.,0.7728368475585883
+1068,41,44,-0.4228469958367994,You are quiet.,You are sentimental.,0.7114234979183998
+1069,41,45,-0.5456736951171766,You are quiet.,You are gentle.,0.7728368475585883
+1070,41,46,-0.08260996116691759,You are quiet.,You are romantic.,0.5413049805834588
+1071,42,43,-0.20161274719607114,You are shy.,You are sensitive.,0.6008063735980356
+1072,42,44,0.05407352259599913,You are shy.,You are sentimental.,0.4729632387020004
+1073,42,45,-0.20161274719607114,You are shy.,You are gentle.,0.6008063735980356
+1074,42,46,-0.033726029225016586,You are shy.,You are romantic.,0.5168630146125083
+1075,43,44,0.25951184476916034,You are sensitive.,You are sentimental.,0.37024407761541983
+1076,43,45,0.0,You are sensitive.,You are gentle.,0.5
+1077,43,46,0.101918300691483,You are sensitive.,You are romantic.,0.4490408496542585
+1078,44,45,0.2595118447691602,You are sentimental.,You are gentle.,0.3702440776154199
+1079,44,46,0.03928769814372649,You are sentimental.,You are romantic.,0.48035615092813677
+1080,45,46,0.101918300691483,You are gentle.,You are romantic.,0.4490408496542585

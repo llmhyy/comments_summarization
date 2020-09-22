@@ -1,0 +1,1338 @@
+,score,definition,trait
+0,0.0830179060135012,being of the age 13 through 19,teenage
+1,0.6926595044699698,being of use or service,useful
+2,0.33993557598594176,having a useful function,useful
+3,0.0106928358880464,characterized by malice,hateful
+4,0.06471907683943534,evoking or deserving hatred,hateful
+5,0.0861293731885269,provided with a motive or given incentive for action,motivated
+6,0.5344769724335585,(used of tobacco) aging as a preservative process (`aged' is pronounced as one syllable),aged
+7,0.2804494377480793,having attained a specific age; (`aged' is pronounced as one syllable),aged
+8,0.1721111234073283,"of wines, fruit, cheeses; having reached a desired or final condition; (`aged' pronounced as one syllable)",aged
+9,0.03890195481593374,advanced in years; (`aged' is pronounced as two syllables),aged
+10,0.06413496335804407,at an advanced stage of erosion (pronounced as one syllable),aged
+11,0.7104481500138052,beyond or deviating from the usual or expected,funny
+12,0.190145559798428,not as expected,funny
+13,0.21745128308091813,arousing or provoking laughter,funny
+14,0.1641418183313609,experiencing odd bodily sensations,funny
+15,0.6926595044699698,being of use or service,utile
+16,0.05267053323439123,not auspicious; boding ill,unfortunate
+17,0.7132194766973147,not favored by fortune; marked or accompanied by or resulting in ill fortune,unfortunate
+18,0.4457867612550678,unsuitable or regrettable,unfortunate
+19,0.3336913056150689,showing or giving mercy,merciful
+20,0.10316986058843071,(used conventionally of royalty and high nobility) gracious,merciful
+21,0.12121439465043718,having or revealing stupidity,foolish
+22,0.06975592841154162,devoid of good sense or judgment,foolish
+23,0.09836724060656694,lacking intelligence,stupid
+24,0.14197699190220245,in a state of mental numbness especially as resulting from shock,stupid
+25,0.6943637667764079,lacking or marked by lack of intellectual acuity,stupid
+26,0.32937385114191886,(usually followed by `to') strongly opposed,antipathetic
+27,0.03658304787804259,characterized by antagonism or antipathy,antipathetic
+28,0.5910332050863066,involving competition or competitiveness,competitive
+29,0.0008335240170142225,showing a fighting disposition,competitive
+30,0.28125681466618757,subscribing to capitalistic competition,competitive
+31,0.32611942710841735,lacking orderly continuity,confused
+32,0.07110874795936507,perplexed by many conflicting situations or statements; filled with bewilderment,confused
+33,0.5174083294515904,thrown into a state of disarray or confusion,confused
+34,0.06481214168639493,having lost your bearings; confused as to time or place or personal identity,confused
+35,0.03826063196535065,mentally confused; unable to think with clarity or act intelligently,confused
+36,0.0018829192618041617,"suggesting taste, ease, and wealth",refined
+37,0.09490536063751594,freed from impurities by processing,refined
+38,0.0006381577738977498,showing a high degree of refinement and the assurance that comes from wide social experience,refined
+39,0.10705299713812376,precise to a fine degree,refined
+40,0.08563837306443445,(used of persons and their behavior) cultivated and genteel,refined
+41,0.42762795347616944,in keeping,concordant
+42,0.3527633879045549,being of the same opinion,concordant
+43,0.27457350977849454,having little desire for success or achievement,unambitious
+44,0.08671172993383774,in danger of the eternal punishment of Hell,doomed
+45,0.37424842218490034,marked by or promising bad fortune,doomed
+46,0.20808989230396846,(usually followed by `to') determined by tragic fate,doomed
+47,0.058885860651890526,marked for certain death,doomed
+48,0.014225062292526422,characterized by hard work and perseverance,untiring
+49,0.00425187449281013,tastelessly showy,loud
+50,0.00877032816790623,(used chiefly as a direction or description in music) loud; with force,loud
+51,0.07128870088499903,characterized by or producing sound of great volume or intensity,loud
+52,0.25121045050234825,marked by or showing unaffected simplicity and lack of guile or worldly experience,naive
+53,0.19224527656565724,lacking information or instruction,naive
+54,0.5784122876016087,of or created by one without formal training; simple or naive in style,naive
+55,0.49146144190158997,not initiated; deficient in relevant experience,naive
+56,0.35496267336155535,inexperienced,naive
+57,0.21124169019923805,not in agreement,inconsistent
+58,0.622024263228135,displaying a lack of consistency,inconsistent
+59,0.22852939554442617,not capable of being made consistent or harmonious,inconsistent
+60,0.2598175311258122,(used of societies) having high industrial development,developed
+61,0.40138123804136305,being changed over time so as to be e.g. stronger or more complete or more useful,developed
+62,0.14738371796332794,(of real estate) made more useful and profitable as by building or laying out roads,developed
+63,0.05044309602098327,engaged in or ready for military or naval operations,active
+64,0.6334145144814698,(used of verbs (e.g. `to run') and participial adjectives (e.g. `running' in `running water')) expressing action rather than a state of being,active
+65,0.1343665146848361,taking part in an activity,active
+66,0.2998468276949047,in operation,active
+67,0.0007849201463165205,characterized by energetic activity,active
+68,0.40287057147915833,disposed to take action or effectuate change,active
+69,0.047525913048360215,engaged in full-time work,active
+70,0.6517633947264585,exerting influence or producing a change or effect,active
+71,0.6483932253507214,expressing that the subject of the sentence has the semantic function of actor:,active
+72,0.00414741305154588,full of activity or engaged in continuous activity,active
+73,0.16805654550705088,(of e.g. volcanos) capable of erupting,active
+74,0.21729186808941256,(of e.g. volcanos) erupting or liable to erupt,active
+75,0.12566423370856478,(of the sun) characterized by an increased occurrence of sunspots and flares and radio emissions,active
+76,0.023108522125570803,tending to become more severe or wider in scope,active
+77,0.04885460712252233,used especially of drugs or muscles that counteract or neutralize each other's effect,incompatible
+78,0.06293195007346183,not compatible with other facts,incompatible
+79,0.6115486548991099,of words so related that one contrasts with the other,incompatible
+80,0.2423019241064799,not in keeping with what is correct or proper,incompatible
+81,0.1628617384958493,not easy to combine harmoniously,incompatible
+82,0.28189924778523356,not suitable to your tastes or needs,incompatible
+83,0.24037009166639853,incapable of being used with or connected to other devices or components without modification,incompatible
+84,0.24474371939451683,not compatible,incompatible
+85,0.19901373579718049,used especially of solids or solutions; incapable of blending into a stable homogeneous mixture,incompatible
+86,0.6666448397710412,constructing or tending to construct or improve or promote development,constructive
+87,0.39584611619709875,emphasizing what is laudable or hopeful or to the good,constructive
+88,0.5081399501892034,"(of ideas, images, representations, expressions) characterized by perfect conformity to fact or truth; strictly correct",precise
+89,0.5377921205948598,sharply exact or accurate or delimited,precise
+90,0.6583524098171673,not hospitable,inhospitable
+91,0.27810791543355345,unfavorable to life or growth,inhospitable
+92,0.18490463251357242,accurately fitted; level,true
+93,0.6229626848329761,not pretended; sincerely felt or expressed,true
+94,0.1842311896307338,in tune; accurate in pitch,true
+95,0.04743998806619808,having a legally established claim,true
+96,0.08406884101673949,worthy of being depended on,true
+97,0.6291849668040694,accurately placed or thrown,true
+98,0.36982240320540394,expressing or given to expressing the truth,true
+99,0.20033819024769056,conforming to definitive criteria,true
+100,0.6208879177281574,consistent with fact or reality; not false,true
+101,0.2088145011945518,determined with reference to the earth's axis rather than the magnetic poles,true
+102,0.009936325839380278,devoted (sometimes fanatically) to a cause or concept or truth,true
+103,0.07908029685780571,rightly so called,true
+104,0.36625297006450447,lacking power,powerless
+105,0.5065309655747624,given or giving freely,openhanded
+106,0.3760598327618971,not precise,imprecise
+107,0.0069234157116123025,characteristic of an enemy or one eager to fight,aggressive
+108,0.011007676059099934,tending to spread quickly,aggressive
+109,0.08497608313124358,having or showing determination and energetic pursuit of your ends,aggressive
+110,0.05310964805461508,full of or characterized by humor,humourous
+111,0.018069983732164636,characteristic of those having an inflated idea of their own importance,narcissistic
+112,0.42511059231167364,showing or having compassion,compassionate
+113,0.05366624264787807,not resentful,unresentful
+114,0.0063731240812141005,characterized by intense emotion,fervent
+115,0.19436991763012823,"(archaic) extremely hot, burning, or glowing",fervent
+116,0.4951354026371249,able to exist and perform in harmonious or agreeable combination,compatible
+117,0.32069784016470987,capable of being used with or connected to other devices or components without modification,compatible
+118,0.14620222107964412,capable of forming a homogeneous mixture that neither separates nor is altered by chemical interaction,compatible
+119,0.009117763397634432,going directly ahead from one point to another without veering or turning aside,undeviating
+120,0.012005047038148042,used of values and principles; not subject to change; steady,undeviating
+121,0.0830179060135012,being of the age 13 through 19,teenaged
+122,0.06447197173611512,vile; despicable,lousy
+123,0.09918919760105384,very bad,lousy
+124,0.09320173521424827,infested with lice,lousy
+125,0.0046767320313360365,invulnerable to fear or intimidation,dauntless
+126,0.16158037292428465,having or fostering a warm or friendly and informal atmosphere,informal
+127,0.2017952847437466,not officially recognized or controlled,informal
+128,0.6167509110139364,not formal,informal
+129,0.06496516191514544,used of spoken and written language,informal
+130,0.06116017287333757,characterized by kindness and warm courtesy especially of a king to his subjects,gracious
+131,0.02668136793580197,exhibiting courtesy and politeness,gracious
+132,0.002555677111836202,"characterized by charm, good taste, and generosity of spirit",gracious
+133,0.024552318345124773,disposed to bestow favors,gracious
+134,0.16158037292428465,having or fostering a warm or friendly and informal atmosphere,intimate
+135,0.20478032572128826,having mutual interests or affections; of established friendship,intimate
+136,0.20902781543757312,concerning things deeply private and personal,intimate
+137,0.025362198574243558,involved in a sexual relationship,intimate
+138,0.03361249812546542,thoroughly acquainted through study or experience,intimate
+139,0.44092381188836854,innermost or essential,intimate
+140,0.5134063064238836,"marked by close acquaintance, association, or familiarity",intimate
+141,0.31030816933903643,used euphemistically to refer to the genitals,intimate
+142,0.03501558294634044,pleasantly cold and invigorating,snappy
+143,0.07375610338197668,marked by up-to-dateness in dress and manners,snappy
+144,0.0025135631680589373,quick and energetic,snappy
+145,0.006943245503939041,apt to speak irritably,snappy
+146,0.006017020989493657,smart and fashionable,snappy
+147,0.5340460212885656,not friendly,inimical
+148,0.7104481500138052,beyond or deviating from the usual or expected,odd
+149,0.34759789830134624,of the remaining member of a pair,odd
+150,0.2124380865352333,not divisible by two,odd
+151,0.18917160863320484,not used up,odd
+152,0.05708504747004875,an indefinite quantity more than that specified,odd
+153,0.16924767535845361,not easily explained,odd
+154,0.03605752483482797,pleasantly (even unrealistically) optimistic,upbeat
+155,0.7225087149236329,of or relating to the chin or median part of the lower jaw,mental
+156,0.1374560163766633,affected by a disorder of the mind,mental
+157,0.7524454485900617,involving the mind or an intellectual process,mental
+158,0.3302657700208779,of or relating to the chin- or liplike structure in insects and certain mollusks,mental
+159,0.5065309655747624,given or giving freely,giving
+160,0.5194319532475833,presaging or likely to bring good luck or a good outcome,lucky
+161,0.34908846257412857,having or bringing good fortune,lucky
+162,0.07985895694720323,occurring by chance,lucky
+163,0.06859800966187064,not known before,strange
+164,0.8167663671209578,relating to or originating in or characteristic of another place or part of the world,strange
+165,0.2345881738832001,being definitely out of the ordinary and unexpected; slightly odd or even a bit weird,strange
+166,0.2338007151917159,in disagreement,conflicting
+167,0.10038389429461231,on bad terms,conflicting
+168,0.6736341169619525,lacking social graces,discourteous
+169,0.01318268275774812,showing no courtesy; rude,discourteous
+170,0.07179390342224232,exhibiting childlike simplicity and credulity,childlike
+171,0.05483786077558294,befitting a young child,childlike
+172,0.14162906903955383,weak and likely to lose consciousness,faint
+173,0.26360969723152333,deficient in magnitude; barely perceptible; lacking clarity or brightness or loudness etc,faint
+174,0.6781460728032394,lacking conviction or boldness or courage,faint
+175,0.6323692210773848,lacking strength or vigor,faint
+176,0.5148118519301028,lacking clarity or distinctness,faint
+177,0.219603898196665,indistinctly understood or felt or perceived,faint
+178,0.4362606220805028,used especially of persons,stouthearted
+179,0.5270319803027996,(of birds) having developed feathers or plumage; often used in combination,mature
+180,0.049777644351190045,fully considered and perfected,mature
+181,0.009503482816748258,fully developed or matured and ready to be eaten or used,mature
+182,0.03987898808078988,characteristic of maturity,mature
+183,0.0114423684571163,having reached full natural growth or development,mature
+184,0.1513772666481137,(of hair) neat and tidy,tidy
+185,0.07528259095448497,large in amount or extent or degree,tidy
+186,0.37484156492407783,marked by order and cleanliness in appearance or habits,tidy
+187,0.42762795347616944,in keeping,consonant
+188,0.44104653545362404,involving or characterized by harmony,consonant
+189,0.017480730277395443,disregarding your own advantages and welfare over those of others,unselfish
+190,0.6200874372772145,not greedy,unselfish
+191,0.10407605763963446,showing empathy or ready comprehension of others' states,empathic
+192,0.024186727510280916,"unrestrained, especially with regard to feelings",exuberant
+193,0.0042098075514641654,joyously unrestrained,exuberant
+194,0.2268947070670095,produced or growing in extreme abundance,exuberant
+195,0.001977818248040941,showing malicious ill will and a desire to hurt; motivated by spite,spiteful
+196,0.07076876113097469,sticking together,coherent
+197,0.3484895188427595,"marked by an orderly, logical, and aesthetically consistent relation of parts",coherent
+198,0.007171973726448645,capable of thinking and expressing yourself in a clear and consistent manner,coherent
+199,0.6849830024766406,not brilliant or glaring,soft
+200,0.29986176927958025,"(used chiefly as a direction or description in music) soft; in a quiet, subdued tone",soft
+201,0.5183199892881755,produced with vibration of the vocal cords,soft
+202,0.11472690541504169,out of condition; not strong or robust; incapable of exertion or endurance,soft
+203,0.6465707717035067,(of light) transmitted from a broad light source or reflected,soft
+204,0.1276883881480375,easily hurt,soft
+205,0.18615567121699272,having little impact,soft
+206,0.37772960692522417,tolerant or lenient,soft
+207,0.03585667228060026,mild and pleasant,soft
+208,0.4329032083845768,not burdensome or demanding; borne or done easily and without hardship,soft
+209,0.33342560748150424,soft and mild; not harsh or stern or severe,soft
+210,0.018591604063160665,compassionate and kind; conciliatory,soft
+211,0.6115241419985249,(of a commodity or market or currency) falling or likely to fall in value,soft
+212,0.25805376700896837,(of sound) relatively low in volume,soft
+213,0.4667100963458578,(of speech sounds); produced with the back of the tongue raised toward the hard palate; characterized by a hissing or hushing sound (as `s' and `sh'),soft
+214,0.3882535325638392,using evidence not readily amenable to experimental verification or refutation,soft
+215,0.03298498334207359,willing to negotiate and compromise,soft
+216,0.13717583895002786,yielding readily to pressure or weight,soft
+217,0.04885460712252233,used especially of drugs or muscles that counteract or neutralize each other's effect,antagonistic
+218,0.5049803785092121,indicating opposition or resistance,antagonistic
+219,0.03658304787804259,characterized by antagonism or antipathy,antagonistic
+220,0.014734443306668264,arousing animosity or hostility,antagonistic
+221,0.4730334576236094,incapable of harmonious association,antagonistic
+222,0.00653710078680808,diffusing warmth and friendliness,cordial
+223,0.008203733588809698,politely warm and friendly,cordial
+224,0.5467140770697272,sincerely or intensely felt,cordial
+225,0.17219633209308718,not worthy of trust or belief,untrustworthy
+226,0.0068042610257759975,designed to arouse lust,adult
+227,0.018004411259470363,(of animals) fully developed,adult
+228,0.5628356960339289,having or displaying warmth or affection,affectionate
+229,0.6043772988177115,lacking in magnanimity,ungenerous
+230,0.17115903758797135,"unwilling to spend (money, time, resources, etc.)",ungenerous
+231,0.16158037292428465,having or fostering a warm or friendly and informal atmosphere,cozy
+232,0.32981233370886626,enjoying or affording comforting warmth and shelter especially in a small space,cozy
+233,0.029889181864051175,suggesting connivance,cozy
+234,0.7683624731619481,of or associated with or requiring the use of the mind,rational
+235,0.6626961999286793,capable of being expressed as a quotient of integers,rational
+236,0.8062009556855287,consistent with or based on or using reason,rational
+237,0.5937866331588145,having its source in or being guided by the intellect (as distinguished from experience or emotion),rational
+238,0.4697657752460494,befitting or characteristic of a young boy,boyish
+239,0.3748003679900066,lacking sincerity,insincere
+240,0.32347544611958823,not carefully or expertly made,crude
+241,0.14189465884922012,devoid of any qualifications or disguise or adornment,crude
+242,0.38000580306681797,not refined or processed,crude
+243,0.004638709163278734,conspicuously and tastelessly indecent,crude
+244,0.023297978420892436,belonging to an early stage of technical development; characterized by simplicity and (often) crudeness,crude
+245,0.2240284091685599,not processed or subjected to analysis,crude
+246,0.44329092248090624,correct in opinion or judgment,right
+247,0.1441832034617766,intended for the right hand,right
+248,0.37411819460032075,(informal) very; used informally as an intensifier,right
+249,0.21862321049912953,socially right or correct,right
+250,0.4928878401084957,in accord with accepted standards of usage or procedure,right
+251,0.07485342538492087,precisely accurate,right
+252,0.09351709502978234,free from error; especially conforming to fact or truth,right
+253,0.587737237737827,"appropriate for a condition or purpose or occasion or a person's character, needs",right
+254,0.3087449701460558,most suitable or right for a particular purpose,right
+255,0.6998485015905492,being or located on or directed toward the side of the body to the east when facing north,right
+256,0.38494626165350043,having the axis perpendicular to the base,right
+257,0.43633939276086403,in conformance with justice or law or morality,right
+258,0.40039681858289644,in or into a satisfactory condition,right
+259,0.3521510443338856,of or belonging to the political or intellectual right,right
+260,0.7598140110543359,(of the side of cloth or clothing) facing or intended to face outward,right
+261,0.3169193188228267,tested and proved useful or correct,tested
+262,0.09628493864951351,tested and proved to be reliable,tested
+263,0.343034056503962,not disposed to cheat or defraud; not deceptive or fraudulent,honorable
+264,0.17156078885225765,adhering to ethical and moral principles,honorable
+265,0.01932978971745814,deserving of esteem and respect,honorable
+266,0.1103749881974106,worthy of being honored; entitled to honor and respect,honorable
+267,0.30856151360372114,capable of being wounded or hurt,vulnerable
+268,0.13409966823117267,susceptible to attack,vulnerable
+269,0.23600312296842785,susceptible to criticism or persuasion or temptation,vulnerable
+270,0.012661779290340045,making great mental demands; hard to comprehend or solve or believe,problematic
+271,0.10849067742664815,open to doubt or debate,problematic
+272,0.4672948091039466,lacking excess flesh,thin
+273,0.3146304655969042,not dense,thin
+274,0.6102017397646337,lacking substance or significance,thin
+275,0.08991961038357286,very narrow,thin
+276,0.5664660690100889,lacking spirit or sincere effort,thin
+277,0.6669691175315225,of relatively small extent from one surface to the opposite or in cross section,thin
+278,0.5650267178072008,(of sound) lacking resonance or volume,thin
+279,0.2843625761623642,relatively thin in consistency or low in density; not viscous,thin
+280,0.3071206982221376,disposed to please,amiable
+281,0.00653710078680808,diffusing warmth and friendliness,amiable
+282,0.858350675940735,not ostentatious,unostentatious
+283,0.5935589972284343,exhibiting restrained good taste,unostentatious
+284,0.4464635319975632,worthy of trust or belief,trusty
+285,0.0004980855481241893,flamboyantly adventurous,swashbuckling
+286,0.18009001194729363,being the agent or cause,responsible
+287,0.07764891302980734,having an acceptable credit rating,responsible
+288,0.6764898412007948,worthy of or requiring responsibility or trust; or held accountable,responsible
+289,0.03671940066599485,having calluses; having skin made tough and thick through wear,callous
+290,0.004950028191619384,emotionally hardened,callous
+291,0.48705772547587983,socially incorrect in behavior,rude
+292,0.17839688645334445,(used especially of commodities) being unprocessed or manufactured using only simple or minimal processes,rude
+293,0.3749845382084923,lacking civility or good manners,rude
+294,0.023297978420892436,belonging to an early stage of technical development; characterized by simplicity and (often) crudeness,rude
+295,0.7105399832703698,(of persons) lacking in refinement or grace,rude
+296,0.4336649901834395,"wanting in moral strength, courage, or will; having the attributes of man as opposed to e.g. divine beings",fallible
+297,0.1291628323778918,likely to fail or make errors,fallible
+298,0.48705772547587983,socially incorrect in behavior,unmannered
+299,0.09563302104558294,without artificiality; natural,unmannered
+300,0.7643804805327901,(of something seen or heard) clearly defined,sharp
+301,0.007389960953288484,marked by practical hardheaded intelligence,sharp
+302,0.07820284289952406,extremely steep,sharp
+303,0.2752819508607575,having or emitting a high-pitched and sharp tone or tones,sharp
+304,0.42623561568370144,having or demonstrating ability to recognize or draw fine distinctions,sharp
+305,0.03510340081292929,harsh,sharp
+306,0.18188049526832853,ending in a sharp point,sharp
+307,0.7015786901196663,having or made by a thin edge or sharp point; suitable for cutting or piercing,sharp
+308,0.2664759241830486,keenly and painfully felt; as if caused by a sharp edge or point,sharp
+309,0.2630549126827472,(of a musical note) raised in pitch by one chromatic semitone,sharp
+310,0.006909827534921912,quick and forceful,sharp
+311,0.06329638665136951,very sudden and in great amount or degree,sharp
+312,0.26360969723152333,deficient in magnitude; barely perceptible; lacking clarity or brightness or loudness etc,weak
+313,0.6468525311289831,(used of vowels or syllables) pronounced with little or no stress,weak
+314,0.22732712857049875,overly diluted; thin and insipid,weak
+315,0.4336649901834395,"wanting in moral strength, courage, or will; having the attributes of man as opposed to e.g. divine beings",weak
+316,0.5397177002057147,lacking bodily or muscular strength or vitality,weak
+317,0.1843235413091316,deficient in intelligence or mental power,weak
+318,0.7129404665555831,deficient or lacking in some skill,weak
+319,0.17700532023340468,likely to fail under stress or pressure,weak
+320,0.25273665569529935,"not having authority, political strength, or governing power",weak
+321,0.11293748546720316,tending downward in price,weak
+322,0.7314816347881686,(used of verbs) having standard (or regular) inflection,weak
+323,0.12254747734481582,wanting in physical strength,weak
+324,0.003332103041280628,possessing or displaying courage; able to face and deal with danger or fear without flinching,brave
+325,0.0046767320313360365,invulnerable to fear or intimidation,brave
+326,0.00033350690864902296,brightly colored and showy,brave
+327,0.5919969915184501,based on known statements or events or conditions,logical
+328,0.3484895188427595,"marked by an orderly, logical, and aesthetically consistent relation of parts",logical
+329,0.007171973726448645,capable of thinking and expressing yourself in a clear and consistent manner,logical
+330,0.6593282874055448,capable of or reflecting the capability for correct and valid reasoning,logical
+331,0.012661779290340045,making great mental demands; hard to comprehend or solve or believe,problematical
+332,0.10849067742664815,open to doubt or debate,problematical
+333,0.002986766772341801,annoyed and irritable,grouchy
+334,0.011571198630282368,friendly and pleasant,sociable
+335,0.5671719398726516,inclined to or conducive to companionship with others,sociable
+336,0.002986766772341801,annoyed and irritable,grumpy
+337,0.10407605763963446,showing empathy or ready comprehension of others' states,empathetic
+338,0.3447543010832666,not in accord,discrepant
+339,0.06293195007346183,not compatible with other facts,discrepant
+340,0.21124169019923805,not in agreement,discrepant
+341,0.05352083256700898,characterized by directness in manner or speech; without subtlety or evasion,blunt
+342,0.14189465884922012,devoid of any qualifications or disguise or adornment,blunt
+343,0.555726310653458,having a broad or rounded end,blunt
+344,0.16692318007937804,used of a knife or other blade; not sharp,blunt
+345,0.001445767506459317,showing extreme cupidity; painfully desirous of another's advantages,jealous
+346,0.12756956244714976,suspicious or unduly suspicious or fearful of being displaced by a rival,jealous
+347,0.021867877457662097,elegant and stylish,chic
+348,0.4984243942338127,disposed to venture or take risks,venturesome
+349,0.47848041454537094,in harmony with the spirit of particular persons or occasion,decent
+350,0.2633860795163135,socially or conventionally correct; refined or virtuous,decent
+351,0.06392921772259487,meeting requirements,decent
+352,0.04312805227260518,conforming to conventions of sexual behavior,decent
+353,0.09159365693437271,observing conventional sexual mores in speech or behavior or dress,decent
+354,0.059815559588401436,sufficiently clothed to see visitors or appear in public,decent
+355,0.7308950399145764,represented in simplified or symbolic form,formal
+356,0.014442027824690914,refined or imposing in manner or appearance; befitting a royal court,formal
+357,0.1508824913338253,being in accord with established forms and conventions and requirements (as e.g. of formal dress),formal
+358,0.10367420889182942,characteristic of or befitting a person in authority,formal
+359,0.1607959936987261,logically deductive,formal
+360,0.24162613004086175,"(of spoken and written language) adhering to traditional standards of correctness and without casual, contracted, and colloquial forms",formal
+361,0.42762795347616944,in keeping,agreeable
+362,0.31819509437765053,prepared to agree or consent,agreeable
+363,0.00420790296678325,characterized by the attitude of a philosopher; meeting trouble with level-headed detachment,philosophical
+364,0.4989197308402486,of or relating to philosophy or philosophers,philosophical
+365,0.22659659116936723,clean or organized,orderly
+366,0.4123777907282274,having the ability or power to create,creative
+367,0.20982388960367238,promoting construction or creation,creative
+368,0.022906790408912185,made lively or spirited,spirited
+369,0.0029597233066674415,willing to face danger,spirited
+370,0.0010437628188562616,marked by lively action,spirited
+371,0.027294308461970822,"displaying animation, vigor, or liveliness",spirited
+372,0.1699333259449432,lacking depth of intellect or knowledge; concerned only with what is obvious,shallow
+373,0.5826050123880812,lacking physical depth; having little spatial extension downward or inward from an outer surface or backward or outward from a center,shallow
+374,0.670092301910412,not deep or strong; not affecting one deeply,shallow
+375,0.09836724060656694,lacking intelligence,unintelligent
+376,0.16046307742637134,having or showing keen interest or intense desire or impatient expectancy,eager
+377,0.4464635319975632,worthy of trust or belief,trustworthy
+378,0.24032694209194613,taking responsibility for one's conduct and obligations,trustworthy
+379,0.032976664033011485,"ludicrous, foolish",goofy
+380,0.13514713942518547,young and inexperienced,callow
+381,0.0830179060135012,being of the age 13 through 19,teen
+382,0.03359637012792433,given to expressing yourself freely or insistently,vocal
+383,0.0618523762856273,full of the sound of voices,vocal
+384,0.02668136793580197,exhibiting courtesy and politeness,courteous
+385,0.023405436179618613,characterized by courtesy and gracious good manners,courteous
+386,0.5065309655747624,given or giving freely,bounteous
+387,0.15402133923291383,not neat and tidy,untidy
+388,0.07195366270617057,affected with madness or insanity,crazy
+389,0.026727718659640985,foolish; totally unsound,crazy
+390,0.06424343736085165,intensely enthusiastic about or preoccupied with,crazy
+391,0.2011236583710021,bizarre or fantastic,crazy
+392,0.0019055696957236779,possessed by inordinate excitement,crazy
+393,0.7243696798145761,involving or causing danger or risk; liable to hurt or harm,unsafe
+394,0.5061267708518797,lacking in security or safety,unsafe
+395,0.08765917528409108,not safe from attack,unsafe
+396,0.43328471955303255,without motivation,unmotivated
+397,0.24967703146090103,not easily irritated,placid
+398,0.2934780975190008,(of a body of water) free from disturbance by heavy waves,placid
+399,0.15425962589260636,capable of being corrupted,dishonest
+400,0.35681967720407726,deceptive or fraudulent; disposed to cheat or defraud or deceive,dishonest
+401,0.0046767320313360365,invulnerable to fear or intimidation,intrepid
+402,0.03704742957502754,more than is usual or necessary,generous
+403,0.012761038176530485,not petty in character and mind,generous
+404,0.0045695132965573515,willing to give and share unstintingly,generous
+405,0.018004411259470363,(of animals) fully developed,grownup
+406,0.14197699190220245,in a state of mental numbness especially as resulting from shock,stupefied
+407,0.14689912357564186,as if struck dumb with astonishment and surprise,stupefied
+408,0.6781460728032394,lacking conviction or boldness or courage,fainthearted
+409,0.0818647536622645,"agreeable, conducive to comfort",genial
+410,0.00653710078680808,diffusing warmth and friendliness,genial
+411,0.7225087149236329,of or relating to the chin or median part of the lower jaw,genial
+412,0.47098648822257866,regarded with disfavor or lacking general approval,unpopular
+413,0.39175095456261366,pertaining to or concerned with the humanities,humane
+414,0.14365618869555727,marked or motivated by concern with the alleviation of suffering,humane
+415,0.005473058433033175,showing evidence of moral and intellectual advancement,humane
+416,0.1949368493670497,darkened with overcast,dull
+417,0.13410328109915653,so lacking in interest as to cause mental weariness,dull
+418,0.23782539710916928,slow to learn or understand; lacking intellectual acuity,dull
+419,0.6550033325971408,being or made softer or less loud or clear,dull
+420,0.16275324685452144,not clear and resonant; sounding as if striking with or against something relatively soft,dull
+421,0.5575193434219419,(of business) not active or brisk,dull
+422,0.7871576168524969,blunted in responsiveness or sensibility,dull
+423,0.29411457483790815,emitting or reflecting very little light,dull
+424,0.6364612781517842,lacking in liveliness or animation,dull
+425,0.5183369814200596,not having a sharp edge or point,dull
+426,0.6405013757453166,not keenly felt,dull
+427,0.23371382888521255,(of color) very low in saturation; highly diluted,dull
+428,0.30711897747986683,lacking in insight or discernment,obtuse
+429,0.23782539710916928,slow to learn or understand; lacking intellectual acuity,obtuse
+430,0.12187286603382773,(of a leaf shape) rounded at the apex,obtuse
+431,0.38000580306681797,not refined or processed,unprocessed
+432,0.3982379386707722,not altered from an original or natural state,unprocessed
+433,0.3175187692667847,not treated or prepared by a special process,unprocessed
+434,0.11048032653808058,covered with water,inundated
+435,0.4079754284479387,indicating a lack of maturity,infantile
+436,0.5223294606997042,being or befitting or characteristic of an infant,infantile
+437,0.006371009328260672,attracting attention by showiness or bright colors,noisy
+438,0.019562120063510654,full of or characterized by loud and nonmusical sounds,noisy
+439,0.26607463573898815,not practical or realizable; speculative,impractical
+440,0.3860847083008809,not practical; not workable or not given to practical matters,impractical
+441,0.5081399501892034,"(of ideas, images, representations, expressions) characterized by perfect conformity to fact or truth; strictly correct",exact
+442,0.18555881367503324,marked by strict and particular and complete accordance with fact,exact
+443,0.7386495472357508,representing or appealing to or adapted for the benefit of the people at large,popular
+444,0.09318787032586125,(of music or art) new and of general appeal (especially among young people),popular
+445,0.5197965798047418,carried on by or for the people (or citizens) at large,popular
+446,0.05493248304898009,"regarded with great favor, approval, or affection especially by the general public",popular
+447,0.5949458392780296,not excessive or extreme,reasonable
+448,0.13390890012144943,marked by sound judgment,reasonable
+449,0.269262263781976,showing reason or sound judgment,reasonable
+450,0.0038225034846076037,confidently optimistic and cheerful,sanguine
+451,0.03536411389040661,inclined to a healthy reddish color often associated with outdoor life,sanguine
+452,0.4348276582465339,"not developed, improved, exploited or used",undeveloped
+453,0.5737565517966337,"not developed, mature, or fully formulated",undeveloped
+454,0.3187045466824971,hurting,raw
+455,0.0821125194841295,lacking training or experience,raw
+456,0.24650521055710076,used of wood and furniture,raw
+457,0.05165708851557336,(used informally) completely unclothed,raw
+458,0.17839688645334445,(used especially of commodities) being unprocessed or manufactured using only simple or minimal processes,raw
+459,0.02291948076531178,devoid of elaboration or diminution or concealment; bare and pure,raw
+460,0.2240284091685599,not processed or subjected to analysis,raw
+461,0.11557165282197156,unpleasantly cold and damp,raw
+462,0.12563376738258344,brutally unfair or harsh,raw
+463,0.02482340921428752,having the surface exposed and painful,raw
+464,0.5130648777725416,not processed or refined,raw
+465,0.17607201656354785,not treated with heat to prepare it for eating,raw
+466,0.0064981161843149175,untempered and unrefined,raw
+467,0.008627607293362358,exhibiting native good judgment,commonsensical
+468,0.07307460621032016,completely unordered and unpredictable and confusing,disorderly
+469,0.05968889808088153,in utter disorder,disorderly
+470,0.0027488278456730053,undisciplined and unruly,disorderly
+471,0.010599783209136616,providing enjoyment; pleasantly entertaining,amusing
+472,0.21745128308091813,arousing or provoking laughter,amusing
+473,0.06896057437465078,depriving of confidence or hope or enthusiasm and hence often deterring action,discouraging
+474,0.07440280808537553,expressing disapproval in order to dissuade,discouraging
+475,0.06975690965389382,(of language) transparently clear; easily understandable,lucid
+476,0.4497642981819554,transmitting light; able to be seen through with clarity,lucid
+477,0.007171973726448645,capable of thinking and expressing yourself in a clear and consistent manner,lucid
+478,0.023506270989073947,having a clear mind,lucid
+479,0.012226226228464358,willing to undertake or seeking out new and daring enterprises,adventuresome
+480,0.00038697718018198163,aggressively self-assured,assertive
+481,0.5784122876016087,of or created by one without formal training; simple or naive in style,primitive
+482,0.2594884692986524,little evolved from or characteristic of an earlier ancestral type,primitive
+483,0.023297978420892436,belonging to an early stage of technical development; characterized by simplicity and (often) crudeness,primitive
+484,0.24002122051169647,used of preliterate or tribal or nonindustrial societies,primitive
+485,0.10040232469309873,(usually followed by `of') without due thought or consideration,careless
+486,0.010620025048327675,effortless and unstudied,careless
+487,0.6629257531001078,marked by lack of attention or consideration or forethought or thoroughness; not careful,careless
+488,0.26860216481057053,not established or confirmed,uncertain
+489,0.15457539664566186,subject to change,uncertain
+490,0.9065439114933219,lacking or indicating lack of confidence or assurance,uncertain
+491,0.1924168212143518,ambiguous (especially in the negative),uncertain
+492,0.6047869549463228,not certain to occur; not inevitable,uncertain
+493,0.3050098557143439,not consistent or dependable,uncertain
+494,0.12920290265159853,not established beyond doubt; still undecided or unknown,uncertain
+495,0.0033975636615654263,unsparing and uncompromising in discipline or judgment,severe
+496,0.06688967076035171,severely simple,severe
+497,0.484664510676976,intensely or extremely bad or unpleasant in degree or quality,severe
+498,0.009728169496543848,very strong or vigorous,severe
+499,0.06677524801616425,causing fear or anxiety by threatening great harm,severe
+500,0.19187659128804044,very bad in degree or extent,severe
+501,0.8287323661969498,marked by or paying little heed or attention,unheeding
+502,0.20154670025887864,(of a manuscript) having few alterations or corrections,fair
+503,0.04161837411116076,very pleasing to the eye,fair
+504,0.5949458392780296,not excessive or extreme,fair
+505,0.29605929882195814,free from favoritism or self-interest or bias or deception; conforming with established standards or rules,fair
+506,0.5061221854116806,(used of hair or skin) pale or light-colored,fair
+507,0.4273122152127789,gained or earned without cheating or stealing,fair
+508,0.5556435071496059,lacking exceptional quality or ability,fair
+509,0.009137218291045881,attractively feminine,fair
+510,0.08867750384593058,free of clouds or rain,fair
+511,0.1660224723895948,(of a baseball) hit between the foul lines,fair
+512,0.3749845382084923,lacking civility or good manners,uncivil
+513,0.14197699190220245,in a state of mental numbness especially as resulting from shock,stunned
+514,0.06884049181281789,knocked unconscious by a heavy blow,stunned
+515,0.3782499134017502,filled with the emotional impact of overwhelming surprise or shock,stunned
+516,0.6781460728032394,lacking conviction or boldness or courage,timid
+517,0.8027858518818791,lacking self-confidence,timid
+518,0.8253849879021562,showing fear and lack of confidence,timid
+519,0.0102774349823003,having or showing great excitement and interest,enthusiastic
+520,0.1343665146848361,taking part in an activity,participating
+521,0.385445813796964,concerned chiefly or only with yourself and your advantage to the exclusion of others,selfish
+522,0.10579746766944748,free from undue bias or preconceived opinions,impartial
+523,0.6862585787328339,showing lack of favoritism,impartial
+524,0.04070066261417786,providing no assistance,unhelpful
+525,0.10868186752996042,very unfavorable to life or growth,uncongenial
+526,0.28189924778523356,not suitable to your tastes or needs,uncongenial
+527,0.17044541885805817,used of plant stock or scions; incapable of being grafted,uncongenial
+528,0.07375610338197668,marked by up-to-dateness in dress and manners,natty
+529,0.0361274758549411,oblivious of dangers or perils or calmly resolute in facing them,fearless
+530,0.0046767320313360365,invulnerable to fear or intimidation,fearless
+531,0.007899866004974946,instinctively or temperamentally seeking and enjoying the company of others,gregarious
+532,0.0839943320040982,(of animals) tending to form a group with others of the same species,gregarious
+533,0.23071652425627615,(of plants) growing in groups that are close together,gregarious
+534,0.07485342538492087,precisely accurate,veracious
+535,0.04217423588844479,habitually speaking the truth,veracious
+536,0.6353266182577019,affirming or giving assent,affirmative
+537,0.043851746708771094,expecting the best,affirmative
+538,0.42499805330097745,expressing or manifesting praise or approval,affirmative
+539,0.652147968616225,involving advantage or good,positive
+540,0.00041853943111650366,marked by excessive confidence,positive
+541,0.5399100126481211,indicating existence or presence of a suspected condition or pathogen,positive
+542,0.019599841286131483,persuaded of; very sure,positive
+543,0.2964090826380898,of or relating to positivism,positive
+544,0.10467978146814164,impossible to deny or disprove,positive
+545,0.03353648474291762,having a positive charge,positive
+546,0.43963128668270557,formally laid down or imposed,positive
+547,0.23680660939327486,characterized by or displaying affirmation or acceptance or certainty etc.,positive
+548,0.3092747206718226,greater than zero,positive
+549,0.12462743054718808,(of birds) not yet having developed feathers,immature
+550,0.36037299131734163,(used of living things especially persons) in an early period of life or development or growth,immature
+551,0.42030916798471624,not fully developed or mature; not ripe,immature
+552,0.24698089465282336,characteristic of a lack of maturity,immature
+553,0.1602632497634082,not yet mature,immature
+554,0.21120721889271954,"designed or tending to discredit, especially without positive or helpful suggestions",negative
+555,0.23964497180653122,not indicating the presence of microorganisms or disease or a specific condition,negative
+556,0.40466691558512047,involving disadvantage or harm,negative
+557,0.4206438757009841,having a negative charge,negative
+558,0.49060582475958553,characterized by or displaying negation or denial or opposition or resistance; having no positive features,negative
+559,0.7003872394396867,expressing or consisting of a negation or refusal or denial,negative
+560,0.6817897445919837,having the quality of something harmful or unpleasant,negative
+561,0.42612925561485554,less than zero,negative
+562,0.20940197059997226,radically new or original,daring
+563,0.4984243942338127,disposed to venture or take risks,daring
+564,0.11203682686358007,expecting the worst possible outcome,pessimistic
+565,0.02235095668423701,furnishing support and encouragement,encouraging
+566,0.016851865522763704,giving courage or confidence or hope,encouraging
+567,0.7683624731619481,of or associated with or requiring the use of the mind,intellectual
+568,0.02040707553943451,involving intelligence rather than emotions or instinct,intellectual
+569,0.5289029864263589,appealing to or using the intellect,intellectual
+570,0.0009106218613141688,having or feeling no doubt or uncertainty; confident and assured,sure
+571,0.34339205558654035,certain to occur; destined or inevitable,sure
+572,0.12244473293892041,impossible to doubt or dispute,sure
+573,0.01571707611075837,exercising or taking care great enough to bring assurance,sure
+574,0.45943532026657946,reliable in operation or effect,sure
+575,0.5050215257592198,(of persons) worthy of trust or confidence,sure
+576,0.10559433161046303,certain not to fail,sure
+577,0.14703420115789165,infallible or unfailing,sure
+578,0.10780442829894839,physically secure or dependable,sure
+579,0.599059812333358,(followed by `of' or `to') having a strong preference or liking for,partial
+580,0.7828695046211424,being or affecting only a part; not total,partial
+581,0.024302705050257188,showing favoritism,partial
+582,0.03494900132664331,highly complex or intricate and occasionally devious,involved
+583,0.24153979084040178,entangled or hindered as if e.g. in mire,involved
+584,0.8201041127839117,connected by participation or association or use,involved
+585,0.0213966369211395,emotionally involved,involved
+586,0.5600068138039992,enveloped,involved
+587,0.03430930180861261,marked by refinement in taste and manners,polite
+588,0.47042777450550877,not rude; marked by satisfactory (or especially minimal) adherence to social usages and sufficient but not noteworthy consideration for others,polite
+589,0.07533178664701845,"showing regard for others in manners, speech, behavior, etc.",polite
+590,0.01904852969437145,of behavior that is impressive and ambitious in scale or scope,heroic
+591,0.002206155843158853,showing extreme courage; especially of actions courageously undertaken in desperation as a last resort,heroic
+592,0.1324075184100963,having or displaying qualities appropriate for heroes,heroic
+593,0.03621294481184358,very imposing or impressive; surpassing the ordinary (especially in size or scale),heroic
+594,0.21745128308091813,arousing or provoking laughter,comical
+595,0.13397682473117617,conforming to fact and therefore worthy of belief,reliable
+596,0.34782616622051593,worthy of reliance or trust,reliable
+597,0.08406884101673949,worthy of being depended on,reliable
+598,0.12065500507621309,unable to speak because of hereditary deafness,dumb
+599,0.23782539710916928,slow to learn or understand; lacking intellectual acuity,dumb
+600,0.5722832918283677,temporarily incapable of speaking,dumb
+601,0.5411894071800069,lacking the power of human speech,dumb
+602,0.5081399501892034,"(of ideas, images, representations, expressions) characterized by perfect conformity to fact or truth; strictly correct",accurate
+603,0.46084578250342945,conforming exactly or almost exactly to fact or to a standard or performing with total accuracy,accurate
+604,0.4712918246901339,(informal) small and of little importance,little
+605,0.4880015334288644,lowercase,little
+606,0.4503600453697713,low in stature; not tall,little
+607,0.6396140926365428,(quantifier used with mass nouns) small in quantity or degree; not much or almost none or (with `a') at least some,little
+608,0.07191167929876488,"(of children and animals) young, immature",little
+609,0.44426739824865025,(of a voice) faint,little
+610,0.6259898255214321,limited or below average in number or quantity or magnitude or extent,little
+611,0.22794024010875724,small in a way that arouses feelings (of tenderness or its opposite depending on the context),little
+612,0.7182832341633747,characterized by a lack of partiality,unbiased
+613,0.16188553779287038,without bias,unbiased
+614,0.435599161613668,lacking in harmony or compatibility or appropriateness,incongruous
+615,0.03598062275922105,generous in assistance to the poor,benevolent
+616,0.028784490588695342,generous in providing aid to others,benevolent
+617,0.06361756634608028,showing or motivated by sympathy and understanding and generosity,benevolent
+618,0.6102017397646337,lacking substance or significance,tenuous
+619,0.35200158643333124,having thin consistency,tenuous
+620,0.14280799355213825,very thin in gauge or diameter,tenuous
+621,0.00478203395718176,showing courage,spunky
+622,0.0029597233066674415,willing to face danger,spunky
+623,0.42934273885625346,lacking in energy or will,inactive
+624,0.0786622952213113,(military) not involved in military operations,inactive
+625,0.5773867077242599,not in physical motion,inactive
+626,0.27194975040135594,(of e.g. volcanos) not erupting and not extinct,inactive
+627,0.32289238584810226,(chemistry) not participating in a chemical reaction; chemically inert,inactive
+628,0.49648101452554977,lacking activity; lying idle or unused,inactive
+629,0.27355606852228714,not active physically or mentally,inactive
+630,0.2393689934513691,not engaged in full-time work,inactive
+631,0.49943178325857046,not exerting influence or change,inactive
+632,0.29446044631417667,(pathology) not progressing or increasing; or progressing slowly,inactive
+633,0.11048032653808058,covered with water,flooded
+634,0.004569589559174449,popular and considered appealing or fashionable at the time,fashionable
+635,0.29532273367544437,being or in accordance with current social fashions,fashionable
+636,0.2614842278574901,having elegance or taste or refinement in manners or dress,fashionable
+637,0.5347185691459775,(of characters in literature or drama) evoking empathic or sympathetic feelings,sympathetic
+638,0.4347286118955151,relating to vibrations that occur as a result of vibrations in a nearby body,sympathetic
+639,0.06361756634608028,showing or motivated by sympathy and understanding and generosity,sympathetic
+640,0.6991930611480702,expressing or feeling or resulting from sympathy or compassion or friendly fellow feelings; disposed toward,sympathetic
+641,0.025776272606615455,having similar disposition and tastes,sympathetic
+642,0.5378256831311035,of or relating to the sympathetic nervous system,sympathetic
+643,0.07528259095448497,large in amount or extent or degree,hefty
+644,0.00846386149454267,(of a person) possessing physical strength and weight; rugged and powerful,hefty
+645,0.006562830226763015,of considerable weight and size,hefty
+646,0.25261743499421035,with or in a close or intimate relationship,good
+647,0.09717511158146684,exerting force or influence,good
+648,0.6750355428034647,promoting or enhancing well-being,good
+649,0.4348914205814196,tending to promote physical well-being; beneficial to health,good
+650,0.12789151491888873,appealing to the mind,good
+651,0.06999996678742028,of moral excellence,good
+652,0.21591045619179824,not left to spoil,good
+653,0.021917845288067936,in excellent physical condition,good
+654,0.1792533199389592,not forged,good
+655,0.06703196410417785,having the normally expected amount,good
+656,0.01932978971745814,deserving of esteem and respect,good
+657,0.06081873609610513,resulting favorably,good
+658,0.4467957912084707,having or showing knowledge and skill and aptitude,good
+659,0.0989290741823013,financially safe,good
+660,0.3087449701460558,most suitable or right for a particular purpose,good
+661,0.5396717960220233,agreeable or pleasing,good
+662,0.19029855635717324,capable of pleasing,good
+663,0.04098807040796751,generally admired,good
+664,0.5668658070296958,having desirable or positive qualities especially those suitable for a thing specified,good
+665,0.04933125251498418,morally admirable,good
+666,0.04906995983645878,thorough,good
+667,0.48641192609935735,having unsuitable feminine qualities,effeminate
+668,0.7792509099784022,being quiet or still or inactive,quiescent
+669,0.5704848717023652,marked by a state of tranquil repose,quiescent
+670,0.7776923400753588,not active or activated,quiescent
+671,0.06389775091845862,(pathology) causing no symptoms,quiescent
+672,0.24831694137838095,not worthy of reliance or trust,unreliable
+673,0.19606200514922378,liable to be erroneous or misleading,unreliable
+674,0.06777444696053128,dangerously unstable and unpredictable,unreliable
+675,0.3433561160782112,lacking a sense of responsibility,unreliable
+676,0.10579746766944748,free from undue bias or preconceived opinions,unprejudiced
+677,0.012226226228464358,willing to undertake or seeking out new and daring enterprises,adventurous
+678,0.03430930180861261,marked by refinement in taste and manners,cultured
+679,0.02714335716057002,combining clever conception and facetious expression,witty
+680,0.29532273367544437,being or in accordance with current social fashions,stylish
+681,0.2614842278574901,having elegance or taste or refinement in manners or dress,stylish
+682,0.07977182100526317,beyond normal limits,unreasonable
+683,0.21711450353260767,not reasonable; not showing good judgment,unreasonable
+684,0.8431582945948657,lacking in boldness,unadventurous
+685,0.021086816252575028,careful and sensible; marked by sound judgment,prudent
+686,0.003332103041280628,possessing or displaying courage; able to face and deal with danger or fear without flinching,courageous
+687,0.2735453072938452,not polite,impolite
+688,0.06361756634608028,showing or motivated by sympathy and understanding and generosity,charitable
+689,0.011739085410673106,full of love and generosity,charitable
+690,0.2402313873487822,marked by fidelity to an original,faithful
+691,0.0966554267670033,"not having sexual relations with anyone except your husband or wife, or your boyfriend or girlfriend",faithful
+692,0.08609106369427913,steadfast in affection or allegiance,faithful
+693,0.5735446624836492,lacking in or deprived of strength or power,incapacitated
+694,0.5340460212885656,not friendly,unfriendly
+695,0.10868186752996042,very unfavorable to life or growth,unfriendly
+696,0.321189780508728,not disposed to friendship or friendliness,unfriendly
+697,0.17729920096941768,not easy to understand or use,unfriendly
+698,0.17629124049215425,not agreeing with your tastes or expectations,disagreeable
+699,0.37002064612894275,not to your liking,disagreeable
+700,0.07333195074937782,unpleasant to interact with,disagreeable
+701,0.17194025859405043,having a mental age of between eight and twelve years,moronic
+702,0.14197699190220245,in a state of mental numbness especially as resulting from shock,dazed
+703,0.14292349727249445,stunned or confused and slow to react (as from blows or drunkenness or exhaustion),dazed
+704,0.10868186752996042,very unfavorable to life or growth,hostile
+705,0.06342572805931018,characterized by enmity or ill will,hostile
+706,0.10191656331231641,impossible to bring into friendly accord,hostile
+707,0.11289247350736366,unsolicited and resisted by the management of the target company (used of attempts to buy or take control of a business),hostile
+708,0.07375610338197668,marked by up-to-dateness in dress and manners,dapper
+709,0.5347185691459775,(of characters in literature or drama) evoking empathic or sympathetic feelings,likable
+710,0.015031109386727972,easy to like; agreeable,likable
+711,0.2934780975190008,(of a body of water) free from disturbance by heavy waves,tranquil
+712,0.6829846487967131,not agitated; without losing self-possession,tranquil
+713,0.7182832341633747,characterized by a lack of partiality,indifferent
+714,0.4960368512246421,(usually followed by `to') unwilling or refusing to pay heed,indifferent
+715,0.5474446045094735,(often followed by `to') lacking importance; not mattering one way or the other,indifferent
+716,0.9416653240403917,marked by a lack of interest,indifferent
+717,0.09153844621587981,being neither good nor bad,indifferent
+718,0.2680932114254389,having only a limited ability to react chemically; chemically inactive,indifferent
+719,0.18423988681543033,fairly poor to not very good,indifferent
+720,0.5428120920949916,marked by no especial liking or dislike or preference for one thing over another,indifferent
+721,0.21038412601740872,neither too great nor too little,indifferent
+722,0.029499437186612278,showing no care or concern in attitude or action,indifferent
+723,0.014225062292526422,characterized by hard work and perseverance,tireless
+724,0.00038705025902057165,showing sustained enthusiastic action with unflagging vitality,tireless
+725,0.03605752483482797,pleasantly (even unrealistically) optimistic,cheerful
+726,0.02429258466199969,being full of or promoting cheer; having or showing good spirits,cheerful
+727,0.2934780975190008,(of a body of water) free from disturbance by heavy waves,quiet
+728,0.1768369114815055,in a softened tone,quiet
+729,0.7491962496850153,not showy or obtrusive,quiet
+730,0.7388460215849283,characterized by an absence or near absence of agitation or activity,quiet
+731,0.6377987131557463,free of noise or uproar; or making little if any sound,quiet
+732,0.3004686041284026,"(of the sun) characterized by a low level of surface phenomena, such as sunspots",quiet
+733,0.5517162982380073,worthy of being recommended or suggested; prudent or wise,advisable
+734,0.8027858518818791,lacking self-confidence,shy
+735,0.6048759282298013,short,shy
+736,0.6088820338701749,wary and distrustful; disposed to avoid persons or things,shy
+737,0.14162906903955383,weak and likely to lose consciousness,light
+738,0.6700582534023592,marked by temperance in indulgence,light
+739,0.09325336895323204,having relatively few calories,light
+740,0.6468525311289831,(used of vowels or syllables) pronounced with little or no stress,light
+741,0.0035884363148937126,moving easily and quickly; nimble,light
+742,0.12524820069666076,(of sleep) easily disturbed,light
+743,0.0010639209340819005,casual and unrestrained in sexual behavior,light
+744,0.07100936737933429,(of sound or color) free from anything that dulls or dims,light
+745,0.3642986643149642,silly or trivial,light
+746,0.08877049440275406,less than the correct or legal or full amount often deliberately so,light
+747,0.2481183047494309,(used of color) having a relatively small amount of coloring agent,light
+748,0.5166648197864787,characterized by or emitting light,light
+749,0.22909046812517464,demanding little effort; not burdensome,light
+750,0.2885922427521683,designed for ease of movement or to carry little weight,light
+751,0.061844280846590376,easily assimilated in the alimentary canal; not rich or heavily seasoned,light
+752,0.19519026475442489,having little importance,light
+753,0.20142768539831565,intended primarily as entertainment; not serious or profound,light
+754,0.3556055519028102,of comparatively little physical weight or density,light
+755,0.678153813402997,of little intensity or power or force,light
+756,0.22671712561578078,of the military or industry; using (or being) relatively small or light arms or equipment,light
+757,0.28318311827760967,"(physics, chemistry) not having atomic weight greater than average",light
+758,0.038771508534154446,psychologically light; especially free from sadness or troubles,light
+759,0.30957017775241,(used of soil) loose and large-grained in consistency,light
+760,0.07522910468527137,very thin and insubstantial,light
+761,0.8126560511851649,serving or acting as a means or aid,instrumental
+762,0.011305022505186267,tending to betray; especially having a treacherous character as attributed to the Carthaginians by the Romans,treacherous
+763,0.06777444696053128,dangerously unstable and unpredictable,treacherous
+764,0.7243696798145761,involving or causing danger or risk; liable to hurt or harm,dangerous
+765,0.06677524801616425,causing fear or anxiety by threatening great harm,dangerous
+766,0.4112686298084112,having or bringing misfortune,luckless
+767,0.04891068872175803,occupied with or fond of the pleasures of good company,convivial
+768,0.019254310653539438,full of or marked by resentment or indignant ill will,resentful
+769,0.007389960953288484,marked by practical hardheaded intelligence,astute
+770,0.11805650522233169,liable to sudden unpredictable change,erratic
+771,0.24310737938567933,having no fixed course,erratic
+772,0.07393882466079081,likely to perform unpredictably,erratic
+773,0.4079754284479387,indicating a lack of maturity,childish
+774,0.5932025560115508,not disposed to seek company,ungregarious
+775,0.4650755370217329,(of animals) not gregarious,ungregarious
+776,0.2593128577654951,(of plants) growing together in groups that are not close together,ungregarious
+777,0.2643716517504939,exercising or showing good judgment,levelheaded
+778,0.012347485436728398,in fortunate circumstances financially; moderately rich,prosperous
+779,0.5194319532475833,presaging or likely to bring good luck or a good outcome,prosperous
+780,0.012511466758320402,very lively and profitable,prosperous
+781,0.025532508115329602,marked by peace and prosperity,prosperous
+782,0.2798053720249005,not convincing,flimsy
+783,0.6102017397646337,lacking substance or significance,flimsy
+784,0.6405555509963822,lacking solidity or strength,flimsy
+785,0.06608160744689728,auguring favorable circumstances and good luck,auspicious
+786,0.04356363553028063,inspiring scornful pity,silly
+787,0.5138334041132715,lacking seriousness; given to frivolity,silly
+788,0.032976664033011485,"ludicrous, foolish",silly
+789,0.04456148394687894,dazed from or as if from repeated blows,silly
+790,0.05124777050685771,helpful in bringing about a harmonious adaptation,accommodating
+791,0.03510110769882438,obliging; willing to do favors,accommodating
+792,0.026892703403986255,giving pleasure and satisfaction,pleasing
+793,0.7381154954410677,pleasant or agreeable to the senses,pleasing
+794,0.008687043941078052,eagerly desirous,anxious
+795,0.8156421609831233,causing or fraught with or showing anxiety,anxious
+796,0.06447197173611512,vile; despicable,filthy
+797,0.18217925601209217,disgustingly dirty; filled or smeared with offensive matter,filthy
+798,0.002117940843234854,characterized by obscenity,filthy
+799,0.5065309655747624,given or giving freely,bighearted
+800,0.8458969688818803,able to feel or perceive,sensible
+801,0.269262263781976,showing reason or sound judgment,sensible
+802,0.6701755433190542,aware intuitively or intellectually of something sensed,sensible
+803,0.21938941517973182,readily perceived by the senses,sensible
+804,0.045542072082782985,presaging good fortune,fortunate
+805,0.06234804369376226,supremely favored,fortunate
+806,0.026670053522570177,having unexpected good fortune,fortunate
+807,0.6102017397646337,lacking substance or significance,slight
+808,0.52334695144672,being of delicate or slender build,slight
+809,0.6396140926365428,(quantifier used with mass nouns) small in quantity or degree; not much or almost none or (with `a') at least some,slight
+810,0.6374414270528429,(of persons) lacking art or knowledge,artless
+811,0.005643526777447259,characterized by an inability to mask your feelings; not devious,artless
+812,0.4936141388127612,showing lack of art,artless
+813,0.06759537100493838,simple and natural; without cunning or deceit,artless
+814,0.13153786755452582,not wise in the ways of the world,unsophisticated
+815,0.09116224737331907,awkwardly simple and provincial,unsophisticated
+816,0.26269437940610996,lacking complexity,unsophisticated
+817,0.017938623379339977,in a vehement outcry,shouted
+818,0.03430930180861261,marked by refinement in taste and manners,genteel
+819,0.26958135192486515,without proper consideration or reflection,inconsiderate
+820,0.16307289289792717,lacking regard for the rights or feelings of others,inconsiderate
+821,0.29986230547468684,acting with or showing thought and good sense,thoughtful
+822,0.037838781442141756,taking heed; giving close and thoughtful attention,thoughtful
+823,0.44449558547996987,considerate of the feelings or well-being of others,thoughtful
+824,0.7044302866152676,exhibiting or characterized by careful thought,thoughtful
+825,0.024886205390453303,having intellectual depth,thoughtful
+826,0.043851746708771094,expecting the best,optimistic
+827,0.07207721669199497,expecting the best in this best of all possible worlds,optimistic
+828,0.5412048586963168,capable of adapting (of becoming or being made suitable) to a particular situation or use,adaptable
+829,0.6734314214178304,timid by nature or revealing timidity,fearful
+830,0.7891218210391086,lacking courage; ignobly timid and faint-hearted,fearful
+831,0.3137325968775341,causing fear or dread or terror,fearful
+832,0.07679125923720366,extremely distressing,fearful
+833,0.9108475394854915,experiencing or showing fear,fearful
+834,0.40912264745494586,of or relating to or used in microscopy,microscopic
+835,0.3381236734678886,visible under a microscope; using a microscope,microscopic
+836,0.15665029461936503,so small as to be invisible without a microscope,microscopic
+837,0.0503727415810669,extremely precise with great attention to details,microscopic
+838,0.2055666438194018,deficient in human sensibility; not mentally or morally sensitive,insensitive
+839,0.2414488771753706,not responsive to physical stimuli,insensitive
+840,0.4503139036703068,not possessing qualities befitting a man,unmanly
+841,0.47186537396870065,lacking in courage and manly strength and resolution; contemptibly fearful,unmanly
+842,0.5050215257592198,(of persons) worthy of trust or confidence,trusted
+843,0.48901566234306015,requiring full use of your abilities or resources,challenging
+844,0.6099920250726213,stimulating interest or thought,challenging
+845,0.002243684097199174,disturbingly provocative,challenging
+846,0.019599841286131483,persuaded of; very sure,confident
+847,0.26534572828807557,not liable to error in judgment or action,confident
+848,0.39678661385488007,having or marked by confidence or assurance,confident
+849,0.04356363553028063,inspiring scornful pity,ridiculous
+850,0.2098644145066447,broadly or extravagantly humorous; resembling farce,ridiculous
+851,0.029186680085531297,so unreasonable as to invite derision,ridiculous
+852,0.5735446624836492,lacking in or deprived of strength or power,helpless
+853,0.10727287722164074,unable to function; without help,helpless
+854,0.26484458700718255,unable to manage independently,helpless
+855,0.7434605397936148,using or marked by tact in dealing with sensitive matters or people,diplomatic
+856,0.36982240320540394,expressing or given to expressing the truth,truthful
+857,0.3160822075477312,conforming to truth,truthful
+858,0.13390890012144943,marked by sound judgment,sane
+859,0.0508835447052695,mentally healthy; free from mental disorder,sane
+860,0.5943974313127737,not fitting closely; hanging loosely,sloppy
+861,0.02238375869202712,marked by great carelessness,sloppy
+862,0.12588667874141923,(of soil) soft and watery,sloppy
+863,0.01455055845836124,excessively or abnormally emotional,sloppy
+864,0.21143227774074433,lacking neatness or order,sloppy
+865,0.5311716220972414,wet or smeared with a spilled liquid or moist material,sloppy
+866,0.01282154374299628,fairly large in size,ample
+867,0.04105578981495084,affording an abundant supply,ample
+868,0.0126306153524457,more than enough in size or scope or capacity,ample
+869,0.34782616622051593,worthy of reliance or trust,dependable
+870,0.08406884101673949,worthy of being depended on,dependable
+871,0.0989290741823013,financially safe,dependable
+872,0.46913650009966545,consistent in performance or behavior,dependable
+873,0.44329092248090624,correct in opinion or judgment,correct
+874,0.21862321049912953,socially right or correct,correct
+875,0.4928878401084957,in accord with accepted standards of usage or procedure,correct
+876,0.09351709502978234,free from error; especially conforming to fact or truth,correct
+877,0.020591137463193344,possessing sound knowledge,intelligent
+878,0.11416742760207331,endowed with the capacity to reason,intelligent
+879,0.2643716517504939,exercising or showing good judgment,intelligent
+880,0.033397583677274925,having the capacity for thought and reason especially to a high degree,intelligent
+881,0.2793206713964722,lacking in light; not bright or harsh,dim
+882,0.23782539710916928,slow to learn or understand; lacking intellectual acuity,dim
+883,0.5148118519301028,lacking clarity or distinctness,dim
+884,0.12093750484849597,offering little or no hope,dim
+885,0.13817759474689675,made dim or less bright,dim
+886,0.4215082787152988,"devoid of importance, meaning, or force",unimportant
+887,0.10932276011121632,not important,unimportant
+888,0.08417744706000581,the same throughout in structure or composition,consistent
+889,0.3844148879795951,capable of being reproduced,consistent
+890,0.3484895188427595,"marked by an orderly, logical, and aesthetically consistent relation of parts",consistent
+891,0.6125565566613066,(sometimes followed by `with') in agreement or consistent or reliable,consistent
+892,0.0009106218613141688,having or feeling no doubt or uncertainty; confident and assured,certain
+893,0.34339205558654035,certain to occur; destined or inevitable,certain
+894,0.01571707611075837,exercising or taking care great enough to bring assurance,certain
+895,0.45943532026657946,reliable in operation or effect,certain
+896,0.04666441850231744,established irrevocably,certain
+897,0.12738289051227675,definite but not specified or identified,certain
+898,0.3553890821095907,established beyond doubt or question; definitely known,certain
+899,0.066362343220923,not possible to deny,undeniable
+900,0.30345099068339765,offensive or even (of persons) malicious,awful
+901,0.2116298235230973,inspired by a feeling of fearful wonderment or reverence,awful
+902,0.3137325968775341,causing fear or dread or terror,awful
+903,0.024296598713437374,inspiring awe or admiration or wonder,awful
+904,0.24731538070566933,extreme in degree or extent or amount or impact,awful
+905,0.3313833448787748,exceptionally bad or displeasing,awful
+906,0.003036490533321043,openly straightforward and direct without reserve or secretiveness,candid
+907,0.05352083256700898,characterized by directness in manner or speech; without subtlety or evasion,candid
+908,0.5036450814609171,informal or natural; especially caught off guard or unprepared,candid
+909,0.14169347735219182,not large but sufficient in size or amount,small
+910,0.4880015334288644,lowercase,small
+911,0.7836943630546067,"relatively moderate, limited, or small",small
+912,0.33723328665127683,low or inferior in station or quality,small
+913,0.07191167929876488,"(of children and animals) young, immature",small
+914,0.44426739824865025,(of a voice) faint,small
+915,0.3004132335997941,made to seem smaller or less (especially in worth),small
+916,0.6259898255214321,limited or below average in number or quantity or magnitude or extent,small
+917,0.4651509156101462,have fine or very small constituent particles,small
+918,0.6021798234639618,slight or limited; especially in degree or intensity or scope,small
+919,0.0017394844413750703,highly enthusiastic,glowing
+920,0.004425637182417778,showing skill and sensitivity in dealing with people,tactful
+921,0.34559800343558267,having or showing a sense of what is fitting and considerate in dealing with others,tactful
+922,0.002490159448524598,characteristic of false pride; having an exaggerated sense of self-importance,egotistical
+923,0.018069983732164636,characteristic of those having an inflated idea of their own importance,egotistical
+924,0.38000580306681797,not refined or processed,unrefined
+925,0.6092539428217398,(used of persons and their behavior) not refined; uncouth,unrefined
+926,0.01602868791026096,generous and understanding and tolerant,magnanimous
+927,0.022596615531534792,noble and generous in spirit,magnanimous
+928,0.5035448560364425,being biased or having a belief or attitude formed beforehand,prejudiced
+929,0.49180206619112826,emanating from a person's emotions and prejudices,prejudiced
+930,0.3516799699149315,of little substance or significance,trivial
+931,0.4712918246901339,(informal) small and of little importance,trivial
+932,0.3318373982965741,concerned with trivialities,trivial
+933,0.11293481978557648,hard to pass through because of dense growth,dense
+934,0.23782539710916928,slow to learn or understand; lacking intellectual acuity,dense
+935,0.09923184509804947,permitting little if any light to pass through because of denseness of matter,dense
+936,0.18121517186149988,having high relative density or specific gravity,dense
+937,0.8434932681049538,displaying or suggesting a lack of maturity,adolescent
+938,0.0830179060135012,being of the age 13 through 19,adolescent
+939,0.44205216077899456,in the state of development between puberty and maturity,adolescent
+940,0.0008262763187220065,showing inventiveness and skill,ingenious
+941,0.07528259095448497,large in amount or extent or degree,respectable
+942,0.01932978971745814,deserving of esteem and respect,respectable
+943,0.6728169633164238,characterized by socially or conventionally acceptable morals,respectable
+944,0.7104481500138052,beyond or deviating from the usual or expected,curious
+945,0.0023603138400123983,eager to investigate and learn or learn more (sometimes about others' concerns),curious
+946,0.04219136323702716,in an early stage of development,embryonic
+947,0.5619670140179969,of an organism prior to birth or hatching,embryonic
+948,0.014643800699623453,prone to friendly informal communication,chatty
+949,0.003175696628858831,full of trivial conversation,chatty
+950,0.14348644180325174,inclined to help or support; not antagonistic or hostile,friendly
+951,0.16124498688663133,characteristic of or befitting a friend,friendly
+952,0.05986493776626376,easy to understand or use,friendly
+953,0.6032257830806094,being or reflecting the essential or genuine character of something,genuine
+954,0.2628808673974976,not fake or counterfeit,genuine
+955,0.6229626848329761,not pretended; sincerely felt or expressed,genuine
+956,0.2345881738832001,being definitely out of the ordinary and unexpected; slightly odd or even a bit weird,unusual
+957,0.3026823962537565,not commonly encountered,unusual
+958,0.47752689859434966,not usual or common or ordinary,unusual
+959,0.0014649590040660815,suggestive of youth; vigorous and fresh,youthful
+960,0.5194319532475833,presaging or likely to bring good luck or a good outcome,favourable
+961,0.056934771954297,giving an advantage,favourable
+962,0.47703033840614834,encouraging or approving or pleasing,favourable
+963,0.4701244829739103,(of winds or weather) tending to promote or facilitate,favourable
+964,0.10467978146814164,impossible to deny or disprove,irrefutable
+965,0.056934771954297,giving an advantage,advantageous
+966,0.11705846612837693,appropriate for achieving a particular end; implies a lack of concern for fairness,advantageous
+967,0.5065309655747624,given or giving freely,handsome
+968,0.13066355432051113,pleasing in appearance especially by reason of conformity to ideals of form and proportion,handsome
+969,0.09280228190601818,producing a burning sensation on the taste nerves,hot
+970,0.0011293761287679827,characterized by violent and forceful activity or movement; very intense,hot
+971,0.4096415606440635,charged or energized with electricity,hot
+972,0.18951616325076628,newest or most recent,hot
+973,0.003772483058143967,very fast; capable of quick response and great speed,hot
+974,0.005689916229170199,(color) bold and intense,hot
+975,0.4047019876252173,extended meanings; especially of psychological heat; marked by intensity or vehemence especially of passion or enthusiasm,hot
+976,0.06292345829973356,having or bringing unusually good luck,hot
+977,0.1426857962352969,having or dealing with dangerously high levels of radioactivity,hot
+978,0.055033264541067134,having or showing great eagerness or enthusiasm,hot
+979,0.0016393476071481258,marked by excited activity,hot
+980,0.14465300992287014,newly made,hot
+981,0.0956384477635276,of a seeker; very near to the object sought,hot
+982,0.002806381745065347,performed or performing with unusually great skill and daring and energy,hot
+983,0.06853833973287857,recently stolen or smuggled,hot
+984,0.04431991799298774,sexually excited or exciting,hot
+985,0.5750087283639944,used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning,hot
+986,0.13343206876458522,very good; often used in the negative,hot
+987,0.004082977085698798,very popular or successful,hot
+988,0.05815375590938948,very unpleasant or even dangerous,hot
+989,0.10538060551879028,wanted by the police,hot
+990,0.07297895051560631,free from clumsiness; precisely or deftly executed,neat
+991,0.22659659116936723,clean or organized,neat
+992,0.008439861897669548,"superficially impressive, but lacking depth and attention to the true complexities of a subject",neat
+993,0.02473631976953491,very good,neat
+994,0.14914602660382018,(of an alcoholic drink) without water,neat
+995,0.11586780085271342,showing care in execution,neat
+996,0.0327131967788514,able to adjust readily to different conditions,flexible
+997,0.11530165973566742,able to flex; able to bend easily,flexible
+998,0.02678734775648058,bending and snapping back readily without breaking,flexible
+999,0.5516001282810702,making or willing to make concessions,flexible
+1000,0.3616016264743239,capable of being changed,flexible
+1001,0.0046767320313360365,invulnerable to fear or intimidation,audacious
+1002,0.016067600097970616,unrestrained by convention or propriety,audacious
+1003,0.4984243942338127,disposed to venture or take risks,audacious
+1004,0.5847588684226864,forming or having the nature of a turning point or crisis,critical
+1005,0.07246575452901614,urgently needed; absolutely necessary,critical
+1006,0.49946116558696824,at or of a point at which a property or phenomenon suffers an abrupt change especially having enough mass to sustain a chain reaction,critical
+1007,0.3906735905229107,being in or verging on a state of crisis or emergency,critical
+1008,0.03865651031543682,characterized by careful evaluation and judgment,critical
+1009,0.017696303386581184,marked by a tendency to find and call attention to errors and flaws,critical
+1010,0.4154230650119795,involving or creating circumstances detrimental to success or effectiveness,unfavorable
+1011,0.4360414445194362,(of winds or weather) tending to hinder or oppose,unfavorable
+1012,0.3569965866486675,not encouraging or approving or pleasing,unfavorable
+1013,0.00035139036397049153,lively and spirited,dashing
+1014,0.07375610338197668,marked by up-to-dateness in dress and manners,dashing
+1015,0.858350675940735,not ostentatious,unpretentious
+1016,0.5935589972284343,exhibiting restrained good taste,unpretentious
+1017,0.6684804431365131,lacking pretension or affectation,unpretentious
+1018,0.4336649901834395,"wanting in moral strength, courage, or will; having the attributes of man as opposed to e.g. divine beings",imperfect
+1019,0.7824058384855406,not perfect; defective or inadequate,imperfect
+1020,0.10712428225980282,free of deceit,guileless
+1021,0.2590211461282329,marked by the exercise of good judgment or common sense in practical matters,judicious
+1022,0.3881160025806576,not sarcastic,unsarcastic
+1023,0.42030916798471624,not fully developed or mature; not ripe,unripened
+1024,0.42030916798471624,not fully developed or mature; not ripe,unripe
+1025,0.27566889543812717,not fully prepared,unripe
+1026,0.016190909750610057,without care or thought for others,thoughtless
+1027,0.5906522983267392,showing lack of careful thought,thoughtless
+1028,0.012737571921535183,immune to attack; incapable of being tampered with,strong
+1029,0.05050546826941081,of good quality and condition; solidly built,strong
+1030,0.2634760189338726,having or wielding force or authority,strong
+1031,0.0003539481546891413,strong and sure,strong
+1032,0.3153357465218527,having a strong physiological or chemical effect,strong
+1033,0.2092974780217648,freshly made or left,strong
+1034,0.20425434399104145,being distilled rather than fermented; having a high alcoholic content,strong
+1035,0.04347164714211826,having strength or power greater than average or expected,strong
+1036,0.06644973824329929,not faint or feeble,strong
+1037,0.48504182253990835,of verbs not having standard (or regular) inflection,strong
+1038,0.07583242139754726,lying face upward,supine
+1039,0.2631601731624682,passive as a result of indolence or indifference,supine
+1040,0.019599841286131483,persuaded of; very sure,convinced
+1041,0.27649457872876126,belonging to the distant past,early
+1042,0.5487186314633624,at or near the beginning of a period of time or course of events or before the usual or expected time,early
+1043,0.4679501465508278,being or occurring at an early stage of development,early
+1044,0.09861800978693283,expected in the near future,early
+1045,0.18047382456102173,of an early stage in the development of a language or literature,early
+1046,0.06110807999817617,very young,early
+1047,0.07267517957870723,hasty and without attention to detail; not thorough,superficial
+1048,0.3516799699149315,of little substance or significance,superficial
+1049,0.5938284331032354,concerned with or comprehending only what is apparent or obvious; not deep or penetrating emotionally or intellectually,superficial
+1050,0.7241226268651849,occurring on or near the surface of the skin,superficial
+1051,0.37424842218490034,marked by or promising bad fortune,unlucky
+1052,0.4112686298084112,having or bringing misfortune,unlucky
+1053,0.5065309655747624,given or giving freely,big
+1054,0.015532544515709136,very intense,big
+1055,0.006103649731667313,prodigious,big
+1056,0.018004411259470363,(of animals) fully developed,big
+1057,0.055484576381380823,in an advanced stage of pregnancy,big
+1058,0.08600598564492103,conspicuous in position or importance,big
+1059,0.01602868791026096,generous and understanding and tolerant,big
+1060,0.018905115088942513,feeling self-importance,big
+1061,0.006560220824956924,exhibiting self-importance,big
+1062,0.012844735951660111,above average in size or number or quantity or magnitude or extent,big
+1063,0.0015197235767174986,loud and firm,big
+1064,0.012237284752992274,marked by intense physical force,big
+1065,0.3555245086194769,significant,big
+1066,0.2556157770002237,small and unimpressive,insignificant
+1067,0.5000528115518075,of little importance or influence or power; of minor status,insignificant
+1068,0.4215082787152988,"devoid of importance, meaning, or force",insignificant
+1069,0.04572865841233978,signifying nothing,insignificant
+1070,0.39234961970195315,(of crops) harvested at an early stage of development; before complete maturity,young
+1071,0.0014649590040660815,suggestive of youth; vigorous and fresh,young
+1072,0.36037299131734163,(used of living things especially persons) in an early period of life or development or growth,young
+1073,0.3855408934269312,not tried or tested by experience,young
+1074,0.09242948302628497,being in its early stage,young
+1075,0.03430930180861261,marked by refinement in taste and manners,cultivated
+1076,0.4182551981753838,no longer in the natural state; developed by human care and for human use,cultivated
+1077,0.48901566234306015,requiring full use of your abilities or resources,ambitious
+1078,0.04883520566450172,having a strong desire for success or achievement,ambitious
+1079,0.11213297665429585,improperly forward or bold,wise
+1080,0.06420515669788114,evidencing the possession of inside information,wise
+1081,0.2590211461282329,marked by the exercise of good judgment or common sense in practical matters,wise
+1082,0.41872249675780776,having or prompted by wisdom or discernment,wise
+1083,0.6169897949046302,providing assistance or serving a useful function,helpful
+1084,0.02078787924020198,producing in abundance,bountiful
+1085,0.5065309655747624,given or giving freely,bountiful
+1086,0.3099106533216677,abnormally deficient in color as suggesting physical or emotional distress,pale
+1087,0.6416016031359416,(of light) lacking in intensity or brightness; dim or feeble,pale
+1088,0.5535598710714276,lacking in vitality or interest or effectiveness,pale
+1089,0.44929350066883866,not full or rich,pale
+1090,0.08763345168105167,very light colored; highly diluted with white,pale
+1091,0.09701785634403415,hard to control,difficult
+1092,0.2189712835818102,not easy; requiring great physical or mental effort to accomplish or comprehend or endure,difficult
+1093,0.0015450829084081305,showing self-interest and shrewdness in dealing with others,canny
+1094,0.5773152667505027,affording pleasure; being in harmony with your taste or likings,pleasant
+1095,0.642309574117224,(of persons) having pleasing manners or behavior,pleasant
+1096,0.1255713000745492,showing concern for the rights and feelings of others,considerate
+1097,0.09801977258704389,(used of persons or artifacts) marked by independence and creativity in thought or action,inventive
+1098,0.6323692210773848,lacking strength or vigor,feeble
+1099,0.41805112152733304,pathetically lacking in force or effectiveness,feeble
+1100,0.5397177002057147,lacking bodily or muscular strength or vitality,feeble
+1101,0.3712131117013767,lacking strength,feeble
+1102,0.2736246242236702,not fair; marked by injustice or partiality or deception,unfair
+1103,0.11213297665429585,improperly forward or bold,smart
+1104,0.0030961097607019733,characterized by quickness and ease in learning,smart
+1105,0.021867877457662097,elegant and stylish,smart
+1106,0.009652441267666173,capable of independent and apparently intelligent action,smart
+1107,0.05262189487509451,painfully severe,smart
+1108,0.020244404735622307,quick and brisk,smart
+1109,0.002261350539562815,showing mental alertness and calculation and resourcefulness,smart
+1110,0.7104481500138052,beyond or deviating from the usual or expected,peculiar
+1111,0.801943336939601,unique or specific to a person or thing or category,peculiar
+1112,0.6455336244712024,characteristic of one only; distinctive or special,peculiar
+1113,0.15266253869002613,markedly different from the usual,peculiar
+1114,0.06408822062322495,unable for both to exist or be true at the same time,contradictory
+1115,0.2338007151917159,in disagreement,contradictory
+1116,0.493201965931881,that confounds or contradicts or confuses,contradictory
+1117,0.6100273846005542,of words or propositions so related that both cannot be true and both cannot be false,contradictory
+1118,0.8028911163043467,not enthusiastic; lacking excitement or ardor,unenthusiastic
+1119,0.04429698364092934,feeling and exhibiting concern and empathy for others,caring
+1120,0.07620147669086093,guided by practical experience and observation rather than theory,practical
+1121,0.009827820489003289,being actually such in almost every respect,practical
+1122,0.37192310594645034,concerned with actual use or practice,practical
+1123,0.8222279464697181,having or put to a practical purpose or use,practical
+1124,0.5347185691459775,(of characters in literature or drama) evoking empathic or sympathetic feelings,likeable
+1125,0.015031109386727972,easy to like; agreeable,likeable
+1126,0.006284396529465374,having a high state of culture and development both social and technological,civilized
+1127,0.03430930180861261,marked by refinement in taste and manners,civilized
+1128,0.0015450829084081305,showing self-interest and shrewdness in dealing with others,clever
+1129,0.0008262763187220065,showing inventiveness and skill,clever
+1130,0.004502895309260962,mentally quick and resourceful,clever
+1131,0.0759233090273539,far along in time,ripe
+1132,0.009503482816748258,fully developed or matured and ready to be eaten or used,ripe
+1133,0.3087449701460558,most suitable or right for a particular purpose,ripe
+1134,0.015451890538825279,at the highest point of development especially in judgment or knowledge,ripe
+1135,0.01997652831282194,fully prepared or eager,ripe
+1136,0.2772905040184916,not marked by the use of reason,senseless
+1137,0.18578267366157414,(of especially persons) lacking sense or understanding or judgment,senseless
+1138,0.03457059492898516,serving no useful purpose; having no excuse for being,senseless
+1139,0.31367493162447746,unresponsive to stimulation,senseless
+1140,0.2934780975190008,(of a body of water) free from disturbance by heavy waves,unruffled
+1141,0.10055036921057385,free from emotional agitation or nervous tension,unruffled
+1142,0.2162964927909717,soiled with dirt or soot,smutty
+1143,0.002117940843234854,characterized by obscenity,smutty
+1144,0.00420790296678325,characterized by the attitude of a philosopher; meeting trouble with level-headed detachment,philosophic
+1145,0.4989197308402486,of or relating to philosophy or philosophers,philosophic
+1146,0.12789151491888873,appealing to the mind,serious
+1147,0.2796467787065809,completely lacking in playfulness,serious
+1148,0.06677524801616425,causing fear or anxiety by threatening great harm,serious
+1149,0.039075830153831884,concerned with work or important matters rather than play or trivialities,serious
+1150,0.08301871753092642,of great consequence,serious
+1151,0.4017290788722219,requiring effort or concentration; complex and not easy to answer or solve,serious
+1152,0.24831694137838095,not worthy of reliance or trust,undependable
+1153,0.19606200514922378,liable to be erroneous or misleading,undependable
+1154,0.015693082111427687,presenting favorable circumstances; likely to result in or show signs of success,propitious
+1155,0.746778264867333,exhibiting equivalence or correspondence among constituents of an entity or between different entities,harmonious
+1156,0.08963048487068968,existing together in harmony,harmonious
+1157,0.0649024311919619,musically pleasing,harmonious
+1158,0.0653338175642248,suitable and fitting,harmonious
+1159,0.23103801704300378,offensive or disagreeable; causing discomfort or unhappiness,unpleasant
+1160,0.2403506361516093,obtained illegally or by improper means,dirty
+1161,0.20399076567069277,(of a manuscript) defaced with changes,dirty
+1162,0.2852047448651951,violating accepted standards or rules,dirty
+1163,0.16792655575181045,unethical or dishonest,dirty
+1164,0.07546637698087255,spreading pollution or contamination; especially radioactive contamination,dirty
+1165,0.06447197173611512,vile; despicable,dirty
+1166,0.11384367443453883,contaminated with infecting organisms,dirty
+1167,0.3813226693199013,soiled or likely to soil with dirt or grime,dirty
+1168,0.432509117391655,(of color) discolored by impurities; not bright and clear,dirty
+1169,0.0974495336044885,expressing or revealing hostility or dislike,dirty
+1170,0.23246660615876918,(of behavior or especially language) characterized by obscenity or indecency,dirty
+1171,0.03158415896453382,unpleasantly stormy,dirty
+1172,0.1815511647039358,(used especially of persons) of inferior size,puny
+1173,0.4712113503256786,inferior in strength or significance,puny
+1174,0.0063731240812141005,characterized by intense emotion,ardent
+1175,0.0005412597777498076,characterized by strong enthusiasm,ardent
+1176,0.026293965535469196,glowing or shining like fire,ardent
+1177,0.002986766772341801,annoyed and irritable,crabby
+1178,0.04675412183702547,done with delicacy and skill,nice
+1179,0.04943488582704768,excessively fastidious and easily disgusted,nice
+1180,0.2633860795163135,socially or conventionally correct; refined or virtuous,nice
+1181,0.02668136793580197,exhibiting courtesy and politeness,nice
+1182,0.5522742086037936,pleasant or pleasing or agreeable in nature or appearance,nice
+1183,0.49753026108393855,lacking interest or spirit or animation,uneager
+1184,0.4952503666619695,necessarily or demonstrably true,incontrovertible
+1185,0.10467978146814164,impossible to deny or disprove,incontrovertible
+1186,0.055484576381380823,in an advanced stage of pregnancy,large
+1187,0.08600598564492103,conspicuous in position or importance,large
+1188,0.01602868791026096,generous and understanding and tolerant,large
+1189,0.012844735951660111,above average in size or number or quantity or magnitude or extent,large
+1190,0.0018700211925053326,ostentatiously lofty in style,large
+1191,0.2153378652468412,fairly large or important in effect; influential,large
+1192,0.004479231723102165,having broad power and range and scope,large
+1193,0.018934345165455408,easily aroused or excited,warm
+1194,0.0005412597777498076,characterized by strong enthusiasm,warm
+1195,0.2092974780217648,freshly made or left,warm
+1196,0.01242094066291004,characterized by liveliness or excitement or disagreement,warm
+1197,0.709769308066288,having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat,warm
+1198,0.3049652452469371,inducing the impression of warmth; used especially of reds and oranges and yellows when referring to color,warm
+1199,0.25940066413266116,of a seeker; near to the object sought,warm
+1200,0.001857896160747693,psychologically warm; friendly and responsive,warm
+1201,0.18768091510611998,uncomfortable because of possible danger or trouble,warm
+1202,0.03035262325953344,characterized by careless unconcern,heedless
+1203,0.8287323661969498,marked by or paying little heed or attention,heedless
+1204,0.5347185691459775,(of characters in literature or drama) evoking empathic or sympathetic feelings,appealing
+1205,0.01555038959730569,able to attract interest or draw favorable attention,appealing
+1206,0.5194319532475833,presaging or likely to bring good luck or a good outcome,favorable
+1207,0.056934771954297,giving an advantage,favorable
+1208,0.47703033840614834,encouraging or approving or pleasing,favorable
+1209,0.4701244829739103,(of winds or weather) tending to promote or facilitate,favorable
+1210,0.6032257830806094,being or reflecting the essential or genuine character of something,real
+1211,0.32105908912282355,capable of being treated as fact,real
+1212,0.8860571646356749,having substance or capable of being treated as fact; not imaginary,real
+1213,0.8610698560660859,being or occurring in fact or actuality; having verified existence; not illusory,real
+1214,0.4166819681511923,coinciding with reality,real
+1215,0.12099674387086279,no less than what is stated; worthy of the name,real
+1216,0.17070388533878675,not to be taken lightly,real
+1217,0.5417018972328924,(of property) fixed or immovable,real
+1218,0.6311269414147511,"of, relating to, or representing an amount that is corrected for inflation",real
+1219,0.5065309655747624,given or giving freely,liberal
+1220,0.0845472139154229,showing or characterized by broad-mindedness,liberal
+1221,0.2467119375124027,not literal,liberal
+1222,0.11425303821958181,having political or social views favoring reform and progress,liberal
+1223,0.020555624719692273,"tolerant of change; not bound by authoritarianism, orthodoxy, or tradition",liberal
+1224,0.07260481360545523,very steep; having a prominent and almost vertical front,bold
+1225,0.04851254819419634,clear and distinct,bold
+1226,0.0004162509951144721,fearless and daring,bold
+1227,0.8434932681049538,displaying or suggesting a lack of maturity,juvenile
+1228,0.5979422351010595,having human form or attributes as opposed to those of animals or divine beings,human
+1229,0.05310964805461508,full of or characterized by humor,humorous
+1230,0.25475925194719057,suitable to your needs,congenial
+1231,0.5865252304054531,(used of plants) capable of cross-fertilization or of being grafted,congenial
+1232,0.20412854703437916,expressing or expressive of ridicule that wounds,sarcastic
+1233,0.7891218210391086,lacking courage; ignobly timid and faint-hearted,cowardly
+1234,0.027024955085812315,characterized by a firm and humorless belief in the validity of your opinions,sincere
+1235,0.023972588211155724,open and genuine; not deceitful,sincere
+1236,0.07393882466079081,likely to perform unpredictably,temperamental
+1237,0.07482799851707717,subject to sharply varying moods,temperamental
+1238,0.04147347922531045,fraught with extreme danger; nearly hopeless,desperate
+1239,0.3679549008294079,arising from or marked by despair or loss of hope,desperate
+1240,0.028687744541472587,desperately determined,desperate
+1241,0.002206155843158853,showing extreme courage; especially of actions courageously undertaken in desperation as a last resort,desperate
+1242,0.02540310197468346,(of persons) dangerously reckless or violent as from urgency or despair,desperate
+1243,0.008885213953463063,showing extreme urgency or intensity especially because of great need or desire,desperate
+1244,0.6829846487967131,not agitated; without losing self-possession,calm
+1245,0.18118970426614608,(of weather) free from storm or wind,calm
+1246,0.30072241475668404,furnishing support or assistance,supportive
+1247,0.001445767506459317,showing extreme cupidity; painfully desirous of another's advantages,envious
+1248,0.49548988449260334,based on sound reasoning or evidence,tenable
+1249,0.13410328109915653,so lacking in interest as to cause mental weariness,slow
+1250,0.23782539710916928,slow to learn or understand; lacking intellectual acuity,slow
+1251,0.5575193434219419,(of business) not active or brisk,slow
+1252,0.10815088913829163,at a slow tempo,slow
+1253,0.3900669969432689,not moving quickly; taking a comparatively long time,slow
+1254,0.055484576381380823,in an advanced stage of pregnancy,great
+1255,0.3636386828285563,of major significance or importance,great
+1256,0.19650147760119985,uppercase,great
+1257,0.02473631976953491,very good,great
+1258,0.31528327392148164,relatively large in size or number or extent; larger than others of its kind,great
+1259,0.4843675726281159,remarkable or out of the ordinary in degree or magnitude or effect,great
+1260,0.008749472187544863,clear and sharp and ringing,bright
+1261,0.20136807229808149,not made dim or less bright,bright
+1262,0.0398615354117899,likely to turn out well in the future,bright
+1263,0.2720772191052217,made smooth and bright by or as if by rubbing; reflecting a sheen or glow,bright
+1264,0.30136572935453554,having strong or striking color,bright
+1265,0.0030961097607019733,characterized by quickness and ease in learning,bright
+1266,0.09413640735807643,characterized by happiness or gladness,bright
+1267,0.3755064574757012,emitting or reflecting light readily or in large amounts,bright
+1268,0.07897094268987277,having lots of light either natural or artificial,bright
+1269,0.022924557783052666,splendid,bright
+1270,0.2940976407708937,acting with a specific goal,shrewd
+1271,0.007389960953288484,marked by practical hardheaded intelligence,shrewd
+1272,0.42934273885625346,lacking in energy or will,passive
+1273,0.060227248632646224,peacefully resistant in response to injustice,passive
+1274,0.7180598705773029,expressing that the subject of the sentence is the patient of the action denoted by the verb,passive
+1275,0.30345099068339765,offensive or even (of persons) malicious,nasty
+1276,0.1008667832152832,exasperatingly difficult to handle or circumvent,nasty
+1277,0.18217925601209217,disgustingly dirty; filled or smeared with offensive matter,nasty
+1278,0.002117940843234854,characterized by obscenity,nasty
+1279,0.03605752483482797,pleasantly (even unrealistically) optimistic,pollyannaish
+1280,0.017938623379339977,in a vehement outcry,yelled
+1281,0.01282154374299628,fairly large in size,sizeable
+1282,0.07528259095448497,large in amount or extent or degree,sizeable
+1283,0.00653710078680808,diffusing warmth and friendliness,affable
+1284,0.008627607293362358,exhibiting native good judgment,commonsense
+1285,0.6550033325971408,being or made softer or less loud or clear,muted
+1286,0.1768369114815055,in a softened tone,muted
+1287,0.09801977258704389,(used of persons or artifacts) marked by independence and creativity in thought or action,imaginative
+1288,0.343034056503962,not disposed to cheat or defraud; not deceptive or fraudulent,honest
+1289,0.1792533199389592,not forged,honest
+1290,0.4273122152127789,gained or earned without cheating or stealing,honest
+1291,0.08406884101673949,worthy of being depended on,honest
+1292,0.42131730534981365,marked by truth,honest
+1293,0.09642803854335816,without dissimulation; frank,honest
+1294,0.4615682216456707,without pretensions,honest
+1295,0.48705772547587983,socially incorrect in behavior,unmannerly
+1296,0.08245968858226595,showing lack of care for consequences,irresponsible
+1297,0.00035139036397049153,lively and spirited,gallant
+1298,0.0058298892765647845,being attentive to women like an ideal knight,gallant
+1299,0.12099758046203568,having or displaying great dignity or nobility,gallant
+1300,0.001537797443843231,unflinching in battle or action,gallant
+1301,0.10325729292912295,lacking in sympathy and kindness,unsympathetic
+1302,0.4116276153061199,(of characters in literature or drama) tending to evoke antipathetic feelings,unsympathetic
+1303,0.17629124049215425,not agreeing with your tastes or expectations,unsympathetic
+1304,0.5386297579596552,not having an open mind,unsympathetic
+1305,0.49116481875827755,not sympathetic or disposed toward,unsympathetic
+1306,0.2793206713964722,lacking in light; not bright or harsh,subdued
+1307,0.6849830024766406,not brilliant or glaring,subdued
+1308,0.7065142756133765,restrained in style or quality,subdued
+1309,0.1768369114815055,in a softened tone,subdued
+1310,0.512754818492066,quieted and brought under control,subdued
+1311,0.001516142905282543,extraordinarily courageous,lionhearted
+1312,0.11293481978557648,hard to pass through because of dense growth,thick
+1313,0.059557335913733904,spoken as if with a thick tongue,thick
+1314,0.19589031650745947,having a short and solid form or stature,thick
+1315,0.02176308875063779,(used informally) stupid,thick
+1316,0.2943092288252684,(of darkness) densely dark,thick
+1317,0.41871178999606024,(used informally) associated on close terms,thick
+1318,0.0008147999771858412,abounding; having a lot of,thick
+1319,0.726229745771823,having component parts closely crowded together,thick
+1320,0.5199381571672752,not thin; of a specific thickness or of relatively great extent from one surface to the opposite usually in the smallest of the three solid dimensions,thick
+1321,0.20056986176766434,relatively dense in consistency,thick
+1322,0.5245492021814678,not consistent with or using reason,irrational
+1323,0.23663334338893288,real but not expressible as the quotient of two integers,irrational
+1324,0.7617611876110536,forming or capable of forming or molding or fashioning,formative
+1325,0.04966044446190565,capable of forming new cells and tissues,formative
+1326,0.0023622696178953136,friendly and open and willing to talk,talkative
+1327,0.01888998102604852,unwisely talking too much,talkative
+1328,0.003175696628858831,full of trivial conversation,talkative
+1329,0.5510678285783726,deficient in amount or quality or extent,stingy
+1330,0.17115903758797135,"unwilling to spend (money, time, resources, etc.)",stingy
+1331,0.7787113365907943,involved in or affected by or having a claim to or share in,interested
+1332,0.22270142128511122,easily broken or damaged or destroyed,frail
+1333,0.4336649901834395,"wanting in moral strength, courage, or will; having the attributes of man as opposed to e.g. divine beings",frail
+1334,0.2059332779023306,physically weak,frail
+1335,0.00041853943111650366,marked by excessive confidence,overconfident
+1336,0.05352083256700898,characterized by directness in manner or speech; without subtlety or evasion,forthright

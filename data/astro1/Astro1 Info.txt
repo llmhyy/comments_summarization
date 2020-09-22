@@ -1,0 +1,18 @@
+Dataset name: Astro1
+
+Selected sentences adapted from: 
+- Mars in Taurus (sentences 1-8)
+- Mercury in Gemini (sentences 9-11)
+- Moon in Aries (sentences 12-13)
+- Saturn in Virgo (sentences 14-17)
+- Sun in Sagittarius (sentences 18-19)
+- Venus in Cancer (sentence 20)
+
+Criterion for selecting sentences:
+Sentences should describe a "you".
+Sentences should not appear too complex.
+Sentences should be descriptions rather than normative statements.
+
+No. of sentences: 20
+
+
