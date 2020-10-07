@@ -1,0 +1,8 @@
+summary = summarize(clusters_dict, intersentence, sents_df, word_limit=90, coherence_threshold=0.55, redundancy_threshold=0.4)
+
+48: If you have Mercury in Gemini, you have an extremely adaptable, energetic, active, alert, curious, and versatile mind.
+64: Control of thought, word, and action is necessary in order to be successful.
+67: Mentally restless, you may change jobs or locations frequently, or do work that involves movement, travel, and variety.
+80: it is too easy for you to put too much value in material things.
+81: Comfort is important to you.
+85: Guard against possessiveness, jealousy, and taking the easy way out in your relationships.
