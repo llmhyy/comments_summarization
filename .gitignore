@@ -9,3 +9,8 @@ data/decomposer/.ipynb_checkpoints/lineariser_output_3-checkpoint.json
 data/planets-in-signs/.ipynb_checkpoints/planets-in-signs_pluto_data-checkpoint.json
 src/internal/__pycache__/
 data/
+src/internal/.ipynb_checkpoints/
+src/lexrank/.ipynb_checkpoints/
+src/lexrank/__pycache__/
+src/lexrank/utils/__pycache__/
+src/lexrank/algorithms/__pycache__/
